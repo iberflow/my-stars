@@ -350,6 +350,7 @@
 
 ## devops 
 
+- [gogrlx/grlx](https://github.com/gogrlx/grlx) - System management without the stinkin' dependencies!
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible) - Ansible inside Docker containers: Alpine, Ubuntu, Centos/Rocky & Debian with Ansible 2.13, 2.12, 2.11, 2.10 and 2.9 + Mitogen
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
@@ -479,6 +480,7 @@
 
 ## go 
 
+- [gogrlx/grlx](https://github.com/gogrlx/grlx) - System management without the stinkin' dependencies!
 - [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
@@ -535,6 +537,7 @@
 
 ## golang 
 
+- [gogrlx/grlx](https://github.com/gogrlx/grlx) - System management without the stinkin' dependencies!
 - [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [vishen/go-chromecast](https://github.com/vishen/go-chromecast) - cli for Google Chromecast, Home devices and Cast Groups
