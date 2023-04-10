@@ -210,6 +210,7 @@
 - [humhub/humhub](https://github.com/humhub/humhub) - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+- [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
 
 ## awesome-list 
 
@@ -217,6 +218,7 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [Xel/Blockchain-stuff](https://github.com/Xel/Blockchain-stuff) - Blockchain and Crytocurrency Resources
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+- [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
 
 ## aws 
 
