@@ -91,6 +91,7 @@
 
 ## Go 
 
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [gogrlx/grlx](https://github.com/gogrlx/grlx) - System management without the stinkin' dependencies!
 - [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
@@ -540,6 +541,7 @@
 
 ## TypeScript 
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [umstek/parcel-typescript-react-tailwind](https://github.com/umstek/parcel-typescript-react-tailwind) - Trying-out Tailwind CSS with Parcel, TypeScript and React
 - [silencesys/silentbox](https://github.com/silencesys/silentbox) - A lightbox inspired Vue.js component.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
