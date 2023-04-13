@@ -91,6 +91,9 @@
 
 ## Go 
 
+- [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [gogrlx/grlx](https://github.com/gogrlx/grlx) - System management without the stinkin' dependencies!
 - [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis
@@ -400,7 +403,7 @@
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [monospice/laravel-redis-sentinel-drivers](https://github.com/monospice/laravel-redis-sentinel-drivers) - Redis Sentinel integration for Laravel and Lumen.
 - [cooperaj/laravel-redis-sentinel](https://github.com/cooperaj/laravel-redis-sentinel) - Provides a Redis driver for Laravel that is Sentinel aware
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
 - [hirak/prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
 - [avto-dev/roadrunner-laravel](https://github.com/avto-dev/roadrunner-laravel) - [ABANDONED] Moved to https://github.com/spiral/roadrunner-laravel
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) - A code generation tool for Laravel developers.
