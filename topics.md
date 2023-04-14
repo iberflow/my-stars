@@ -454,6 +454,7 @@
 
 ## framework 
 
+- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
@@ -1166,6 +1167,7 @@
 
 ## php 
 
+- [nmeri17/suphle](https://github.com/nmeri17/suphle) - Opinionated PHP framework for building performant, extensible, and testable web applications
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 78 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
 - [spatie/package-skeleton-php](https://github.com/spatie/package-skeleton-php) - A skeleton repository for Spatie's PHP Packages
