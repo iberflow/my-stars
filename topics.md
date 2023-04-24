@@ -936,6 +936,7 @@
 
 ## nodejs 
 
+- [MaksZhukov/strapi-plugin-generate-data](https://github.com/MaksZhukov/strapi-plugin-generate-data) - This plugin is for generating data for your content-types for strapi
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
@@ -1391,6 +1392,7 @@
 
 ## typescript 
 
+- [MaksZhukov/strapi-plugin-generate-data](https://github.com/MaksZhukov/strapi-plugin-generate-data) - This plugin is for generating data for your content-types for strapi
 - [umstek/parcel-typescript-react-tailwind](https://github.com/umstek/parcel-typescript-react-tailwind) - Trying-out Tailwind CSS with Parcel, TypeScript and React
 - [hubvue/json2type](https://github.com/hubvue/json2type) - convert JSON of a specific format to a type structure(support Typescript type and Go type)
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
