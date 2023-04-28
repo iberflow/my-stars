@@ -92,6 +92,9 @@
 
 ## Go 
 
+- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
+- [ory/fosite-example](https://github.com/ory/fosite-example) - 
+- [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 - [openshift/osin](https://github.com/openshift/osin) - Golang OAuth2 server library
 - [golang/oauth2](https://github.com/golang/oauth2) - Go OAuth2
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
