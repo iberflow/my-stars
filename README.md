@@ -20,6 +20,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
@@ -57,6 +58,7 @@
 
 ## C 
 
+- [go-gl/glfw](https://github.com/go-gl/glfw) - Go bindings for GLFW 3
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
@@ -92,6 +94,9 @@
 
 ## Go 
 
+- [richardwilkes/unison](https://github.com/richardwilkes/unison) - A unified graphical user experience toolkit for Go desktop applications
+- [energye/energy](https://github.com/energye/energy) - Energy is Golang based on Chromium for building Windows、MacOSX、Linux desktop applications
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
 - [ory/fosite-example](https://github.com/ory/fosite-example) - 
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
@@ -362,6 +367,10 @@
 
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 
+## Jupyter Notebook 
+
+- [pszemraj/ai-msgbot](https://github.com/pszemraj/ai-msgbot) - Training & Implementation of chatbots leveraging GPT-like architecture with the aitextgen package to enable dynamic conversations.
+
 ## Makefile 
 
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
@@ -482,6 +491,8 @@
 
 ## Python 
 
+- [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
+- [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
