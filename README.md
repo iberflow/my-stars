@@ -22,6 +22,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -58,6 +59,7 @@
 
 ## C 
 
+- [robotn/gohook](https://github.com/robotn/gohook) - GoHook, Go global keyboard and mouse listener hook
 - [go-gl/glfw](https://github.com/go-gl/glfw) - Go bindings for GLFW 3
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
@@ -94,6 +96,8 @@
 
 ## Go 
 
+- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [richardwilkes/unison](https://github.com/richardwilkes/unison) - A unified graphical user experience toolkit for Go desktop applications
 - [energye/energy](https://github.com/energye/energy) - Energy is Golang based on Chromium for building Windows、MacOSX、Linux desktop applications
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
@@ -375,6 +379,10 @@
 
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
+## Markdown 
+
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
 ## Nunjucks 
 
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
@@ -526,6 +534,8 @@
 
 ## Rust 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [AgilData/gibbs-mysql-spyglass](https://github.com/AgilData/gibbs-mysql-spyglass) - Gibbs MySQL Spyglass
@@ -536,6 +546,8 @@
 
 ## Shell 
 
+- [ncko/mac-dev-playbook](https://github.com/ncko/mac-dev-playbook) - Ansible playbook for quickly setting up new mac workstations. Forked from @geerlingguy's mac-dev-playbook repo, inspired by @ThePrimeagen's developer productivity course on Frontend Masters
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [olivernybroe/action-conflict-finder](https://github.com/olivernybroe/action-conflict-finder) - A Github action for finding merge conflicts
 - [nichobi/sponsorblockcast](https://github.com/nichobi/sponsorblockcast) - A shell script that skips sponsored YouTube content on all local Chromecasts
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
@@ -569,6 +581,7 @@
 
 ## TypeScript 
 
+- [codeaye/auxilium](https://github.com/codeaye/auxilium) - Spotlight! but for Developers.
 - [MaksZhukov/strapi-plugin-generate-data](https://github.com/MaksZhukov/strapi-plugin-generate-data) - This plugin is for generating data for your content-types for strapi
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
