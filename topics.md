@@ -68,6 +68,7 @@
 - [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
+- [homebrew](#homebrew)
 - [html](#html)
 - [http](#http)
 - [image-processing](#image-processing)
@@ -84,6 +85,7 @@
 - [library](#library)
 - [linux](#linux)
 - [localization](#localization)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -183,6 +185,7 @@
 
 ## angular 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
 - [krakenjs/zoid](https://github.com/krakenjs/zoid) - Cross domain components
 - [Strider-CD/strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
@@ -190,6 +193,8 @@
 
 ## ansible 
 
+- [ncko/mac-dev-playbook](https://github.com/ncko/mac-dev-playbook) - Ansible playbook for quickly setting up new mac workstations. Forked from @geerlingguy's mac-dev-playbook repo, inspired by @ThePrimeagen's developer productivity course on Frontend Masters
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [RealOrangeOne/infrastructure](https://github.com/RealOrangeOne/infrastructure) - Servers, containers and stuff
 - [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible) - Ansible inside Docker containers: Alpine, Ubuntu, Centos/Rocky & Debian with Ansible 2.13, 2.12, 2.11, 2.10 and 2.9 + Mitogen
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
@@ -218,9 +223,11 @@
 ## artificial-intelligence 
 
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 ## automation 
 
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [inlife/nexrender](https://github.com/inlife/nexrender) - 📹  Data-driven render automation for After Effects
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
@@ -425,6 +432,7 @@
 
 ## documentation 
 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [mvrilo/go-redoc](https://github.com/mvrilo/go-redoc) - go-redoc is an embedded OpenAPI/Swagger documentation ui for Go using ReDoc
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
@@ -532,6 +540,9 @@
 
 ## go 
 
+- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
+- [robotn/gohook](https://github.com/robotn/gohook) - GoHook, Go global keyboard and mouse listener hook
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [go-gl/glfw](https://github.com/go-gl/glfw) - Go bindings for GLFW 3
 - [energye/energy](https://github.com/energye/energy) - Energy is Golang based on Chromium for building Windows、MacOSX、Linux desktop applications
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
@@ -594,6 +605,9 @@
 
 ## golang 
 
+- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
+- [robotn/gohook](https://github.com/robotn/gohook) - GoHook, Go global keyboard and mouse listener hook
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [richardwilkes/unison](https://github.com/richardwilkes/unison) - A unified graphical user experience toolkit for Go desktop applications
 - [go-gl/glfw](https://github.com/go-gl/glfw) - Go bindings for GLFW 3
 - [energye/energy](https://github.com/energye/energy) - Energy is Golang based on Chromium for building Windows、MacOSX、Linux desktop applications
@@ -670,6 +684,9 @@
 
 ## hacktoberfest 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
@@ -720,6 +737,10 @@
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 
+## homebrew 
+
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
+
 ## html 
 
 - [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) - Golang commandline wrapper for wkhtmltopdf
@@ -769,6 +790,7 @@
 
 ## javascript 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
@@ -885,6 +907,7 @@
 
 ## linux 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [richardwilkes/unison](https://github.com/richardwilkes/unison) - A unified graphical user experience toolkit for Go desktop applications
 - [energye/energy](https://github.com/energye/energy) - Energy is Golang based on Chromium for building Windows、MacOSX、Linux desktop applications
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
@@ -899,6 +922,10 @@
 
 - [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 10 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). 
 
+## mac 
+
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
+
 ## machine-learning 
 
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
@@ -907,6 +934,9 @@
 
 ## macos 
 
+- [ncko/mac-dev-playbook](https://github.com/ncko/mac-dev-playbook) - Ansible playbook for quickly setting up new mac workstations. Forked from @geerlingguy's mac-dev-playbook repo, inspired by @ThePrimeagen's developer productivity course on Frontend Masters
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [richardwilkes/unison](https://github.com/richardwilkes/unison) - A unified graphical user experience toolkit for Go desktop applications
 - [energye/energy](https://github.com/energye/energy) - Energy is Golang based on Chromium for building Windows、MacOSX、Linux desktop applications
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
@@ -1025,6 +1055,7 @@
 
 ## others 
 
+- [codeaye/auxilium](https://github.com/codeaye/auxilium) - Spotlight! but for Developers.
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku
 - [ory/fosite-example](https://github.com/ory/fosite-example) - 
 - [openshift/osin](https://github.com/openshift/osin) - Golang OAuth2 server library
@@ -1318,6 +1349,7 @@
 
 ## react 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [ory/kratos-selfservice-ui-react-nextjs](https://github.com/ory/kratos-selfservice-ui-react-nextjs) - A full reference implementation for designing your own login, registration, recovery, verification, ... pages using Ory Kratos' APIs.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
@@ -1370,6 +1402,8 @@
 
 ## rust 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 
 ## security 
@@ -1399,6 +1433,7 @@
 
 ## shell 
 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [neatshell/generator-bash](https://github.com/neatshell/generator-bash) - A generator to scaffold out a shell script, with arguments, options and flags handling
 - [pwittchen/spotify-cli-linux](https://github.com/pwittchen/spotify-cli-linux) - 🎶 A command line interface to Spotify on Linux
@@ -1416,6 +1451,7 @@
 
 ## svelte 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
 
@@ -1439,6 +1475,7 @@
 
 ## terminal 
 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 - [ines/termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await
@@ -1492,6 +1529,7 @@
 
 ## vuejs 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [silencesys/silentbox](https://github.com/silencesys/silentbox) - A lightbox inspired Vue.js component.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [jm-david/emoji-mart-vue](https://github.com/jm-david/emoji-mart-vue) - One component to pick them all 👊🏼
@@ -1514,6 +1552,7 @@
 
 ## windows 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [richardwilkes/unison](https://github.com/richardwilkes/unison) - A unified graphical user experience toolkit for Go desktop applications
 - [energye/energy](https://github.com/energye/energy) - Energy is Golang based on Chromium for building Windows、MacOSX、Linux desktop applications
 - [mattn/go-colorable](https://github.com/mattn/go-colorable) - 
