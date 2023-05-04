@@ -299,7 +299,6 @@
 - [fanxiong/crowdsale-contracts](https://github.com/fanxiong/crowdsale-contracts) - The smart contracts for the DATA token and the DataBrokerDAO early token sale
 - [jorangreef/sudo-prompt](https://github.com/jorangreef/sudo-prompt) - Run a command using sudo, prompting the user with an OS dialog if necessary.
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
-- [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 - [jm-david/emoji-mart-vue](https://github.com/jm-david/emoji-mart-vue) - One component to pick them all 👊🏼
 - [fireyy/vue-emoji-mart](https://github.com/fireyy/vue-emoji-mart) - Deprecated. Try emoji-mart-vue: https://github.com/jm-david/emoji-mart-vue instead.
 - [iotaledger/legacy-wallet-use-trinity-wallet-instead](https://github.com/iotaledger/legacy-wallet-use-trinity-wallet-instead) - IOTA Wallet
@@ -608,6 +607,7 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+- [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [tlaverdure/laravel-echo-server](https://github.com/tlaverdure/laravel-echo-server) - Socket.io server for Laravel Echo
