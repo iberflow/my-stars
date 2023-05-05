@@ -12,9 +12,11 @@
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
+- [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Go](#go)
+- [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
 - [Java](#java)
@@ -82,6 +84,10 @@
 - [graniet/chromebackdoor](https://github.com/graniet/chromebackdoor) - Chromebackdoor is a PoC of pentest tool, this tool use a MITB technique for generate a windows executable ".exe" after launch run a malicious extension or  script on most popular browsers, and send al
 - [scotch-io/meteor-slack](https://github.com/scotch-io/meteor-slack) - Code for the scotch.io tutorial by Daniel (danyll.com)
 - [Anonyfox/node-webkit-hipster-seed](https://github.com/Anonyfox/node-webkit-hipster-seed) - Bootstrap a crossplatform Desktop Application using tools you probably never heard of.
+
+## Crystal 
+
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
 ## Dockerfile 
 
@@ -237,6 +243,10 @@
 - [ButterCMS/buttercms-go](https://github.com/ButterCMS/buttercms-go) - ButterCMS Go API Wrapper
 - [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
 
+## Groovy 
+
+- [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
+
 ## HCL 
 
 - [materialize-labs/terraform_laravel](https://github.com/materialize-labs/terraform_laravel) - Terraform IaC for Materialize hosted architecture, utilizing PHP, MySQL, Redis, ElasticSearch, S3.
@@ -368,6 +378,7 @@
 
 ## Jinja 
 
+- [superset1/Ansible_role_mongodb](https://github.com/superset1/Ansible_role_mongodb) - 
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 
 ## Jupyter Notebook 
@@ -498,6 +509,7 @@
 
 ## Python 
 
+- [ansible-collections/community.mongodb](https://github.com/ansible-collections/community.mongodb) - MongoDB Ansible Collection
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
