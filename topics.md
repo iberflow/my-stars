@@ -39,6 +39,7 @@
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
+- [dart](#dart)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
@@ -375,6 +376,10 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
 
+## dart 
+
+- [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - High-level memory-safe binding generator for Flutter/Dart &lt;-&gt; Rust
+
 ## data-science 
 
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
@@ -503,6 +508,7 @@
 
 ## flutter 
 
+- [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - High-level memory-safe binding generator for Flutter/Dart &lt;-&gt; Rust
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React
 
@@ -571,7 +577,7 @@
 - [mvrilo/go-redoc](https://github.com/mvrilo/go-redoc) - go-redoc is an embedded OpenAPI/Swagger documentation ui for Go using ReDoc
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
 - [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) - Golang commandline wrapper for wkhtmltopdf
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication solution for the passkey era.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Drop-in auth and user management for the passkey era.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [unidoc/unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
 - [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
@@ -699,6 +705,7 @@
 
 ## hacktoberfest 
 
+- [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - High-level memory-safe binding generator for Flutter/Dart &lt;-&gt; Rust
 - [ansible-collections/community.mongodb](https://github.com/ansible-collections/community.mongodb) - MongoDB Ansible Collection
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -1423,6 +1430,7 @@
 
 ## rust 
 
+- [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - High-level memory-safe binding generator for Flutter/Dart &lt;-&gt; Rust
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
@@ -1522,7 +1530,7 @@
 - [MaksZhukov/strapi-plugin-generate-data](https://github.com/MaksZhukov/strapi-plugin-generate-data) - This plugin is for generating data for your content-types for strapi
 - [umstek/parcel-typescript-react-tailwind](https://github.com/umstek/parcel-typescript-react-tailwind) - Trying-out Tailwind CSS with Parcel, TypeScript and React
 - [hubvue/json2type](https://github.com/hubvue/json2type) - convert JSON of a specific format to a type structure(support Typescript type and Go type)
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication solution for the passkey era.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Drop-in auth and user management for the passkey era.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [davidnguyen11/web-extension-boilerplate](https://github.com/davidnguyen11/web-extension-boilerplate) - The web extension boilerplate help to set up project quickly using typescript, jest, webpack, githook, prettier and github actions
 - [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
