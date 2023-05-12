@@ -155,6 +155,7 @@
 
 ## ai 
 
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [pszemraj/ai-msgbot](https://github.com/pszemraj/ai-msgbot) - Training & Implementation of chatbots leveraging GPT-like architecture with the aitextgen package to enable dynamic conversations.
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -408,6 +409,7 @@
 
 ## deep-learning 
 
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
 - [pszemraj/ai-msgbot](https://github.com/pszemraj/ai-msgbot) - Training & Implementation of chatbots leveraging GPT-like architecture with the aitextgen package to enable dynamic conversations.
 
@@ -558,6 +560,8 @@
 
 ## go 
 
+- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
+- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [robotn/gohook](https://github.com/robotn/gohook) - GoHook, Go global keyboard and mouse listener hook
@@ -625,6 +629,8 @@
 
 ## golang 
 
+- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
+- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [robotn/gohook](https://github.com/robotn/gohook) - GoHook, Go global keyboard and mouse listener hook
@@ -922,6 +928,7 @@
 
 ## library 
 
+- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) - Authenticator via oauth2, direct, email and telegram
@@ -959,6 +966,7 @@
 
 ## macos 
 
+- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [ncko/mac-dev-playbook](https://github.com/ncko/mac-dev-playbook) - Ansible playbook for quickly setting up new mac workstations. Forked from @geerlingguy's mac-dev-playbook repo, inspired by @ThePrimeagen's developer productivity course on Frontend Masters
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
@@ -1587,6 +1595,7 @@
 
 ## windows 
 
+- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [richardwilkes/unison](https://github.com/richardwilkes/unison) - A unified graphical user experience toolkit for Go desktop applications
 - [energye/energy](https://github.com/energye/energy) - Energy is Golang based on Chromium for building Windows、MacOSX、Linux desktop applications
