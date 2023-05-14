@@ -1131,7 +1131,7 @@
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 - [fregante/webext-options-sync-per-domain](https://github.com/fregante/webext-options-sync-per-domain) - Helps you manage and autosave your extension's options, separately for each additional permission
 - [thephpleague/oauth2-facebook](https://github.com/thephpleague/oauth2-facebook) - Facebook Provider for the OAuth 2.0 Client
-- [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
+- [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 - [projectdiscovery/retryabledns](https://github.com/projectdiscovery/retryabledns) - Retryable DNS client in Go
 - [blugelabs/bluge](https://github.com/blugelabs/bluge) - indexing library for Go
 - [taketheumbrella/Aurelija-Gerda](https://github.com/taketheumbrella/Aurelija-Gerda) - 
