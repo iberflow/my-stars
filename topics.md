@@ -1090,6 +1090,7 @@
 
 ## others 
 
+- [adoxography/tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) - Scrollbar plugin for Tailwind CSS
 - [superset1/Ansible_role_mongodb](https://github.com/superset1/Ansible_role_mongodb) - 
 - [codeaye/auxilium](https://github.com/codeaye/auxilium) - Spotlight! but for Developers.
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku
