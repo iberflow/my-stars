@@ -97,6 +97,8 @@
 
 ## Go 
 
+- [zolia/go-ci](https://github.com/zolia/go-ci) - 
+- [iineva/ipa-server](https://github.com/iineva/ipa-server) - Upload and install Apple ipa and Android apk in web.
 - [iineva/bom](https://github.com/iineva/bom) - Apple iOS / macOS Assets.car decoder, write in golang
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
