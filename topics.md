@@ -117,6 +117,7 @@
 - [php](#php)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
+- [programming](#programming)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -231,6 +232,7 @@
 
 ## automation 
 
+- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [inlife/nexrender](https://github.com/inlife/nexrender) - 📹  Data-driven render automation for After Effects
@@ -560,6 +562,8 @@
 
 ## go 
 
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
@@ -629,6 +633,8 @@
 
 ## golang 
 
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
@@ -1359,6 +1365,10 @@
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of data in real-time. Built on top of Lucene.
 - [go-xorm/xorm](https://github.com/go-xorm/xorm) - Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm
 
+## programming 
+
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+
 ## publishing 
 
 - [austintoddj/canvas](https://github.com/austintoddj/canvas) - A Laravel publishing platform
@@ -1543,6 +1553,7 @@
 
 ## testing 
 
+- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 
@@ -1595,6 +1606,7 @@
 
 ## web 
 
+- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
