@@ -97,6 +97,8 @@
 
 ## Go 
 
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [zolia/go-ci](https://github.com/zolia/go-ci) - 
 - [iineva/ipa-server](https://github.com/iineva/ipa-server) - Upload and install Apple ipa and Android apk in web.
 - [iineva/bom](https://github.com/iineva/bom) - Apple iOS / macOS Assets.car decoder, write in golang
