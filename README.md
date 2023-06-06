@@ -97,6 +97,7 @@
 
 ## Go 
 
+- [djherbis/times](https://github.com/djherbis/times) - #golang file times (atime, mtime, ctime, btime)
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [yalue/merged_fs](https://github.com/yalue/merged_fs) - Implements Go's (golang) io/fs filesystem interface by merging other io/fs instances.
