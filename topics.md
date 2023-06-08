@@ -575,6 +575,7 @@
 
 ## go 
 
+- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
@@ -1321,6 +1322,7 @@
 
 ## p2p 
 
+- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 
 ## parsing 
