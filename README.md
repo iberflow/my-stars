@@ -97,6 +97,7 @@
 
 ## Go 
 
+- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [djherbis/times](https://github.com/djherbis/times) - #golang file times (atime, mtime, ctime, btime)
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
