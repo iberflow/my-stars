@@ -1119,6 +1119,7 @@
 
 ## others 
 
+- [mmtracker/mongowatch](https://github.com/mmtracker/mongowatch) - mongo watcher to follow event log of target DB and execute registered handlers
 - [djherbis/times](https://github.com/djherbis/times) - #golang file times (atime, mtime, ctime, btime)
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [zolia/go-ci](https://github.com/zolia/go-ci) - 
