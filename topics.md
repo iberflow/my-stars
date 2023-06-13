@@ -1119,6 +1119,8 @@
 
 ## others 
 
+- [Maldris/mathparse](https://github.com/Maldris/mathparse) - golang library for parsing maths expression strings
+- [marcak/calc](https://github.com/marcak/calc) - Calc is a package that provides the tools to evaluate simple numerical expressions
 - [mmtracker/mongowatch](https://github.com/mmtracker/mongowatch) - mongo watcher to follow event log of target DB and execute registered handlers
 - [djherbis/times](https://github.com/djherbis/times) - #golang file times (atime, mtime, ctime, btime)
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
