@@ -97,6 +97,7 @@
 
 ## Go 
 
+- [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service for defining, querying, and auditing application authorization models and access rules.
 - [Maldris/mathparse](https://github.com/Maldris/mathparse) - golang library for parsing maths expression strings
 - [marcak/calc](https://github.com/marcak/calc) - Calc is a package that provides the tools to evaluate simple numerical expressions
 - [mmtracker/mongowatch](https://github.com/mmtracker/mongowatch) - mongo watcher to follow event log of target DB and execute registered handlers
@@ -586,7 +587,7 @@
 - [rjsocha/wyga-php](https://github.com/rjsocha/wyga-php) - Docker PHP modular system
 - [richarvey/nginx-php-fpm](https://github.com/richarvey/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
 - [blacktop/docker-elasticsearch-alpine](https://github.com/blacktop/docker-elasticsearch-alpine) - Alpine Linux based Elasticsearch Docker Image
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated Pentest Recon Scanner & Attack Surface Management Platform | Sn1per
 - [mh-cbon/go-github-release](https://github.com/mh-cbon/go-github-release) - Guide to release automation
 - [karalabe/xgo](https://github.com/karalabe/xgo) - Go CGO cross compiler
 - [screetsec/Dracnmap](https://github.com/screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and dif
