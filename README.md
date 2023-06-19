@@ -284,7 +284,7 @@
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database for storing and analyzing massive amounts of data in real-time. Built on top of Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in real-time. It is PostgreSQL-compatible, and based on Lucene.
 - [codingforinterviews/practice-problems](https://github.com/codingforinterviews/practice-problems) - Prepare for programming interviews with pretty practice problems.
 
 ## JavaScript 
