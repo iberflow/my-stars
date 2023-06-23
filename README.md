@@ -591,7 +591,7 @@
 - [rjsocha/wyga-php](https://github.com/rjsocha/wyga-php) - Docker PHP modular system
 - [richarvey/nginx-php-fpm](https://github.com/richarvey/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
 - [blacktop/docker-elasticsearch-alpine](https://github.com/blacktop/docker-elasticsearch-alpine) - Alpine Linux based Elasticsearch Docker Image
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - External Attack Surface Management Platform
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
 - [mh-cbon/go-github-release](https://github.com/mh-cbon/go-github-release) - Guide to release automation
 - [karalabe/xgo](https://github.com/karalabe/xgo) - Go CGO cross compiler
 - [screetsec/Dracnmap](https://github.com/screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and dif
