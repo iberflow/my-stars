@@ -472,7 +472,7 @@
 - [orchidsoftware/platform](https://github.com/orchidsoftware/platform) - Orchid is a @laravel package that allows for rapid application development of back-office applications, admin/user panels, and dashboards.
 - [WhichBrowser/Parser-PHP](https://github.com/WhichBrowser/Parser-PHP) - Browser sniffing gone too far — A useragent parser library for PHP
 - [pyrocms/pyrocms](https://github.com/pyrocms/pyrocms) - Pyro is an experienced and powerful Laravel PHP CMS.
-- [austintoddj/canvas](https://github.com/austintoddj/canvas) - A Laravel publishing platform
+- [austintoddj/canvas](https://github.com/austintoddj/canvas) - Publishing on your own terms
 - [laragen/laragen](https://github.com/laragen/laragen) - A Generator for Laravel 5
 - [nette/php-generator](https://github.com/nette/php-generator) - 🐘 Generates neat PHP code for you. Supports new PHP 8.2 features.
 - [reactphp/reactphp](https://github.com/reactphp/reactphp) - Event-driven, non-blocking I/O with PHP.
