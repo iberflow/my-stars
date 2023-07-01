@@ -954,7 +954,7 @@
 - [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - 🍪 Write gorgeous documentation for your products using Markdown inside your Laravel app.
 - [orchidsoftware/platform](https://github.com/orchidsoftware/platform) - Orchid is a @laravel package that allows for rapid application development of back-office applications, admin/user panels, and dashboards.
 - [pyrocms/pyrocms](https://github.com/pyrocms/pyrocms) - Pyro is an experienced and powerful Laravel PHP CMS.
-- [austintoddj/canvas](https://github.com/austintoddj/canvas) - A Laravel publishing platform
+- [austintoddj/canvas](https://github.com/austintoddj/canvas) - Publishing on your own terms
 - [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
 - [GrafiteInc/Builder](https://github.com/GrafiteInc/Builder) - Prepare your Laravel apps incredibly fast, with various commands, services, facades and boilerplates.
 - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
@@ -1418,7 +1418,7 @@
 
 ## publishing 
 
-- [austintoddj/canvas](https://github.com/austintoddj/canvas) - A Laravel publishing platform
+- [austintoddj/canvas](https://github.com/austintoddj/canvas) - Publishing on your own terms
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 
 ## pwa 
