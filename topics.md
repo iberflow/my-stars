@@ -1162,7 +1162,7 @@
 - [go-openapi/spec](https://github.com/go-openapi/spec) - openapi specification object model
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [libgit2/git2go](https://github.com/libgit2/git2go) - Git to Go; bindings for libgit2. Like McDonald's but tastier.
-- [icyphox/legit](https://github.com/icyphox/legit) - web frontend for git, written in go
+- [icyphox/legit](https://github.com/icyphox/legit) - web frontend for git
 - [sosedoff/gitkit](https://github.com/sosedoff/gitkit) - Git toolkit for Go: Smart HTTP server, SSH server, hook receiver
 - [signintech/gopdf](https://github.com/signintech/gopdf) - A simple library for generating PDF written in Go lang
 - [maizzle/starter-postmark](https://github.com/maizzle/starter-postmark) - A Maizzle starter based on Postmark's transactional email templates.
