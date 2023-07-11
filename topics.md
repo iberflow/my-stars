@@ -161,6 +161,7 @@
 
 ## ai 
 
+- [the-crypt-keeper/can-ai-code](https://github.com/the-crypt-keeper/can-ai-code) - Self-evaluating interview for AI coders
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [pszemraj/ai-msgbot](https://github.com/pszemraj/ai-msgbot) - Training & Implementation of chatbots leveraging GPT-like architecture with the aitextgen package to enable dynamic conversations.
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
@@ -1599,6 +1600,7 @@
 
 ## terraform 
 
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source alternative to Terraform Cloud & Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI/CD pipeline ⚡️
 - [jmccann/drone-terraform](https://github.com/jmccann/drone-terraform) - Drone plugin for triggering Terraform deployments
 - [solidnerd/terraform-k8s-hcloud](https://github.com/solidnerd/terraform-k8s-hcloud) - A simple project to spin your k8s cluster with terraform, kubeadm on hcloud
 
