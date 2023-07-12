@@ -98,8 +98,8 @@
 
 ## Go 
 
-- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source alternative to Terraform Cloud & Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI/CD pipeline ⚡️
-- [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service for defining, querying, and auditing application authorization models and access rules.
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source alternative to Terraform Cloud & Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI pipeline ⚡️
+- [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules.
 - [Maldris/mathparse](https://github.com/Maldris/mathparse) - golang library for parsing maths expression strings
 - [marcak/calc](https://github.com/marcak/calc) - Calc is a package that provides the tools to evaluate simple numerical expressions
 - [mmtracker/mongowatch](https://github.com/mmtracker/mongowatch) - mongo watcher to follow event log of target DB and execute registered handlers
