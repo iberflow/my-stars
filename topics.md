@@ -352,6 +352,7 @@
 
 ## cpp 
 
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [eclipse/upm](https://github.com/eclipse/upm) - UPM is a high level repository that provides software drivers for a wide variety of commonly used sensors and actuators. These software drivers interact with the underlying hardware platform through c
 
@@ -641,7 +642,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [jomoespe/go-tls-mutual-auth](https://github.com/jomoespe/go-tls-mutual-auth) - SSL/TLS mutual authentication example in Go, and layer 4 (tcp) load balancing
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
-- [traefik/paerser](https://github.com/traefik/paerser) - 
+- [traefik/paerser](https://github.com/traefik/paerser) - Loads configuration from many sources.
 - [rgzr/sshtun](https://github.com/rgzr/sshtun) - Go package to create SSH tunnels
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
@@ -717,7 +718,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [jomoespe/go-tls-mutual-auth](https://github.com/jomoespe/go-tls-mutual-auth) - SSL/TLS mutual authentication example in Go, and layer 4 (tcp) load balancing
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
-- [traefik/paerser](https://github.com/traefik/paerser) - 
+- [traefik/paerser](https://github.com/traefik/paerser) - Loads configuration from many sources.
 - [rgzr/sshtun](https://github.com/rgzr/sshtun) - Go package to create SSH tunnels
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
@@ -918,7 +919,7 @@
 - [liip/sheriff](https://github.com/liip/sheriff) - Conditional marshalling for Go
 - [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go
 - [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data
-- [traefik/paerser](https://github.com/traefik/paerser) - 
+- [traefik/paerser](https://github.com/traefik/paerser) - Loads configuration from many sources.
 
 ## kubernetes 
 
