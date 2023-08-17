@@ -101,6 +101,7 @@
 
 ## Go 
 
+- [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [inconshreveable/go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs
 - [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate) - Enable your Go applications to self update
 - [SpenserCai/sd-webui-go](https://github.com/SpenserCai/sd-webui-go) - This is a Go language version of the SDK based on stable-diffusion-webui. In your code, you can directly use the API interfaces of stable-diffusion-webui through object-oriented operations, instead of
