@@ -239,6 +239,7 @@
 
 ## artificial-intelligence 
 
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
@@ -316,6 +317,7 @@
 
 ## chatgpt 
 
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
@@ -1183,6 +1185,7 @@
 
 ## others 
 
+- [thinkdata-works/gopipeline](https://github.com/thinkdata-works/gopipeline) - Scalable concurrent go pipeline for running multi-step async processes
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [inconshreveable/go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs
 - [kinde-oss/kinde-php-sdk](https://github.com/kinde-oss/kinde-php-sdk) - Kinde PHP SDK
