@@ -113,7 +113,7 @@
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
-- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source alternative to Terraform Cloud & Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI pipeline ⚡️
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules.
 - [Maldris/mathparse](https://github.com/Maldris/mathparse) - golang library for parsing maths expression strings
 - [marcak/calc](https://github.com/marcak/calc) - Calc is a package that provides the tools to evaluate simple numerical expressions
