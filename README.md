@@ -103,7 +103,7 @@
 
 - [thinkdata-works/gopipeline](https://github.com/thinkdata-works/gopipeline) - Scalable concurrent go pipeline for running multi-step async processes
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go
-- [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - GitHub Terminal User Interface
+- [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - A terminal user interface for Github
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [inconshreveable/go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs
 - [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate) - Enable your Go applications to self update
@@ -644,6 +644,7 @@
 
 ## TypeScript 
 
+- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [kabirbaidhya/keycode-js](https://github.com/kabirbaidhya/keycode-js) - A javascript package with key code constants.
