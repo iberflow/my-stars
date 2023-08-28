@@ -61,6 +61,7 @@
 - [es6](#es6)
 - [eslint](#eslint)
 - [ethereum](#ethereum)
+- [finance](#finance)
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [framework](#framework)
@@ -343,7 +344,7 @@
 
 ## cli 
 
-- [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - GitHub Terminal User Interface
+- [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - A terminal user interface for Github
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [inlife/nexrender](https://github.com/inlife/nexrender) - 📹  Data-driven render automation for After Effects
 - [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
@@ -546,6 +547,10 @@
 - [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 - [Xel/Blockchain-stuff](https://github.com/Xel/Blockchain-stuff) - Blockchain and Crytocurrency Resources
 
+## finance 
+
+- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
+
 ## firefox 
 
 - [davidnguyen11/web-extension-boilerplate](https://github.com/davidnguyen11/web-extension-boilerplate) - The web extension boilerplate help to set up project quickly using typescript, jest, webpack, githook, prettier and github actions
@@ -600,7 +605,7 @@
 
 ## github 
 
-- [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - GitHub Terminal User Interface
+- [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - A terminal user interface for Github
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -609,12 +614,12 @@
 
 ## github-api 
 
-- [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - GitHub Terminal User Interface
+- [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - A terminal user interface for Github
 
 ## go 
 
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go
-- [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - GitHub Terminal User Interface
+- [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - A terminal user interface for Github
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate) - Enable your Go applications to self update
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
@@ -692,7 +697,7 @@
 ## golang 
 
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go
-- [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - GitHub Terminal User Interface
+- [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - A terminal user interface for Github
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [SpenserCai/sd-webui-go](https://github.com/SpenserCai/sd-webui-go) - This is a Go language version of the SDK based on stable-diffusion-webui. In your code, you can directly use the API interfaces of stable-diffusion-webui through object-oriented operations, instead of
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
@@ -897,6 +902,7 @@
 
 ## javascript 
 
+- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [kabirbaidhya/keycode-js](https://github.com/kabirbaidhya/keycode-js) - A javascript package with key code constants.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1646,7 +1652,7 @@
 
 ## terminal 
 
-- [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - GitHub Terminal User Interface
+- [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - A terminal user interface for Github
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
@@ -1669,6 +1675,7 @@
 
 ## typescript 
 
+- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [kabirbaidhya/keycode-js](https://github.com/kabirbaidhya/keycode-js) - A javascript package with key code constants.
 - [vnphanquang/svelte-put](https://github.com/vnphanquang/svelte-put) - Useful svelte stuff to put in your projects
