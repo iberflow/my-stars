@@ -1197,7 +1197,7 @@
 - [kinde-oss/kinde-php-sdk](https://github.com/kinde-oss/kinde-php-sdk) - Kinde PHP SDK
 - [mesosphere/traefik-forward-auth](https://github.com/mesosphere/traefik-forward-auth) - 
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter) - Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - additional functionality via binary patching
 - [Maldris/mathparse](https://github.com/Maldris/mathparse) - golang library for parsing maths expression strings
