@@ -344,6 +344,7 @@
 
 ## cli 
 
+- [reeflective/team](https://github.com/reeflective/team) - Embedded, small and composable  Zero-Trust Teamserver made for collaborative Go programs or CLI applications.
 - [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - A terminal user interface for Github
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [inlife/nexrender](https://github.com/inlife/nexrender) - 📹  Data-driven render automation for After Effects
@@ -696,6 +697,7 @@
 
 ## golang 
 
+- [reeflective/team](https://github.com/reeflective/team) - Embedded, small and composable  Zero-Trust Teamserver made for collaborative Go programs or CLI applications.
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go
 - [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - A terminal user interface for Github
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
