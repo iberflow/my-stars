@@ -133,7 +133,6 @@
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
-- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [richardwilkes/unison](https://github.com/richardwilkes/unison) - A unified graphical user experience toolkit for Go desktop applications
 - [energye/energy](https://github.com/energye/energy) - Energy is Golang based on Chromium for building Windows、MacOSX、Linux desktop applications
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
@@ -287,6 +286,7 @@
 ## HTML 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [maizzle/starter-postmark](https://github.com/maizzle/starter-postmark) - A Maizzle starter based on Postmark's transactional email templates.
 - [taketheumbrella/Aurelija-Gerda](https://github.com/taketheumbrella/Aurelija-Gerda) - 
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
