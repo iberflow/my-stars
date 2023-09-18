@@ -12,6 +12,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Crystal](#crystal)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Go](#go)
@@ -88,6 +89,10 @@
 
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
+## Dart 
+
+- [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - High-level memory-safe binding generator for Flutter/Dart &lt;-&gt; Rust
+
 ## Dockerfile 
 
 - [odarriba/docker-timemachine](https://github.com/odarriba/docker-timemachine) - A docker container that compiles the lastest Netatalk to run a Time Machine server.
@@ -101,6 +106,7 @@
 
 ## Go 
 
+- [tompston/gut](https://github.com/tompston/gut) - Convert Golang structs to Typescript interfaces
 - [reeflective/team](https://github.com/reeflective/team) - Embedded, small and composable  Zero-Trust Teamserver made for collaborative Go programs or CLI applications.
 - [thinkdata-works/gopipeline](https://github.com/thinkdata-works/gopipeline) - Scalable concurrent go pipeline for running multi-step async processes
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go
@@ -592,7 +598,6 @@
 
 ## Rust 
 
-- [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - High-level memory-safe binding generator for Flutter/Dart &lt;-&gt; Rust
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
