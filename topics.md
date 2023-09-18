@@ -697,6 +697,7 @@
 
 ## golang 
 
+- [tompston/gut](https://github.com/tompston/gut) - Convert Golang structs to Typescript interfaces
 - [reeflective/team](https://github.com/reeflective/team) - Embedded, small and composable  Zero-Trust Teamserver made for collaborative Go programs or CLI applications.
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go
 - [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - A terminal user interface for Github
@@ -1676,6 +1677,7 @@
 
 ## typescript 
 
+- [tompston/gut](https://github.com/tompston/gut) - Convert Golang structs to Typescript interfaces
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [kabirbaidhya/keycode-js](https://github.com/kabirbaidhya/keycode-js) - A javascript package with key code constants.
