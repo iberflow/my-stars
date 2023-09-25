@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [mitchellh/panicwrap](https://github.com/mitchellh/panicwrap) - panicwrap is a Go library for catching and handling panics in Go applications.
 - [tompston/gut](https://github.com/tompston/gut) - Convert Golang structs to Typescript interfaces
 - [reeflective/team](https://github.com/reeflective/team) - Embedded, small and composable  Zero-Trust Teamserver made for collaborative Go programs or CLI applications.
 - [thinkdata-works/gopipeline](https://github.com/thinkdata-works/gopipeline) - Scalable concurrent go pipeline for running multi-step async processes
