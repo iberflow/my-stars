@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [mitchellh/gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [anchore/quill](https://github.com/anchore/quill) - Simple mac binary signing from any platform
 - [mitchellh/panicwrap](https://github.com/mitchellh/panicwrap) - panicwrap is a Go library for catching and handling panics in Go applications.
 - [tompston/gut](https://github.com/tompston/gut) - Convert Golang structs to Typescript interfaces
