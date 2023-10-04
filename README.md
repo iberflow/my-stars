@@ -106,6 +106,9 @@
 
 ## Go 
 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP, MFA and RADIUS
+- [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and ot
 - [mitchellh/gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [anchore/quill](https://github.com/anchore/quill) - Simple mac binary signing from any platform
 - [mitchellh/panicwrap](https://github.com/mitchellh/panicwrap) - panicwrap is a Go library for catching and handling panics in Go applications.
@@ -239,7 +242,7 @@
 - [jomoespe/go-tls-mutual-auth](https://github.com/jomoespe/go-tls-mutual-auth) - SSL/TLS mutual authentication example in Go, and layer 4 (tcp) load balancing
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
-- [traefik/paerser](https://github.com/traefik/paerser) - Loads configuration from many sources.
+- [traefik/paerser](https://github.com/traefik/paerser) - Loads configuration from many sources
 - [rgzr/sshtun](https://github.com/rgzr/sshtun) - Go package to create SSH tunnels
 - [hashicorp/go-sockaddr](https://github.com/hashicorp/go-sockaddr) - IP Address/UNIX Socket convenience functions for Go
 - [mitchellh/cli](https://github.com/mitchellh/cli) - A Go library for implementing command-line interfaces.
@@ -265,7 +268,7 @@
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [badfortrains/spotcontrol](https://github.com/badfortrains/spotcontrol) - open spotify connect controller
 - [librespot-org/librespot-golang](https://github.com/librespot-org/librespot-golang) - Go port of librespot, the Open Source Spotify client library
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [google/gxui](https://github.com/google/gxui) - An experimental Go cross platform UI library.
 - [tmthrgd/go-hex](https://github.com/tmthrgd/go-hex) - An efficient assembly hexadecimal implementation for Golang.
 - [sogko/slumber](https://github.com/sogko/slumber) - A complete REST API server written in golang / go
@@ -316,6 +319,7 @@
 
 ## JavaScript 
 
+- [casbin/casibase](https://github.com/casbin/casibase) - ⚡️Open-source AIGC vector & knowledge database with web UI, similar to LangChain⚡️, supports OpenAI, HuggingFace, OpenRouter, Local Models
 - [dataplane-app/dataplane](https://github.com/dataplane-app/dataplane) - Dataplane is an Airflow inspired data platform with additional data mesh capability to automate, schedule and design data pipelines and workflows. Dataplane is written in Golang with a React front end
 - [adoxography/tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) - Scrollbar plugin for Tailwind CSS
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
@@ -559,6 +563,7 @@
 
 ## Python 
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [the-crypt-keeper/can-ai-code](https://github.com/the-crypt-keeper/can-ai-code) - Self-evaluating interview for AI coders
@@ -652,6 +657,7 @@
 
 ## TypeScript 
 
+- [boxyhq/jackson](https://github.com/boxyhq/jackson) - Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via 
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
