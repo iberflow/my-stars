@@ -58,6 +58,7 @@
 
 ## C 
 
+- [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [robotn/gohook](https://github.com/robotn/gohook) - GoHook, Go global keyboard and mouse listener hook
 - [go-gl/glfw](https://github.com/go-gl/glfw) - Go bindings for GLFW 3
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
@@ -106,6 +107,11 @@
 
 ## Go 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation and routing for all your machines. :open_file_folder:
+- [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
+- [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
+- [Dentrax/obscure-go](https://github.com/Dentrax/obscure-go) - In-memory security with secure data types
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [mdreizin/chrome-bookmarks-alfred-workflow](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium/Microsoft Edge bookmarks search workflow for Alfred
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -620,6 +626,7 @@
 
 ## Shell 
 
+- [dyne/file-extension-list](https://github.com/dyne/file-extension-list) - Organised collection of common file extensions
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - additional functionality via binary patching
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [ncko/mac-dev-playbook](https://github.com/ncko/mac-dev-playbook) - Ansible playbook for quickly setting up new mac workstations. Forked from @geerlingguy's mac-dev-playbook repo, inspired by @ThePrimeagen's developer productivity course on Frontend Masters
