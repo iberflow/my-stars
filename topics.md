@@ -315,6 +315,7 @@
 
 ## c 
 
+- [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [eclipse/upm](https://github.com/eclipse/upm) - UPM is a high level repository that provides software drivers for a wide variety of commonly used sensors and actuators. These software drivers interact with the underlying hardware platform through c
@@ -468,6 +469,7 @@
 
 ## devops 
 
+- [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [gogrlx/grlx](https://github.com/gogrlx/grlx) - System management without the stinkin' dependencies!
@@ -478,6 +480,7 @@
 
 ## docker 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [dataplane-app/dataplane](https://github.com/dataplane-app/dataplane) - Dataplane is an Airflow inspired data platform with additional data mesh capability to automate, schedule and design data pipelines and workflows. Dataplane is written in Golang with a React front end
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
@@ -628,6 +631,9 @@
 
 ## go 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
+- [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP, MFA and RADIUS
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go
@@ -708,6 +714,10 @@
 
 ## golang 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation and routing for all your machines. :open_file_folder:
+- [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
+- [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [mitchellh/gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [tompston/gut](https://github.com/tompston/gut) - Convert Golang structs to Typescript interfaces
@@ -811,6 +821,8 @@
 
 ## hacktoberfest 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation and routing for all your machines. :open_file_folder:
 - [boxyhq/jackson](https://github.com/boxyhq/jackson) - Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via 
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and ot
@@ -881,6 +893,7 @@
 
 ## homebrew 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 
 ## html 
@@ -990,6 +1003,7 @@
 
 ## json 
 
+- [dyne/file-extension-list](https://github.com/dyne/file-extension-list) - Organised collection of common file extensions
 - [hubvue/json2type](https://github.com/hubvue/json2type) - convert JSON of a specific format to a type structure(support Typescript type and Go type)
 - [liip/sheriff](https://github.com/liip/sheriff) - Conditional marshalling for Go
 - [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go
@@ -1142,6 +1156,7 @@
 
 ## monitoring 
 
+- [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
@@ -1213,6 +1228,7 @@
 
 ## open-source 
 
+- [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation and routing for all your machines. :open_file_folder:
 - [boxyhq/jackson](https://github.com/boxyhq/jackson) - Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via 
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 
@@ -1230,6 +1246,7 @@
 
 ## others 
 
+- [Dentrax/obscure-go](https://github.com/Dentrax/obscure-go) - In-memory security with secure data types
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [dAppServer/wails-build-action](https://github.com/dAppServer/wails-build-action) - GitHub action to build Wails.io
 - [mitchellh/panicwrap](https://github.com/mitchellh/panicwrap) - panicwrap is a Go library for catching and handling panics in Go applications.
@@ -1552,6 +1569,7 @@
 
 ## react 
 
+- [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP, MFA and RADIUS
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [ory/kratos-selfservice-ui-react-nextjs](https://github.com/ory/kratos-selfservice-ui-react-nextjs) - A full reference implementation for designing your own login, registration, recovery, verification, ... pages using Ory Kratos' APIs.
@@ -1616,6 +1634,7 @@
 
 ## security 
 
+- [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules.
