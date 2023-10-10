@@ -107,6 +107,8 @@
 
 ## Go 
 
+- [anchore/binny](https://github.com/anchore/binny) - Manage a directory of binaries without a package manager
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation and routing for all your machines. :open_file_folder:
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
@@ -470,7 +472,7 @@
 - [fregante/ghatemplates](https://github.com/fregante/ghatemplates) - GitHub Actions workflow templates for `$ ghat`
 - [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A Software that automates your social media interactions to collect posts, photos, videos, interests, friends, followers, and much more on Facebook.
 - [hunterdyar/RocketLeagueStrategy](https://github.com/hunterdyar/RocketLeagueStrategy) - Website collecting Rocket League Strategy, Terms, and Concepts
-- [Jam3/math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
+- [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [jragosa/EthereumObituaries](https://github.com/jragosa/EthereumObituaries) - A curated list of all Ethereum Obituaries.
 - [Leo-G/Data-Science-Wiki](https://github.com/Leo-G/Data-Science-Wiki) - A wiki of  DataScience, Statistics, Maths, R,Python, AI, Machine Learning,  Automation, Devops Tools, Bash, Linux Tutorials, Scripts and Datasets
@@ -571,6 +573,7 @@
 
 ## Python 
 
+- [in-toto/attestation](https://github.com/in-toto/attestation) - in-toto Attestation Framework (ITE-6)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, llama.cpp (GGUF), Llama models.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
