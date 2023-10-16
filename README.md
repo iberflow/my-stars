@@ -107,6 +107,8 @@
 
 ## Go 
 
+- [zalando/go-keyring](https://github.com/zalando/go-keyring) - Cross-platform keyring interface for Go
+- [99designs/keyring](https://github.com/99designs/keyring) - Go library providing a uniform interface across a range of secure credential stores
 - [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
 - [anchore/binny](https://github.com/anchore/binny) - Manage a directory of binaries without a package manager
 - [in-toto/attestation](https://github.com/in-toto/attestation) - in-toto Attestation Framework (ITE-6)
@@ -429,7 +431,7 @@
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [dboyce/Backbone.Regrettable](https://github.com/dboyce/Backbone.Regrettable) - A transparent undo/redo plugin for Backbone
 - [mxriverlynn/backbone.memento](https://github.com/mxriverlynn/backbone.memento) - store and restore your model's state
 - [srubin/jquery-ui-draggable-snap2](https://github.com/srubin/jquery-ui-draggable-snap2) - Itty bitty extension to jquery ui's draggable that allows the user to specify which sides of the container it should snap to
