@@ -226,6 +226,7 @@
 
 ## api 
 
+- [JanssenProject/jans](https://github.com/JanssenProject/jans) - Welcome to the Janssen Project, a digital identity platform... and introducing Agama, a domain specific language for login journeys.
 - [SpenserCai/sd-webui-go](https://github.com/SpenserCai/sd-webui-go) - This is a Go language version of the SDK based on stable-diffusion-webui. In your code, you can directly use the API interfaces of stable-diffusion-webui through object-oriented operations, instead of
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
@@ -718,6 +719,7 @@
 
 ## golang 
 
+- [cenkalti/rain](https://github.com/cenkalti/rain) - 🌧 BitTorrent client and library in Go
 - [zalando/go-keyring](https://github.com/zalando/go-keyring) - Cross-platform keyring interface for Go
 - [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -1024,6 +1026,7 @@
 
 ## kubernetes 
 
+- [JanssenProject/jans](https://github.com/JanssenProject/jans) - Welcome to the Janssen Project, a digital identity platform... and introducing Agama, a domain specific language for login journeys.
 - [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [dataplane-app/dataplane](https://github.com/dataplane-app/dataplane) - Dataplane is an Airflow inspired unified data platform with additional data mesh and RPA capability to automate, schedule and design data pipelines and workflows. Dataplane is written in Golang with a
@@ -1256,6 +1259,7 @@
 
 ## others 
 
+- [FusionAuth/fusionauth-quickstart-golang-api](https://github.com/FusionAuth/fusionauth-quickstart-golang-api) - The quickstart for Go API
 - [99designs/keyring](https://github.com/99designs/keyring) - Go library providing a uniform interface across a range of secure credential stores
 - [in-toto/attestation](https://github.com/in-toto/attestation) - in-toto Attestation Framework (ITE-6)
 - [Dentrax/obscure-go](https://github.com/Dentrax/obscure-go) - In-memory security with secure data types
@@ -1269,7 +1273,7 @@
 - [kinde-oss/kinde-php-sdk](https://github.com/kinde-oss/kinde-php-sdk) - Kinde PHP SDK
 - [mesosphere/traefik-forward-auth](https://github.com/mesosphere/traefik-forward-auth) - 
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. We combine the best of Auth0 and Keycloak for you.
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter) - Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - additional functionality via binary patching
 - [Maldris/mathparse](https://github.com/Maldris/mathparse) - golang library for parsing maths expression strings
@@ -1477,6 +1481,7 @@
 
 ## p2p 
 
+- [cenkalti/rain](https://github.com/cenkalti/rain) - 🌧 BitTorrent client and library in Go
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 
@@ -1650,6 +1655,7 @@
 
 ## security 
 
+- [JanssenProject/jans](https://github.com/JanssenProject/jans) - Welcome to the Janssen Project, a digital identity platform... and introducing Agama, a domain specific language for login journeys.
 - [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
 - [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
