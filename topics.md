@@ -226,7 +226,7 @@
 
 ## api 
 
-- [JanssenProject/jans](https://github.com/JanssenProject/jans) - Welcome to the Janssen Project, a digital identity platform... and introducing Agama, a domain specific language for login journeys.
+- [JanssenProject/jans](https://github.com/JanssenProject/jans) - An open source digital identity platform that scales: Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cloud.
 - [SpenserCai/sd-webui-go](https://github.com/SpenserCai/sd-webui-go) - This is a Go language version of the SDK based on stable-diffusion-webui. In your code, you can directly use the API interfaces of stable-diffusion-webui through object-oriented operations, instead of
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
@@ -1029,7 +1029,7 @@
 
 ## kubernetes 
 
-- [JanssenProject/jans](https://github.com/JanssenProject/jans) - Welcome to the Janssen Project, a digital identity platform... and introducing Agama, a domain specific language for login journeys.
+- [JanssenProject/jans](https://github.com/JanssenProject/jans) - An open source digital identity platform that scales: Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cloud.
 - [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [dataplane-app/dataplane](https://github.com/dataplane-app/dataplane) - Dataplane is an Airflow inspired unified data platform with additional data mesh and RPA capability to automate, schedule and design data pipelines and workflows. Dataplane is written in Golang with a
@@ -1659,7 +1659,7 @@
 
 ## security 
 
-- [JanssenProject/jans](https://github.com/JanssenProject/jans) - Welcome to the Janssen Project, a digital identity platform... and introducing Agama, a domain specific language for login journeys.
+- [JanssenProject/jans](https://github.com/JanssenProject/jans) - An open source digital identity platform that scales: Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cloud.
 - [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
 - [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
