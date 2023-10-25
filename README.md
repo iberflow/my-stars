@@ -328,7 +328,7 @@
 
 ## Java 
 
-- [JanssenProject/jans](https://github.com/JanssenProject/jans) - An open source digital identity platform that scales: Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cloud.
+- [JanssenProject/jans](https://github.com/JanssenProject/jans) - An open source enterprise digital identity platform that scales: Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cloud.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
