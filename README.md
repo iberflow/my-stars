@@ -334,7 +334,7 @@
 
 ## Java 
 
-- [JanssenProject/jans](https://github.com/JanssenProject/jans) - An open source enterprise digital identity platform that scales: Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cloud.
+- [JanssenProject/jans](https://github.com/JanssenProject/jans) - An open source enterprise digital identity platform that scales: Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cloud. #OAuth 
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
@@ -344,6 +344,9 @@
 
 ## JavaScript 
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
+- [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️Open-source LangChain-like AI knowledge database with web UI,and Enterprise SSO⚡️, supports OpenAI, Azure, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin 
 - [dataplane-app/dataplane](https://github.com/dataplane-app/dataplane) - Dataplane is an Airflow inspired unified data platform with additional data mesh and RPA capability to automate, schedule and design data pipelines and workflows. Dataplane is written in Golang with a
@@ -688,6 +691,7 @@
 
 ## TypeScript 
 
+- [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [boxyhq/jackson](https://github.com/boxyhq/jackson) - 🔥 Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync vi
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
