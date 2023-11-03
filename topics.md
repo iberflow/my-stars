@@ -125,6 +125,7 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
+- [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
 - [pixel-art](#pixel-art)
@@ -1287,7 +1288,7 @@
 
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [go-skynet/go-llama.cpp](https://github.com/go-skynet/go-llama.cpp) - LLama.cpp golang bindings
-- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Neuro Symbolic Text Generation
+- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Neuro-symbolic Text Generation
 - [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented embedding tuning for BERT, CLIP, etc.
 - [jina-ai/client-go](https://github.com/jina-ai/client-go) - Golang Client for Jina (https://github.com/jina-ai/jina)
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
@@ -1528,6 +1529,11 @@
 
 ## penetration-testing 
 
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
+
+## pentesting 
+
+- [aaaguirrep/offensive-docker](https://github.com/aaaguirrep/offensive-docker) - Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
 
 ## perl 
