@@ -111,6 +111,7 @@
 
 ## Go 
 
+- [3JoB/anthropic-sdk-go](https://github.com/3JoB/anthropic-sdk-go) - Golang SDK for AnthRopic Claude AI. Provide complete encapsulated interfaces that are easy to quickly get started with.
 - [TannerKvarfordt/hfapigo](https://github.com/TannerKvarfordt/hfapigo) - Unofficial (Golang) Go bindings for the Hugging Face Inference API
 - [nl8590687/asrt-sdk-go](https://github.com/nl8590687/asrt-sdk-go) - ASRT Speech Recognition SDK for Golang. 用于ASRT语音识别系统的Golang SDK
 - [asticode/go-astideepspeech](https://github.com/asticode/go-astideepspeech) - Golang bindings for Mozilla's DeepSpeech speech-to-text library
@@ -606,6 +607,13 @@
 
 ## Python 
 
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
+- [donaldafeith/Pytorch_Merge](https://github.com/donaldafeith/Pytorch_Merge) - Merge LLM that are split in to parts
+- [MeetKai/functionary](https://github.com/MeetKai/functionary) - Chat language model that can interpret and execute functions/plugins
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [latent-variable/Real_time_fallacy_detection](https://github.com/latent-variable/Real_time_fallacy_detection) - Real-time Fallacy Detection using OpenAI whisper and ChatGPT/LLaMA/Mistral
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) - 
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Neuro-symbolic Text Generation
@@ -707,6 +715,7 @@
 
 ## TypeScript 
 
+- [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
