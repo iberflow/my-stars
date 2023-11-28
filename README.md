@@ -112,6 +112,8 @@
 
 ## Go 
 
+- [keybase/go-keychain](https://github.com/keybase/go-keychain) - Golang keychain package for iOS and macOS
+- [mritd/touchid](https://github.com/mritd/touchid) - macOS touchid authentication library
 - [contentforward/llm-pricing](https://github.com/contentforward/llm-pricing) - LLM Provider pricing as a package
 - [tobias-mayer/vector-db](https://github.com/tobias-mayer/vector-db) - A minimalistic vector database that can be used to search for similar vectors in logarithmic time.
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-nati
