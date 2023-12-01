@@ -518,7 +518,6 @@
 - [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [jragosa/EthereumObituaries](https://github.com/jragosa/EthereumObituaries) - A curated list of all Ethereum Obituaries.
-- [Leo-G/Data-Science-Wiki](https://github.com/Leo-G/Data-Science-Wiki) - A wiki of  DataScience, Statistics, Maths, R,Python, AI, Machine Learning,  Automation, Devops Tools, Bash, Linux Tutorials, Scripts and Datasets
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [hemanth/es-next](https://github.com/hemanth/es-next) - stage-0 to stage-4 ECMAscript proposals.
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
