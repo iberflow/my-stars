@@ -364,6 +364,7 @@
 
 ## JavaScript 
 
+- [aws-samples/amazon-sumerian-hosts](https://github.com/aws-samples/amazon-sumerian-hosts) - Amazon Sumerian Hosts (Hosts) is an experimental open source project that aims to make it easy to create interactive animated 3D characters for Babylon.js, three.js, and other web 3D frameworks. It le
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
