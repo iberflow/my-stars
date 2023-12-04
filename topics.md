@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [ai](#ai)
 - [algorithm](#algorithm)
 - [amphp](#amphp)
@@ -175,6 +176,10 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
+
+## 3d 
+
+- [aws-samples/amazon-sumerian-hosts](https://github.com/aws-samples/amazon-sumerian-hosts) - Amazon Sumerian Hosts (Hosts) is an experimental open source project that aims to make it easy to create interactive animated 3D characters for Babylon.js, three.js, and other web 3D frameworks. It le
 
 ## ai 
 
