@@ -542,7 +542,7 @@
 - [tighten/nova-google-analytics](https://github.com/tighten/nova-google-analytics) - Google Analytics integration with Laravel Nova
 - [dabit3/chicken-tikka-masala-recipe](https://github.com/dabit3/chicken-tikka-masala-recipe) - Nader's chicken tikka masala recipe
 - [php-enqueue/laravel-queue](https://github.com/php-enqueue/laravel-queue) - Laravel Enqueue message queue extension. Supports AMQP, Amazon SQS, Kafka, Google PubSub, Redis, STOMP, Gearman, Beanstalk and others
-- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [monospice/laravel-redis-sentinel-drivers](https://github.com/monospice/laravel-redis-sentinel-drivers) - Redis Sentinel integration for Laravel and Lumen.
 - [cooperaj/laravel-redis-sentinel](https://github.com/cooperaj/laravel-redis-sentinel) - Provides a Redis driver for Laravel that is Sentinel aware
 - [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
