@@ -120,7 +120,7 @@
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵
 - [3JoB/anthropic-sdk-go](https://github.com/3JoB/anthropic-sdk-go) - Golang SDK for AnthRopic Claude AI. Provide complete encapsulated interfaces that are easy to quickly get started with.
-- [TannerKvarfordt/hfapigo](https://github.com/TannerKvarfordt/hfapigo) - Unofficial (Golang) Go bindings for the Hugging Face Inference API
+- [Kardbord/hfapigo](https://github.com/Kardbord/hfapigo) - Unofficial (Golang) Go bindings for the Hugging Face Inference API
 - [nl8590687/asrt-sdk-go](https://github.com/nl8590687/asrt-sdk-go) - ASRT Speech Recognition SDK for Golang. 用于ASRT语音识别系统的Golang SDK
 - [asticode/go-astideepspeech](https://github.com/asticode/go-astideepspeech) - Golang bindings for Mozilla's DeepSpeech speech-to-text library
 - [asticode/go-astibob](https://github.com/asticode/go-astibob) - Golang framework to build an AI that can understand and speak back to you, and everything else you want
