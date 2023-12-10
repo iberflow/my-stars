@@ -247,7 +247,7 @@
 
 ## api 
 
-- [TannerKvarfordt/hfapigo](https://github.com/TannerKvarfordt/hfapigo) - Unofficial (Golang) Go bindings for the Hugging Face Inference API
+- [Kardbord/hfapigo](https://github.com/Kardbord/hfapigo) - Unofficial (Golang) Go bindings for the Hugging Face Inference API
 - [cowdude/flapi](https://github.com/cowdude/flapi) - FLAPI is an offline, containerized speech recognition websocket API
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [JanssenProject/jans](https://github.com/JanssenProject/jans) - An open source enterprise digital identity platform that scales: Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cloud. #OAuth 
@@ -689,7 +689,7 @@
 ## go 
 
 - [tobias-mayer/vector-db](https://github.com/tobias-mayer/vector-db) - A minimalistic vector database that can be used to search for similar vectors in logarithmic time.
-- [TannerKvarfordt/hfapigo](https://github.com/TannerKvarfordt/hfapigo) - Unofficial (Golang) Go bindings for the Hugging Face Inference API
+- [Kardbord/hfapigo](https://github.com/Kardbord/hfapigo) - Unofficial (Golang) Go bindings for the Hugging Face Inference API
 - [asticode/go-astideepspeech](https://github.com/asticode/go-astideepspeech) - Golang bindings for Mozilla's DeepSpeech speech-to-text library
 - [asticode/go-astibob](https://github.com/asticode/go-astibob) - Golang framework to build an AI that can understand and speak back to you, and everything else you want
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
@@ -785,7 +785,7 @@
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵
 - [3JoB/anthropic-sdk-go](https://github.com/3JoB/anthropic-sdk-go) - Golang SDK for AnthRopic Claude AI. Provide complete encapsulated interfaces that are easy to quickly get started with.
-- [TannerKvarfordt/hfapigo](https://github.com/TannerKvarfordt/hfapigo) - Unofficial (Golang) Go bindings for the Hugging Face Inference API
+- [Kardbord/hfapigo](https://github.com/Kardbord/hfapigo) - Unofficial (Golang) Go bindings for the Hugging Face Inference API
 - [nl8590687/asrt-sdk-go](https://github.com/nl8590687/asrt-sdk-go) - ASRT Speech Recognition SDK for Golang. 用于ASRT语音识别系统的Golang SDK
 - [asticode/go-astideepspeech](https://github.com/asticode/go-astideepspeech) - Golang bindings for Mozilla's DeepSpeech speech-to-text library
 - [asticode/go-astibob](https://github.com/asticode/go-astibob) - Golang framework to build an AI that can understand and speak back to you, and everything else you want
@@ -1297,7 +1297,7 @@
 
 ## nlp 
 
-- [TannerKvarfordt/hfapigo](https://github.com/TannerKvarfordt/hfapigo) - Unofficial (Golang) Go bindings for the Hugging Face Inference API
+- [Kardbord/hfapigo](https://github.com/Kardbord/hfapigo) - Unofficial (Golang) Go bindings for the Hugging Face Inference API
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
 - [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
