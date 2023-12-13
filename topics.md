@@ -1373,6 +1373,8 @@
 
 ## others 
 
+- [vbackend/visual-backend](https://github.com/vbackend/visual-backend) - Source code for Visual Backend desktop app, implemented using Electron & React
+- [IntrinsicLabsAI/gbnfgen](https://github.com/IntrinsicLabsAI/gbnfgen) - TypeScript generator for llama.cpp Grammar directly from TypeScript interfaces
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [contentforward/llm-pricing](https://github.com/contentforward/llm-pricing) - LLM Provider pricing as a package
 - [kazuyaseki/code-transformer-for-Figma](https://github.com/kazuyaseki/code-transformer-for-Figma) - Figma plugin to generate code using OpenAI API
