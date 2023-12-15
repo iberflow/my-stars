@@ -9,6 +9,7 @@
 - [Awk](#awk)
 - [Bikeshed](#bikeshed)
 - [C](#c)
+- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [Crystal](#crystal)
@@ -71,6 +72,10 @@
 - [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
+
+## C# # 
+
+- [dlidstrom/NeuralNetworkInAllLangs](https://github.com/dlidstrom/NeuralNetworkInAllLangs) - Vanilla neural network implemented in all major languages
 
 ## C++ 
 
@@ -706,6 +711,7 @@
 
 ## Svelte 
 
+- [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Web UI Client for Ollama 🦙
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [vnphanquang/svelte-put](https://github.com/vnphanquang/svelte-put) - Useful svelte stuff to put in your projects
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
