@@ -728,7 +728,7 @@
 - [gogrlx/grlx](https://github.com/gogrlx/grlx) - Effective Fleet Configuration Management
 - [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟‍♀️
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟
 - [hubvue/json2type](https://github.com/hubvue/json2type) - convert JSON of a specific format to a type structure(support Typescript type and Go type)
 - [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 - [go101/golds](https://github.com/go101/golds) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
@@ -1644,7 +1644,7 @@
 ## php 
 
 - [nmeri17/suphle](https://github.com/nmeri17/suphle) - Opinionated PHP framework for building performant, extensible, and testable web applications
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟‍♀️
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟
 - [spatie/package-skeleton-php](https://github.com/spatie/package-skeleton-php) - A skeleton repository for Spatie's PHP Packages
 - [z7zmey/php-parser](https://github.com/z7zmey/php-parser) - PHP parser written in Go
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
