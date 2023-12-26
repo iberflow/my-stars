@@ -117,6 +117,7 @@
 
 ## Go 
 
+- [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [keybase/go-keychain](https://github.com/keybase/go-keychain) - Golang keychain package for iOS and macOS
 - [mritd/touchid](https://github.com/mritd/touchid) - macOS touchid authentication library
