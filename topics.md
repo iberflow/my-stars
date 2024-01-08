@@ -707,6 +707,7 @@
 
 ## go 
 
+- [hypebeast/go-osc](https://github.com/hypebeast/go-osc) - Open Sound Control (OSC) library for Golang. Implemented in pure Go.
 - [wamuir/graft](https://github.com/wamuir/graft) - Go language bindings to the TensorFlow C API
 - [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
 - [montanaflynn/stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
@@ -808,6 +809,7 @@
 
 ## golang 
 
+- [hypebeast/go-osc](https://github.com/hypebeast/go-osc) - Open Sound Control (OSC) library for Golang. Implemented in pure Go.
 - [wamuir/graft](https://github.com/wamuir/graft) - Go language bindings to the TensorFlow C API
 - [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
