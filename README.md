@@ -341,7 +341,7 @@
 - [sogko/slumber](https://github.com/sogko/slumber) - A complete REST API server written in golang / go
 - [pritunl/pritunl-client-electron](https://github.com/pritunl/pritunl-client-electron) - Pritunl OpenVPN client
 - [wantedly/apig](https://github.com/wantedly/apig) - [MOVED TO NEW REPO] Golang RESTful API Server Generator
-- [goadesign/goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
+- [goadesign/goa](https://github.com/goadesign/goa) - 🌟 Goa: Elevate Go API development! 🚀 Streamlined design, automatic code generation, and seamless HTTP/gRPC support. ✨
 - [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
 - [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
