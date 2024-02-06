@@ -511,7 +511,7 @@
 ## Jupyter Notebook 
 
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
+- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
 - [pszemraj/ai-msgbot](https://github.com/pszemraj/ai-msgbot) - Training & Implementation of chatbots leveraging GPT-like architecture with the aitextgen package to enable dynamic conversations.
 
 ## Kotlin 
