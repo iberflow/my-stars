@@ -650,7 +650,7 @@
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [donaldafeith/Pytorch_Merge](https://github.com/donaldafeith/Pytorch_Merge) - Merge LLM that are split in to parts
 - [MeetKai/functionary](https://github.com/MeetKai/functionary) - Chat language model that can interpret and execute functions/plugins
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [latent-variable/Real_time_fallacy_detection](https://github.com/latent-variable/Real_time_fallacy_detection) - Real-time Fallacy Detection using OpenAI whisper and ChatGPT/LLaMA/Mistral
