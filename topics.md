@@ -102,6 +102,7 @@
 - [library](#library)
 - [linux](#linux)
 - [localization](#localization)
+- [low-code](#low-code)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -1254,6 +1255,10 @@
 ## localization 
 
 - [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 10 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). 
+
+## low-code 
+
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 
 ## mac 
 
