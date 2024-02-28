@@ -1140,7 +1140,7 @@
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [JXA-Cookbook/JXA-Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite
 - [ncsoft/Unreal.js](https://github.com/ncsoft/Unreal.js) - Unreal.js: Javascript runtime built for UnrealEngine
-- [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
+- [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
 - [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
@@ -1710,7 +1710,7 @@
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [cenkalti/rain](https://github.com/cenkalti/rain) - 🌧 BitTorrent client and library in Go
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
-- [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
+- [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 
 ## package-manager 
 
@@ -2069,7 +2069,7 @@
 - [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
-- [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
+- [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
 ## vue 
