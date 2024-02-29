@@ -14,6 +14,7 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
+- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -270,6 +271,10 @@
 - [GrafiteInc/Builder](https://github.com/GrafiteInc/Builder) - Prepare your Laravel apps incredibly fast, with various commands, services, facades and boilerplates.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
 - [azuyalabs/yasumi](https://github.com/azuyalabs/yasumi) - The easy PHP Library for calculating holidays
+
+## archlinux 
+
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
 
 ## arduino 
 
@@ -717,6 +722,7 @@
 
 ## go 
 
+- [zwgblue/yaml-encoder](https://github.com/zwgblue/yaml-encoder) - A yaml encoder which implements yaml.Marshaler with comments
 - [inngest/inngestgo](https://github.com/inngest/inngestgo) - Golang SDK for Inngest
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
 - [neurocult/agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
