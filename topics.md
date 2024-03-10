@@ -830,6 +830,7 @@
 
 ## golang 
 
+- [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [inngest/inngestgo](https://github.com/inngest/inngestgo) - Golang SDK for Inngest
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
@@ -1492,6 +1493,10 @@
 
 ## others 
 
+- [casdoor/traefik-casdoor-auth](https://github.com/casdoor/traefik-casdoor-auth) - Traefik ForwardAuth middleware powered by Casdoor: https://doc.traefik.io/traefik/middlewares/http/forwardauth
+- [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
+- [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
+- [mattn/goveralls](https://github.com/mattn/goveralls) - 
 - [enrichman/polygo](https://github.com/enrichman/polygo) - 
 - [getsentry/spotlight](https://github.com/getsentry/spotlight) - Your Universal Debug Toolbar
 - [miku-gg/miku](https://github.com/miku-gg/miku) - mikugg is a Frontend for "Generative Visual Novels"
@@ -1950,6 +1955,7 @@
 
 ## security 
 
+- [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained access control for customer applications
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
