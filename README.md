@@ -119,6 +119,7 @@
 
 ## Go 
 
+- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [casdoor/traefik-casdoor-auth](https://github.com/casdoor/traefik-casdoor-auth) - Traefik ForwardAuth middleware powered by Casdoor: https://doc.traefik.io/traefik/middlewares/http/forwardauth
 - [mattn/goveralls](https://github.com/mattn/goveralls) - 
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
