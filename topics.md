@@ -414,6 +414,7 @@
 
 ## cli 
 
+- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [reeflective/team](https://github.com/reeflective/team) - Embedded, small and composable  Zero-Trust Teamserver made for collaborative Go programs or CLI applications.
@@ -729,6 +730,7 @@
 
 ## go 
 
+- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [zwgblue/yaml-encoder](https://github.com/zwgblue/yaml-encoder) - A yaml encoder which implements yaml.Marshaler with comments
 - [inngest/inngestgo](https://github.com/inngest/inngestgo) - Golang SDK for Inngest
@@ -1386,6 +1388,7 @@
 
 ## mysql 
 
+- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [go-xorm/xorm](https://github.com/go-xorm/xorm) - Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
@@ -1815,6 +1818,7 @@
 
 ## postgresql 
 
+- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
