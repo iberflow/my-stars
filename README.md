@@ -119,6 +119,7 @@
 
 ## Go 
 
+- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [casdoor/traefik-casdoor-auth](https://github.com/casdoor/traefik-casdoor-auth) - Traefik ForwardAuth middleware powered by Casdoor: https://doc.traefik.io/traefik/middlewares/http/forwardauth
 - [mattn/goveralls](https://github.com/mattn/goveralls) - 
@@ -516,6 +517,8 @@
 
 ## Jinja 
 
+- [ckstevenson/ansible-role-headscale](https://github.com/ckstevenson/ansible-role-headscale) - An Ansible role for installing and configuring headsclae
+- [kazauwa/ansible-role-headscale](https://github.com/kazauwa/ansible-role-headscale) - Ansible role for Headscale
 - [superset1/Ansible_role_mongodb](https://github.com/superset1/Ansible_role_mongodb) - 
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 
@@ -531,6 +534,7 @@
 
 ## Makefile 
 
+- [artis3n/ansible-role-tailscale](https://github.com/artis3n/ansible-role-tailscale) - Ansible role to install and configure a Tailscale node.
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
 ## Markdown 
