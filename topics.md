@@ -733,6 +733,7 @@
 
 ## go 
 
+- [james-bowman/nlp](https://github.com/james-bowman/nlp) - Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
@@ -841,6 +842,7 @@
 
 ## golang 
 
+- [james-bowman/nlp](https://github.com/james-bowman/nlp) - Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
@@ -1301,6 +1303,7 @@
 
 ## machine-learning 
 
+- [james-bowman/nlp](https://github.com/james-bowman/nlp) - Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang
 - [neurocult/agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
 - [wamuir/graft](https://github.com/wamuir/graft) - Go language bindings to the TensorFlow C API
 - [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
@@ -1402,6 +1405,7 @@
 
 ## natural-language-processing 
 
+- [james-bowman/nlp](https://github.com/james-bowman/nlp) - Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang
 - [nlpodyssey/cybertron](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -1430,6 +1434,7 @@
 
 ## nlp 
 
+- [james-bowman/nlp](https://github.com/james-bowman/nlp) - Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang
 - [neurocult/agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
 - [nlpodyssey/cybertron](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
