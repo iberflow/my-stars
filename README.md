@@ -120,6 +120,7 @@
 
 ## Go 
 
+- [james-bowman/nlp](https://github.com/james-bowman/nlp) - Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang
 - [neurosnap/sentences](https://github.com/neurosnap/sentences) - A multilingual command line sentence tokenizer in Golang
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
