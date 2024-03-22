@@ -844,6 +844,7 @@
 
 ## golang 
 
+- [HomayoonAlimohammadi/mini-grpc-gateway](https://github.com/HomayoonAlimohammadi/mini-grpc-gateway) - Minimal gRPC-REST Gateway implementation. Make sure to checkout the Medium Blog as well.
 - [progpjs/progpjs](https://github.com/progpjs/progpjs) - A fast V8 wrapper for Go language
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [araddon/dateparse](https://github.com/araddon/dateparse) - GoLang Parse many date strings without knowing format in advance.
@@ -1520,6 +1521,7 @@
 
 ## others 
 
+- [jannden/golang-examples](https://github.com/jannden/golang-examples) - 
 - [cloudflare/ahocorasick](https://github.com/cloudflare/ahocorasick) - A Golang implementation of the Aho-Corasick string matching algorithm
 - [jruizaranguren/best-of-digital-identity](https://github.com/jruizaranguren/best-of-digital-identity) - A ranked list of awesome Digital Identity open source projects
 - [janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
@@ -1574,7 +1576,7 @@
 - [marcak/calc](https://github.com/marcak/calc) - Calc is a package that provides the tools to evaluate simple numerical expressions
 - [mmtracker/mongowatch](https://github.com/mmtracker/mongowatch) - mongo watcher to follow event log of target DB and execute registered handlers
 - [djherbis/times](https://github.com/djherbis/times) - #golang file times (atime, mtime, ctime, btime)
-- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
+- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 - [zolia/go-ci](https://github.com/zolia/go-ci) - 
 - [iineva/bom](https://github.com/iineva/bom) - Apple iOS / macOS Assets.car decoder, write in golang
 - [adoxography/tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) - Scrollbar plugin for Tailwind CSS
