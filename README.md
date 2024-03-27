@@ -119,6 +119,9 @@
 
 ## Go 
 
+- [connectrpc/authn-go](https://github.com/connectrpc/authn-go) - Authentication middleware for Connect
+- [sudorandom/protoc-gen-connect-openapi](https://github.com/sudorandom/protoc-gen-connect-openapi) - Plugin for generating OpenAPIv3 from protobufs matching the Connect RPC interface
+- [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [HomayoonAlimohammadi/mini-grpc-gateway](https://github.com/HomayoonAlimohammadi/mini-grpc-gateway) - Minimal gRPC-REST Gateway implementation. Make sure to checkout the Medium Blog as well.
 - [jannden/golang-examples](https://github.com/jannden/golang-examples) - 
 - [progpjs/progpjs](https://github.com/progpjs/progpjs) - A fast V8 wrapper for Go language
@@ -785,6 +788,7 @@
 
 ## TypeScript 
 
+- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨
 - [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
