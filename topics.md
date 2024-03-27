@@ -262,6 +262,7 @@
 
 ## api 
 
+- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨
 - [Kardbord/hfapigo](https://github.com/Kardbord/hfapigo) - Unofficial (Golang) Go bindings for the Hugging Face Inference API
 - [cowdude/flapi](https://github.com/cowdude/flapi) - FLAPI is an offline, containerized speech recognition websocket API
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
@@ -734,6 +735,7 @@
 
 ## go 
 
+- [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [james-bowman/nlp](https://github.com/james-bowman/nlp) - Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
@@ -844,6 +846,8 @@
 
 ## golang 
 
+- [connectrpc/authn-go](https://github.com/connectrpc/authn-go) - Authentication middleware for Connect
+- [sudorandom/protoc-gen-connect-openapi](https://github.com/sudorandom/protoc-gen-connect-openapi) - Plugin for generating OpenAPIv3 from protobufs matching the Connect RPC interface
 - [HomayoonAlimohammadi/mini-grpc-gateway](https://github.com/HomayoonAlimohammadi/mini-grpc-gateway) - Minimal gRPC-REST Gateway implementation. Make sure to checkout the Medium Blog as well.
 - [progpjs/progpjs](https://github.com/progpjs/progpjs) - A fast V8 wrapper for Go language
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
@@ -1965,6 +1969,7 @@
 
 ## rest-api 
 
+- [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
@@ -2159,6 +2164,7 @@
 
 ## vue 
 
+- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
 - [silencesys/silentbox](https://github.com/silencesys/silentbox) - A lightbox inspired Vue.js component.
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
