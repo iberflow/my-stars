@@ -611,7 +611,7 @@
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) - A code generation tool for Laravel developers.
 - [digitaldonkey/ecverify](https://github.com/digitaldonkey/ecverify) - PHP based Ethereum web3 personal recover
 - [amphp/socket](https://github.com/amphp/socket) - Non-blocking socket and TLS functionality for PHP based on Amp.
-- [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - 🍪 Write gorgeous documentation for your products using Markdown inside your Laravel app.
+- [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - ✏️ Write and ship beautiful documentation with your Laravel applications using MarkDown
 - [lorisleiva/laravel-search-string](https://github.com/lorisleiva/laravel-search-string) - 🔍 Generates database queries based on one unique string
 - [nunomaduro/laravel-console-menu](https://github.com/nunomaduro/laravel-console-menu) - 🔘 Beautiful PHP CLI menus. Is a php-school/cli-menu wrapper for Laravel/Artisan Console Commands
 - [phpowermove/php-code-generator](https://github.com/phpowermove/php-code-generator) - PHP code generator library
