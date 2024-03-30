@@ -611,7 +611,7 @@
 - [mvrilo/go-redoc](https://github.com/mvrilo/go-redoc) - go-redoc is an embedded OpenAPI/Swagger documentation ui for Go using ReDoc
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
-- [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - 🍪 Write gorgeous documentation for your products using Markdown inside your Laravel app.
+- [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - ✏️ Write and ship beautiful documentation with your Laravel applications using MarkDown
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 
@@ -1254,7 +1254,7 @@
 - [jsphpl/laravan](https://github.com/jsphpl/laravan) - Ansible Playbooks for Laravel - machine provisioning and app deployment
 - [avto-dev/roadrunner-laravel](https://github.com/avto-dev/roadrunner-laravel) - [ABANDONED] Moved to https://github.com/spiral/roadrunner-laravel
 - [bkuhl/fpm-nginx](https://github.com/bkuhl/fpm-nginx) - A single container with fpm & nginx with Laravel dependencies
-- [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - 🍪 Write gorgeous documentation for your products using Markdown inside your Laravel app.
+- [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - ✏️ Write and ship beautiful documentation with your Laravel applications using MarkDown
 - [orchidsoftware/platform](https://github.com/orchidsoftware/platform) - Orchid is a @laravel package that allows for rapid application development of back-office applications, admin/user panels, and dashboards.
 - [pyrocms/pyrocms](https://github.com/pyrocms/pyrocms) - Pyro is an experienced and powerful Laravel PHP CMS.
 - [austintoddj/canvas](https://github.com/austintoddj/canvas) - Publishing on your own terms
