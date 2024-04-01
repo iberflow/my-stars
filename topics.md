@@ -1527,6 +1527,7 @@
 
 ## others 
 
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [AthenZ/athenz](https://github.com/AthenZ/athenz) - Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures. Athenz supports provisioning and configuration (centralized authoriz
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [williammoran/triggeredloghandler](https://github.com/williammoran/triggeredloghandler) - A log handler for Go that only sends messages when triggered by sufficient severity.
