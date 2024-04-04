@@ -59,6 +59,7 @@
 
 ## C 
 
+- [MiniAiLive/MiniAI-Face-Recognition-ServerSDK](https://github.com/MiniAiLive/MiniAI-Face-Recognition-ServerSDK) - NIST FRVT Top Ranked Face Recognition SDK
 - [kartben/artificial-nose](https://github.com/kartben/artificial-nose) - Instructions, source code, and misc. resources needed for building a Tiny ML-powered artificial nose.
 - [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
@@ -120,6 +121,8 @@
 
 ## Go 
 
+- [speedata/boxesandglue](https://github.com/speedata/boxesandglue) - PDF rendering library for Go using TeX algorithms.
+- [speedata/bagme](https://github.com/speedata/bagme) - boxes and glue made easy - a PDF rendering library for Go using boxes and glue
 - [srikrsna/protoc-gen-gotag](https://github.com/srikrsna/protoc-gen-gotag) - Add custom struct tags to protobuf generated structs
 - [favadi/protoc-go-inject-tag](https://github.com/favadi/protoc-go-inject-tag) - Inject custom tags to protobuf golang struct
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
