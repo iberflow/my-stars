@@ -122,6 +122,7 @@
 
 ## Go 
 
+- [flynn/noise](https://github.com/flynn/noise) - Go implementation of the Noise Protocol Framework
 - [jhump/grpctunnel](https://github.com/jhump/grpctunnel) - gRPC Tunneling
 - [jhump/gopoet](https://github.com/jhump/gopoet) - A Go API for generating .go source files
 - [speedata/boxesandglue](https://github.com/speedata/boxesandglue) - PDF rendering library for Go using TeX algorithms.
@@ -429,6 +430,7 @@
 
 ## JavaScript 
 
+- [clarkmcc/go-typescript](https://github.com/clarkmcc/go-typescript) - Compile and run Typescript code natively in Go
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [hashicorp/boundary-ui](https://github.com/hashicorp/boundary-ui) - Monorepo for Boundary UIs and addons.
 - [aws-samples/amazon-sumerian-hosts](https://github.com/aws-samples/amazon-sumerian-hosts) - Amazon Sumerian Hosts (Hosts) is an experimental open source project that aims to make it easy to create interactive animated 3D characters for Babylon.js, three.js, and other web 3D frameworks. It le
