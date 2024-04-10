@@ -122,6 +122,7 @@
 
 ## Go 
 
+- [flipt-io/reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 - [creativecreature/sturdyc](https://github.com/creativecreature/sturdyc) - caching library for building sturdy systems
 - [flynn/noise](https://github.com/flynn/noise) - Go implementation of the Noise Protocol Framework
 - [jhump/grpctunnel](https://github.com/jhump/grpctunnel) - gRPC Tunneling
