@@ -82,6 +82,7 @@
 
 ## C++ 
 
+- [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [usefulsensors/useful-transformers](https://github.com/usefulsensors/useful-transformers) - Efficient Inference of Transformer models
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
