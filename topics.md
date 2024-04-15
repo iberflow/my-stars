@@ -1543,6 +1543,7 @@
 
 ## others 
 
+- [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [flipt-io/reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
