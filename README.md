@@ -124,6 +124,11 @@
 
 ## Go 
 
+- [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
+- [opencontrol/doc-template](https://github.com/opencontrol/doc-template) - Simple Google Go (golang) library for replace text in microsoft word (.docx) file
+- [nguyenthenguyen/docx](https://github.com/nguyenthenguyen/docx) - Simple Google Go (Golang) library for replacing text in Microsoft Word (.docx) file
+- [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) - Natural language detection library for Go
+- [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go library for reading and writing XLSX files.
 - [flipt-io/reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 - [creativecreature/sturdyc](https://github.com/creativecreature/sturdyc) - caching library for building sturdy systems
 - [flynn/noise](https://github.com/flynn/noise) - Go implementation of the Noise Protocol Framework
@@ -698,6 +703,7 @@
 
 ## Python 
 
+- [nihole/md2docx](https://github.com/nihole/md2docx) - Markdown to Word docx file conversion
 - [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) - University Domains and Names Data List & API
 - [eliben/code-for-blog](https://github.com/eliben/code-for-blog) - Code samples from my blog
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
