@@ -124,6 +124,8 @@
 
 ## Go 
 
+- [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
+- [philippgille/chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [opencontrol/doc-template](https://github.com/opencontrol/doc-template) - Simple Google Go (golang) library for replace text in microsoft word (.docx) file
 - [nguyenthenguyen/docx](https://github.com/nguyenthenguyen/docx) - Simple Google Go (Golang) library for replacing text in Microsoft Word (.docx) file
