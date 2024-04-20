@@ -83,6 +83,7 @@
 - [good-first-issue](#good-first-issue)
 - [graphql](#graphql)
 - [hacking](#hacking)
+- [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [homebrew](#homebrew)
@@ -1011,6 +1012,11 @@
 - [aaaguirrep/offensive-docker](https://github.com/aaaguirrep/offensive-docker) - Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
 - [screetsec/Dracnmap](https://github.com/screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and dif
+
+## hacking-tools 
+
+- [aaaguirrep/offensive-docker](https://github.com/aaaguirrep/offensive-docker) - Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
 
 ## hacktoberfest 
 
