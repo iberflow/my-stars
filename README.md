@@ -61,7 +61,7 @@
 
 ## C 
 
-- [MiniAiLive/MiniAI-Face-Recognition-ServerSDK](https://github.com/MiniAiLive/MiniAI-Face-Recognition-ServerSDK) - NIST FRVT Top Ranked Face Recognition SDK
+- [MiniAiLive/MiniAI-Face-Recognition-LivenessDetection-ServerSDK](https://github.com/MiniAiLive/MiniAI-Face-Recognition-LivenessDetection-ServerSDK) - NIST FRVT Top Ranked Face Recognition, iBeta 2 Certified Liveness Detection (3D Face Passive Anti-Spoofing) Engine!
 - [kartben/artificial-nose](https://github.com/kartben/artificial-nose) - Instructions, source code, and misc. resources needed for building a Tiny ML-powered artificial nose.
 - [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
@@ -835,6 +835,7 @@
 
 ## TypeScript 
 
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [clerk/javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
