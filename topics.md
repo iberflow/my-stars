@@ -870,6 +870,7 @@
 
 ## golang 
 
+- [connectrpc/vanguard-go](https://github.com/connectrpc/vanguard-go) - Support REST, gRPC, gRPC-Web, and Connect clients with one server.
 - [philippgille/chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 - [creativecreature/sturdyc](https://github.com/creativecreature/sturdyc) - A highly concurrent cache packed with functionality for building sturdy systems.
 - [jhump/grpctunnel](https://github.com/jhump/grpctunnel) - gRPC Tunneling
@@ -976,7 +977,7 @@
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
-- [likexian/whois-parser](https://github.com/likexian/whois-parser) - Go(Golang) module for domain whois information parsing.
+- [likexian/whois-parser](https://github.com/likexian/whois-parser) - Whois parser for domain whois information parsing in Go(Golang).
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
@@ -1866,7 +1867,7 @@
 
 ## parsing 
 
-- [likexian/whois-parser](https://github.com/likexian/whois-parser) - Go(Golang) module for domain whois information parsing.
+- [likexian/whois-parser](https://github.com/likexian/whois-parser) - Whois parser for domain whois information parsing in Go(Golang).
 
 ## penetration-testing 
 
