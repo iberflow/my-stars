@@ -125,6 +125,7 @@
 
 ## Go 
 
+- [connectrpc/vanguard-go](https://github.com/connectrpc/vanguard-go) - Support REST, gRPC, gRPC-Web, and Connect clients with one server.
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 - [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
@@ -348,7 +349,7 @@
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 - [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - [projectdiscovery/retryabledns](https://github.com/projectdiscovery/retryabledns) - Retryable DNS client in Go
-- [likexian/whois-parser](https://github.com/likexian/whois-parser) - Go(Golang) module for domain whois information parsing.
+- [likexian/whois-parser](https://github.com/likexian/whois-parser) - Whois parser for domain whois information parsing in Go(Golang).
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [blugelabs/bluge](https://github.com/blugelabs/bluge) - indexing library for Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
