@@ -127,7 +127,7 @@
 
 - [chrusty/protoc-gen-jsonschema](https://github.com/chrusty/protoc-gen-jsonschema) - Protobuf to JSON-Schema compiler
 - [paologaleotti/blaze](https://github.com/paologaleotti/blaze) - Simple and minimal Go template for building fast and easy to develop web services
-- [farouqzaib/fast-search](https://github.com/farouqzaib/fast-search) - Vector Database
+- [farouqzaib/fast-search](https://github.com/farouqzaib/fast-search) - Vector Database implemented in Golang with support for full-text and vector search as well as fault tolerance via Raft.
 - [connectrpc/vanguard-go](https://github.com/connectrpc/vanguard-go) - Support REST, gRPC, gRPC-Web, and Connect clients with one server.
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
@@ -582,6 +582,7 @@
 
 ## MDX 
 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy!
 
 ## Makefile 
