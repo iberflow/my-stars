@@ -1607,6 +1607,7 @@
 
 ## others 
 
+- [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [chrusty/protoc-gen-jsonschema](https://github.com/chrusty/protoc-gen-jsonschema) - Protobuf to JSON-Schema compiler
 - [farouqzaib/fast-search](https://github.com/farouqzaib/fast-search) - Vector Database implemented in Golang with support for full-text and vector search as well as fault tolerance via Raft.
 - [jxom/awesome-react-headless-components](https://github.com/jxom/awesome-react-headless-components) - Awesome list of React headless components!
