@@ -336,7 +336,7 @@
 - [ainsleyclark/errors](https://github.com/ainsleyclark/errors) - 🫠 A drop-in replacement for Go errors, with some added sugar! Error handling in Go made easy with codes, messages and more. Failure is your domain!
 - [ainsleyclark/logger](https://github.com/ainsleyclark/logger) - ✏️ A Go wrapper for Logrus, Errors, Mongo and Facebook Workplace giving you extremely detailed log reports.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [z7zmey/php-parser](https://github.com/z7zmey/php-parser) - PHP parser written in Go
 - [fatih/structtag](https://github.com/fatih/structtag) - Parse and modify Go struct field tags
