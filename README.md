@@ -175,7 +175,7 @@
 - [mattn/goveralls](https://github.com/mattn/goveralls) - 
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained access control for customer applications
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained authorization for customer applications
 - [zwgblue/yaml-encoder](https://github.com/zwgblue/yaml-encoder) - A yaml encoder which implements yaml.Marshaler with comments
 - [inngest/inngestgo](https://github.com/inngest/inngestgo) - Golang SDK for Inngest
 - [enrichman/polygo](https://github.com/enrichman/polygo) - 
@@ -506,7 +506,7 @@
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [hackergrrl/electron-speech](https://github.com/hackergrrl/electron-speech) - :microphone: Easy speech recognition in Node!
-- [TalAter/annyang](https://github.com/TalAter/annyang) - :speech_balloon: Speech recognition for your site
+- [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [xuri/aurora](https://github.com/xuri/aurora) - Cross-platform beanstalkd queue server admin console.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
