@@ -639,7 +639,7 @@
 
 ## electron 
 
-- [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - This repository has been made to create an objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
+- [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
@@ -693,7 +693,7 @@
 
 ## flutter 
 
-- [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - This repository has been made to create an objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
+- [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 - [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
@@ -1524,7 +1524,6 @@
 - [boxyhq/jackson](https://github.com/boxyhq/jackson) - 🔥 Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync vi
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A complete design system and component solution, built on Tailwind.
 - [ory/kratos-selfservice-ui-react-nextjs](https://github.com/ory/kratos-selfservice-ui-react-nextjs) - A full reference implementation for designing your own login, registration, recovery, verification, ... pages using Ory Kratos' APIs.
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 
 ## nlp 
 
@@ -2063,6 +2062,7 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [tommoor/emojione-picker](https://github.com/tommoor/emojione-picker) - A react emoji picker for use with emojione
