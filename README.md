@@ -143,7 +143,7 @@
 - [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) - Natural language detection library for Go
 - [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go library for reading and writing XLSX files.
 - [flipt-io/reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
-- [creativecreature/sturdyc](https://github.com/creativecreature/sturdyc) - A caching library with advanced concurrency features to help you build highly performant and resilient applications.
+- [creativecreature/sturdyc](https://github.com/creativecreature/sturdyc) - A caching library with advanced concurrency features, designed for building highly performant and resilient applications.
 - [flynn/noise](https://github.com/flynn/noise) - Go implementation of the Noise Protocol Framework
 - [jhump/grpctunnel](https://github.com/jhump/grpctunnel) - gRPC Tunneling
 - [jhump/gopoet](https://github.com/jhump/gopoet) - A Go API for generating .go source files
@@ -266,7 +266,7 @@
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 - [yalue/merged_fs](https://github.com/yalue/merged_fs) - Implements Go's (golang) io/fs filesystem interface by merging other io/fs instances.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [zolia/go-ci](https://github.com/zolia/go-ci) - 
 - [iineva/ipa-server](https://github.com/iineva/ipa-server) - Upload and install Apple ipa and Android apk in web.
 - [iineva/bom](https://github.com/iineva/bom) - Apple iOS / macOS Assets.car decoder, write in golang
