@@ -126,6 +126,7 @@
 
 ## Go 
 
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
 - [google/codesearch](https://github.com/google/codesearch) - Fast, indexed regexp search over large file trees
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid) - Custom GPG pinentry program for macOS that allows using Touch ID for fetching the password from the macOS keychain.
