@@ -1754,7 +1754,7 @@
 - [kewisch/action-web-ext](https://github.com/kewisch/action-web-ext) - A GitHub Action to run web-ext commands
 - [fregante/ghatemplates](https://github.com/fregante/ghatemplates) - GitHub Actions workflow templates for `$ ghat`
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
-- [harismuneer/Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) - 🤖 Top-rated tools to scrape all major sections from Facebook, Instagram and Twitter including posts (likes/comments), photos/videos, contact informations, followers, following and much more.
+- [harismuneer/Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) - 🤖 Top-rated tools to scrape all major sections from Facebook, Instagram, TikTok and Twitter (X) including posts (likes/comments), photos/videos, contact information, followers, following and much more
 - [tkrajina/typescriptify-golang-structs](https://github.com/tkrajina/typescriptify-golang-structs) - A Golang struct to TypeScript class/interface converter
 - [void-developer/go-heaps](https://github.com/void-developer/go-heaps) - A library for go to create and use heaps the easiest and most flexible way
 - [replit/upm](https://github.com/replit/upm) - ⠕ Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
