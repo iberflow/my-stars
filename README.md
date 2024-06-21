@@ -131,6 +131,10 @@
 
 ## Go 
 
+- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [djthorpe/go-whisper](https://github.com/djthorpe/go-whisper) - Speech-to-Text in golang
 - [gomutex/godocx](https://github.com/gomutex/godocx) - Go library for reading and writing Microsoft Docx
 - [nikolaydubina/go-hackers-delight](https://github.com/nikolaydubina/go-hackers-delight) - "Hacker's Delight" in Go
