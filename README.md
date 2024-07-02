@@ -404,7 +404,7 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
 - [pressly/sup](https://github.com/pressly/sup) - Super simple deployment tool - think of it like 'make' for a network of servers
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [mysteriumnetwork/openvpn-forwarder](https://github.com/mysteriumnetwork/openvpn-forwarder) - Forwards Openvpn traffic to Mysterium Network nodes
 - [AllenDang/w32](https://github.com/AllenDang/w32) - A wrapper of windows apis for the Go Programming Language.
