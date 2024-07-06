@@ -796,6 +796,7 @@
 
 ## go 
 
+- [mus-format/mus-go](https://github.com/mus-format/mus-go) - MUS format serializer with validation support for Golang
 - [sugarme/gotch](https://github.com/sugarme/gotch) - Go binding for Pytorch C++ API (libtorch)
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -924,6 +925,7 @@
 
 ## golang 
 
+- [mus-format/mus-go](https://github.com/mus-format/mus-go) - MUS format serializer with validation support for Golang
 - [sugarme/gotch](https://github.com/sugarme/gotch) - Go binding for Pytorch C++ API (libtorch)
 - [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a firewall designed for AI models.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
