@@ -237,6 +237,7 @@
 
 ## android 
 
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -507,7 +508,7 @@
 
 ## css 
 
-- [speedata/bagme](https://github.com/speedata/bagme) - boxes and glue made easy - a PDF rendering library for Go using boxes and glue
+- [boxesandglue/bagme](https://github.com/boxesandglue/bagme) - boxes and glue made easy - a PDF rendering library for Go using boxes and glue
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
@@ -727,6 +728,7 @@
 
 ## flutter 
 
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 - [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.
@@ -812,7 +814,7 @@
 - [creativecreature/sturdyc](https://github.com/creativecreature/sturdyc) - A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant
 - [jhump/grpctunnel](https://github.com/jhump/grpctunnel) - gRPC Tunneling
 - [jhump/gopoet](https://github.com/jhump/gopoet) - A Go API for generating .go source files
-- [speedata/bagme](https://github.com/speedata/bagme) - boxes and glue made easy - a PDF rendering library for Go using boxes and glue
+- [boxesandglue/bagme](https://github.com/boxesandglue/bagme) - boxes and glue made easy - a PDF rendering library for Go using boxes and glue
 - [srikrsna/protoc-gen-gotag](https://github.com/srikrsna/protoc-gen-gotag) - Add custom struct tags to protobuf generated structs
 - [ollama-cloud/get-started](https://github.com/ollama-cloud/get-started) - Ollama Cloud is a Highly Scalable Cloud-native Stack for Ollama
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -925,6 +927,7 @@
 
 ## golang 
 
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [mus-format/mus-go](https://github.com/mus-format/mus-go) - MUS format serializer with validation support for Golang
 - [sugarme/gotch](https://github.com/sugarme/gotch) - Go binding for Pytorch C++ API (libtorch)
 - [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a firewall designed for AI models.
@@ -1181,7 +1184,7 @@
 ## html 
 
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
-- [speedata/bagme](https://github.com/speedata/bagme) - boxes and glue made easy - a PDF rendering library for Go using boxes and glue
+- [boxesandglue/bagme](https://github.com/boxesandglue/bagme) - boxes and glue made easy - a PDF rendering library for Go using boxes and glue
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
@@ -1209,6 +1212,7 @@
 
 ## ios 
 
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [keybase/go-keychain](https://github.com/keybase/go-keychain) - Golang keychain package for iOS and macOS
@@ -1689,6 +1693,7 @@
 
 ## others 
 
+- [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [pkoukk/tiktoken-go-loader](https://github.com/pkoukk/tiktoken-go-loader) - Alterive bpe loader for tiktoken-go
 - [andrewginns/CoreMLPlayer](https://github.com/andrewginns/CoreMLPlayer) - Try CoreML models on multiple images and videos easily and quickly
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
@@ -1716,7 +1721,7 @@
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [flynn/noise](https://github.com/flynn/noise) - Go implementation of the Noise Protocol Framework
 - [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy!
-- [speedata/boxesandglue](https://github.com/speedata/boxesandglue) - PDF rendering library for Go using TeX algorithms.
+- [boxesandglue/boxesandglue](https://github.com/boxesandglue/boxesandglue) - PDF rendering library for Go using TeX algorithms.
 - [MiniAiLive/FaceRecognition-LivenessDetection-Linux-SDK](https://github.com/MiniAiLive/FaceRecognition-LivenessDetection-Linux-SDK) - NIST FRVT Top Ranked Face Recognition, iBeta 2 Certified Liveness Detection (3D Face Passive Anti-Spoofing) Engine!
 - [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) - University Domains and Names Data List & API
 - [favadi/protoc-go-inject-tag](https://github.com/favadi/protoc-go-inject-tag) - Inject custom tags to protobuf golang struct
@@ -2060,6 +2065,7 @@
 
 ## privacy 
 
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
@@ -2378,6 +2384,7 @@
 
 ## typescript 
 
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [clarkmcc/go-typescript](https://github.com/clarkmcc/go-typescript) - Compile and run Typescript code natively in Go
