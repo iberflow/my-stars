@@ -132,7 +132,7 @@
 
 ## Go 
 
-- [mus-format/mus-go](https://github.com/mus-format/mus-go) - MUS format serializer with validation support for Golang
+- [mus-format/mus-go](https://github.com/mus-format/mus-go) - A set of serialization primitives for Golang
 - [sugarme/gotch](https://github.com/sugarme/gotch) - Go binding for Pytorch C++ API (libtorch)
 - [sugarme/transformer](https://github.com/sugarme/transformer) - NLP transformers written in Go
 - [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a firewall designed for AI models.
