@@ -757,6 +757,7 @@
 
 ## Python 
 
+- [kijai/ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) - ComfyUI nodes for LivePortrait
 - [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [nihole/md2docx](https://github.com/nihole/md2docx) - Markdown to Word docx file conversion
 - [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) - University Domains and Names Data List & API
