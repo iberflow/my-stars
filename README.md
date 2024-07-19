@@ -63,7 +63,6 @@
 
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [onomondo/onomondo-uicc](https://github.com/onomondo/onomondo-uicc) - Onomondo UICC - a software implementation of SIM/UICC/USIM functionalities
-- [MiniAiLive/FaceRecognition-LivenessDetection-Linux-SDK](https://github.com/MiniAiLive/FaceRecognition-LivenessDetection-Linux-SDK) - NIST FRVT Top Ranked Face Recognition, iBeta 2 Certified Liveness Detection (3D Face Passive Anti-Spoofing) Engine!
 - [kartben/artificial-nose](https://github.com/kartben/artificial-nose) - Instructions, source code, and misc. resources needed for building a Tiny ML-powered artificial nose.
 - [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
@@ -132,6 +131,7 @@
 
 ## Go 
 
+- [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 - [Bearer/gon](https://github.com/Bearer/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [nordcloud/gon](https://github.com/nordcloud/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [rapidloop/ragdemo](https://github.com/rapidloop/ragdemo) - Example of a Retrieval-Augmented Generation with Postgres, pgvector, ollama, Llama3 and Go.
@@ -766,6 +766,7 @@
 - [kijai/ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) - ComfyUI nodes for LivePortrait
 - [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [nihole/md2docx](https://github.com/nihole/md2docx) - Markdown to Word docx file conversion
+- [MiniAiLive/FaceLivenessDetection-Windows-SDK](https://github.com/MiniAiLive/FaceLivenessDetection-Windows-SDK) - NIST FRVT Top Ranked Face Recognition, iBeta 2 Certified Liveness Detection (3D Face Passive Anti-Spoofing) Engine!
 - [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) - University Domains and Names Data List & API
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [Pi-EEG/EEGwithRaspberryPI](https://github.com/Pi-EEG/EEGwithRaspberryPI) - Open-Source board for converting RaspberryPI to Brain-computer interface
