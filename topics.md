@@ -1751,7 +1751,7 @@
 - [jannden/golang-examples](https://github.com/jannden/golang-examples) - 
 - [cloudflare/ahocorasick](https://github.com/cloudflare/ahocorasick) - A Golang implementation of the Aho-Corasick string matching algorithm
 - [jruizaranguren/best-of-digital-identity](https://github.com/jruizaranguren/best-of-digital-identity) - A ranked list of awesome Digital Identity open source projects
-- [janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
+- [homebrewltd/awesome-local-ai](https://github.com/homebrewltd/awesome-local-ai) - An awesome repository of local AI tools
 - [ckstevenson/ansible-role-headscale](https://github.com/ckstevenson/ansible-role-headscale) - An Ansible role for installing and configuring headsclae
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [casdoor/traefik-casdoor-auth](https://github.com/casdoor/traefik-casdoor-auth) - Traefik ForwardAuth middleware powered by Casdoor: https://doc.traefik.io/traefik/middlewares/http/forwardauth
