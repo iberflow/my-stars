@@ -1716,14 +1716,14 @@
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [festvox/festival](https://github.com/festvox/festival) - Festival Speech Synthesis System
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-- [djthorpe/go-whisper](https://github.com/djthorpe/go-whisper) - Speech-to-Text in golang
+- [mutablelogic/go-whisper](https://github.com/mutablelogic/go-whisper) - Speech-to-Text in golang
 - [nidorx/go-bench-viewer](https://github.com/nidorx/go-bench-viewer) - Easy and intuitive Go Benchmark Results Viewer.
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
 - [google/codesearch](https://github.com/google/codesearch) - Fast, indexed regexp search over large file trees
 - [onomondo/onomondo-uicc](https://github.com/onomondo/onomondo-uicc) - Onomondo UICC - a software implementation of SIM/UICC/USIM functionalities
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [chrusty/protoc-gen-jsonschema](https://github.com/chrusty/protoc-gen-jsonschema) - Protobuf to JSON-Schema compiler
-- [farouqzaib/fast-search](https://github.com/farouqzaib/fast-search) - Vector Database implemented in Golang with support for full-text and vector search as well as fault tolerance via Raft.
+- [farouqzaib/mettis](https://github.com/farouqzaib/mettis) - Vector Database implemented in Golang with support for full-text and vector search as well as fault tolerance via Raft.
 - [jxom/awesome-react-headless-components](https://github.com/jxom/awesome-react-headless-components) - Awesome list of React headless components!
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [zitadel/typescript](https://github.com/zitadel/typescript) - Typescript packages and application to showcase the ZITADEL resource API
