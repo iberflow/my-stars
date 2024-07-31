@@ -198,7 +198,7 @@
 
 - [rapidloop/ragdemo](https://github.com/rapidloop/ragdemo) - Example of a Retrieval-Augmented Generation with Postgres, pgvector, ollama, Llama3 and Go.
 - [cckalen/intellichunk](https://github.com/cckalen/intellichunk) - Go Based Lightweight RAG / LLM Tool with CLI + API
-- [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a firewall designed for AI models.
+- [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a new generation security layer for AI models
 - [kartben/artificial-nose](https://github.com/kartben/artificial-nose) - Instructions, source code, and misc. resources needed for building a Tiny ML-powered artificial nose.
 - [neurocult/agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -305,7 +305,7 @@
 
 ## artificial-intelligence 
 
-- [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a firewall designed for AI models.
+- [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a new generation security layer for AI models
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [neurocult/agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -941,9 +941,10 @@
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [mus-format/mus-go](https://github.com/mus-format/mus-go) - A set of serialization primitives for Golang
 - [sugarme/gotch](https://github.com/sugarme/gotch) - Go binding for Pytorch C++ API (libtorch)
-- [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a firewall designed for AI models.
+- [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a new generation security layer for AI models
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
+- [mutablelogic/go-whisper](https://github.com/mutablelogic/go-whisper) - Speech-to-Text in golang
 - [gomutex/godocx](https://github.com/gomutex/godocx) - Go library for reading and writing Microsoft Docx
 - [paologaleotti/blaze](https://github.com/paologaleotti/blaze) - Simple and minimal Go template for building fast and easy to develop web services
 - [connectrpc/vanguard-go](https://github.com/connectrpc/vanguard-go) - Support REST, gRPC, gRPC-Web, and Connect clients with one server.
@@ -1434,7 +1435,7 @@
 
 - [cckalen/intellichunk](https://github.com/cckalen/intellichunk) - Go Based Lightweight RAG / LLM Tool with CLI + API
 - [helixml/helix](https://github.com/helixml/helix) - Multi-node production AI stack. Run the best of open source AI easily on your own servers. Create your own AI by fine-tuning open source models. Integrate LLMs with APIs. Run gptscript securely on the
-- [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a firewall designed for AI models.
+- [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a new generation security layer for AI models
 - [philippgille/chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 - [ollama-cloud/get-started](https://github.com/ollama-cloud/get-started) - Ollama Cloud is a Highly Scalable Cloud-native Stack for Ollama
 - [neurocult/agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
@@ -1717,7 +1718,6 @@
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [festvox/festival](https://github.com/festvox/festival) - Festival Speech Synthesis System
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-- [mutablelogic/go-whisper](https://github.com/mutablelogic/go-whisper) - Speech-to-Text in golang
 - [nidorx/go-bench-viewer](https://github.com/nidorx/go-bench-viewer) - Easy and intuitive Go Benchmark Results Viewer.
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
 - [google/codesearch](https://github.com/google/codesearch) - Fast, indexed regexp search over large file trees
@@ -2110,6 +2110,7 @@
 
 ## python 
 
+- [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a new generation security layer for AI models
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
@@ -2251,7 +2252,7 @@
 
 ## security 
 
-- [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a firewall designed for AI models.
+- [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a new generation security layer for AI models
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
