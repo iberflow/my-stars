@@ -140,7 +140,7 @@
 - [mus-format/mus-go](https://github.com/mus-format/mus-go) - A set of serialization primitives for Golang
 - [sugarme/gotch](https://github.com/sugarme/gotch) - Go binding for Pytorch C++ API (libtorch)
 - [sugarme/transformer](https://github.com/sugarme/transformer) - NLP transformers written in Go
-- [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a firewall designed for AI models.
+- [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a new generation security layer for AI models
 - [pkoukk/tiktoken-go-loader](https://github.com/pkoukk/tiktoken-go-loader) - Alterive bpe loader for tiktoken-go
 - [sugarme/tokenizer](https://github.com/sugarme/tokenizer) - NLP tokenizers written in Go language
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
