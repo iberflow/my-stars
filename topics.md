@@ -1709,6 +1709,7 @@
 
 ## others 
 
+- [abgulati/hf-waitress](https://github.com/abgulati/hf-waitress) - Serving LLMs in the HF-Transformers format via a PyFlask API
 - [hhajime/Wavebar](https://github.com/hhajime/Wavebar) - Audio Visualizer for Mac Users
 - [Bearer/gon](https://github.com/Bearer/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [nordcloud/gon](https://github.com/nordcloud/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
