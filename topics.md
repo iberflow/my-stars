@@ -1942,7 +1942,7 @@
 - [keithwhor/nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
 - [JeffreyWay/Laravel-Elixir-Rollup](https://github.com/JeffreyWay/Laravel-Elixir-Rollup) - Official Rollup extension for Laravel Elixir. (Includes support for .vue files).
 - [hemanth/es-next](https://github.com/hemanth/es-next) - stage-0 to stage-4 ECMAscript proposals.
-- [Atinux/vue-adonis](https://github.com/Atinux/vue-adonis) - Boilerplate for using AdonisJS + Vue.js with server-side rendering
+- [atinux/vue-adonis](https://github.com/atinux/vue-adonis) - Boilerplate for using AdonisJS + Vue.js with server-side rendering
 - [adonisjs/adonis-app](https://github.com/adonisjs/adonis-app) - Application structure for new adonis app, think of it as scaffolding a new project
 - [NationalSecurityAgency/SIMP](https://github.com/NationalSecurityAgency/SIMP) - A system automation and configuration management stack targeted toward operational flexibility and policy compliance.
 - [thephpleague/glide](https://github.com/thephpleague/glide) - Wonderfully easy on-demand image manipulation library with an HTTP based API.
