@@ -560,7 +560,7 @@
 - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 - [JeffreyWay/Laravel-Elixir-Rollup](https://github.com/JeffreyWay/Laravel-Elixir-Rollup) - Official Rollup extension for Laravel Elixir. (Includes support for .vue files).
 - [Strider-CD/strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
-- [Atinux/vue-adonis](https://github.com/Atinux/vue-adonis) - Boilerplate for using AdonisJS + Vue.js with server-side rendering
+- [atinux/vue-adonis](https://github.com/atinux/vue-adonis) - Boilerplate for using AdonisJS + Vue.js with server-side rendering
 - [tommoor/emojione-picker](https://github.com/tommoor/emojione-picker) - A react emoji picker for use with emojione
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [adonisjs/adonis-app](https://github.com/adonisjs/adonis-app) - Application structure for new adonis app, think of it as scaffolding a new project
