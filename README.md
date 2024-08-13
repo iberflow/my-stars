@@ -29,6 +29,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Meson](#meson)
+- [Mustache](#mustache)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -131,6 +132,8 @@
 
 ## Go 
 
+- [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX -- Accelerated ML Libraries for Go
+- [GopherML/bag](https://github.com/GopherML/bag) - Bag of words as code
 - [alash3al/vecdb](https://github.com/alash3al/vecdb) - a vector embedding database with multiple storage engines and AI embedding integrations
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
@@ -457,6 +460,7 @@
 
 ## HTML 
 
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [nidorx/go-bench-viewer](https://github.com/nidorx/go-bench-viewer) - Easy and intuitive Go Benchmark Results Viewer.
 - [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -640,6 +644,10 @@
 ## Meson 
 
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+
+## Mustache 
+
+- [mostafa/go-api-client](https://github.com/mostafa/go-api-client) - Logto Management API Client for Go
 
 ## Nunjucks 
 
