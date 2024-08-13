@@ -810,6 +810,7 @@
 
 ## go 
 
+- [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX -- Accelerated ML Libraries for Go
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [mus-format/mus-go](https://github.com/mus-format/mus-go) - A set of serialization primitives for Golang
 - [sugarme/gotch](https://github.com/sugarme/gotch) - Go binding for Pytorch C++ API (libtorch)
@@ -940,6 +941,7 @@
 
 ## golang 
 
+- [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX -- Accelerated ML Libraries for Go
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 - [helixml/helix](https://github.com/helixml/helix) - Multi-node production AI stack. Run the best of open source AI easily on your own servers. Create your own AI by fine-tuning open source models. Integrate LLMs with APIs. Run gptscript securely on the
@@ -1458,7 +1460,6 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a
 - [casibase/casibase](https://github.com/casibase/casibase) - Spising: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Gr
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [the-crypt-keeper/can-ai-code](https://github.com/the-crypt-keeper/can-ai-code) - Self-evaluating interview for AI coders
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
@@ -1480,6 +1481,7 @@
 
 ## machine-learning 
 
+- [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX -- Accelerated ML Libraries for Go
 - [alash3al/vecdb](https://github.com/alash3al/vecdb) - a vector embedding database with multiple storage engines and AI embedding integrations
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [ollama-cloud/get-started](https://github.com/ollama-cloud/get-started) - Ollama Cloud is a Highly Scalable Cloud-native Stack for Ollama
@@ -1609,6 +1611,7 @@
 
 ## neural-network 
 
+- [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX -- Accelerated ML Libraries for Go
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [neurocult/agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -1719,6 +1722,9 @@
 
 ## others 
 
+- [mostafa/go-api-client](https://github.com/mostafa/go-api-client) - Logto Management API Client for Go
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
+- [GopherML/bag](https://github.com/GopherML/bag) - Bag of words as code
 - [abgulati/hf-waitress](https://github.com/abgulati/hf-waitress) - Serving LLMs in the HF-Transformers format via a PyFlask API
 - [hhajime/Wavebar](https://github.com/hhajime/Wavebar) - Audio Visualizer for Mac Users
 - [Bearer/gon](https://github.com/Bearer/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
