@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [manterfield/go-mapreader](https://github.com/manterfield/go-mapreader) - mapreader is a tiny Golang library for accessing arbitrary keys from maps - especially useful when dealing with semi-unknown JSON payloads
 - [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX -- Accelerated ML Libraries for Go
 - [GopherML/bag](https://github.com/GopherML/bag) - Bag of words as code
 - [alash3al/vecdb](https://github.com/alash3al/vecdb) - a vector embedding database with multiple storage engines and AI embedding integrations
