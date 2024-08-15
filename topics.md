@@ -941,6 +941,7 @@
 
 ## golang 
 
+- [manterfield/go-mapreader](https://github.com/manterfield/go-mapreader) - mapreader is a tiny Golang library for accessing arbitrary keys from maps - especially useful when dealing with semi-unknown JSON payloads
 - [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX -- Accelerated ML Libraries for Go
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
@@ -1339,6 +1340,7 @@
 
 ## json 
 
+- [manterfield/go-mapreader](https://github.com/manterfield/go-mapreader) - mapreader is a tiny Golang library for accessing arbitrary keys from maps - especially useful when dealing with semi-unknown JSON payloads
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
 - [dyne/file-extension-list](https://github.com/dyne/file-extension-list) - Organised collection of common file extensions
 - [hubvue/json2type](https://github.com/hubvue/json2type) - convert JSON of a specific format to a type structure(support Typescript type and Go type)
