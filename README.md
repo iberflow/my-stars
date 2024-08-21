@@ -63,6 +63,7 @@
 ## C 
 
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [onomondo/onomondo-uicc](https://github.com/onomondo/onomondo-uicc) - Onomondo UICC - a software implementation of SIM/UICC/USIM functionalities
 - [kartben/artificial-nose](https://github.com/kartben/artificial-nose) - Instructions, source code, and misc. resources needed for building a Tiny ML-powered artificial nose.
 - [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
@@ -156,7 +157,6 @@
 - [mutablelogic/go-whisper](https://github.com/mutablelogic/go-whisper) - Speech-to-Text in golang
 - [gomutex/godocx](https://github.com/gomutex/godocx) - Go library for reading and writing Microsoft Docx
 - [nikolaydubina/go-hackers-delight](https://github.com/nikolaydubina/go-hackers-delight) - "Hacker's Delight" in Go
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [google/codesearch](https://github.com/google/codesearch) - Fast, indexed regexp search over large file trees
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid) - Custom GPG pinentry program for macOS that allows using Touch ID for fetching the password from the macOS keychain.
@@ -783,7 +783,7 @@
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [Pi-EEG/EEGwithRaspberryPI](https://github.com/Pi-EEG/EEGwithRaspberryPI) - Open-Source board for converting RaspberryPI to Brain-computer interface
 - [pratyushasharma/laser](https://github.com/pratyushasharma/laser) - The Truth Is In There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [donaldafeith/Pytorch_Merge](https://github.com/donaldafeith/Pytorch_Merge) - Merge LLM that are split in to parts
