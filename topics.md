@@ -31,6 +31,7 @@
 - [bot](#bot)
 - [bugbounty](#bugbounty)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -158,6 +159,7 @@
 - [react-native](#react-native)
 - [reactjs](#reactjs)
 - [redux](#redux)
+- [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
 - [robotics](#robotics)
 - [ruby](#ruby)
@@ -410,6 +412,10 @@
 - [eclipse/upm](https://github.com/eclipse/upm) - UPM is a high level repository that provides software drivers for a wide variety of commonly used sensors and actuators. These software drivers interact with the underlying hardware platform through c
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 
+## c-plus-plus 
+
+- [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
+
 ## chatgpt 
 
 - [lenML/tokenizers](https://github.com/lenML/tokenizers) - a lightweight no-dependency fork from transformers.js (only tokenizers)
@@ -506,6 +512,7 @@
 
 ## cryptography 
 
+- [grooveid/wincrypto](https://github.com/grooveid/wincrypto) - Go bindings for Windows crypto APIs
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
@@ -813,6 +820,8 @@
 
 ## go 
 
+- [billgraziano/dpapi](https://github.com/billgraziano/dpapi) - GO Wrapper for Windows DPAPI
+- [grooveid/wincrypto](https://github.com/grooveid/wincrypto) - Go bindings for Windows crypto APIs
 - [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [mus-format/mus-go](https://github.com/mus-format/mus-go) - A set of serialization primitives for Golang
@@ -944,6 +953,7 @@
 
 ## golang 
 
+- [billgraziano/dpapi](https://github.com/billgraziano/dpapi) - GO Wrapper for Windows DPAPI
 - [manterfield/go-mapreader](https://github.com/manterfield/go-mapreader) - mapreader is a tiny Golang library for accessing arbitrary keys from maps - especially useful when dealing with semi-unknown JSON payloads
 - [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
@@ -2217,7 +2227,7 @@
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react) - ⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。
 - [HashemKhalifa/webpack-react-boilerplate](https://github.com/HashemKhalifa/webpack-react-boilerplate) - Minimal React 16 and Webpack 4 boilerplate with babel 7, using the new webpack-dev-server, react-hot-loader, CSS-Modules
-- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
@@ -2245,7 +2255,11 @@
 
 ## redux 
 
-- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+
+## reinforcement-learning 
+
+- [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
 
 ## rest-api 
 
@@ -2537,6 +2551,8 @@
 
 ## windows 
 
+- [billgraziano/dpapi](https://github.com/billgraziano/dpapi) - GO Wrapper for Windows DPAPI
+- [grooveid/wincrypto](https://github.com/grooveid/wincrypto) - Go bindings for Windows crypto APIs
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [energye/systray](https://github.com/energye/systray) - Support for Windows, Linux, and MacOSX system trays
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
