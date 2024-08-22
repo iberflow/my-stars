@@ -63,6 +63,7 @@
 ## C 
 
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [onomondo/onomondo-uicc](https://github.com/onomondo/onomondo-uicc) - Onomondo UICC - a software implementation of SIM/UICC/USIM functionalities
 - [kartben/artificial-nose](https://github.com/kartben/artificial-nose) - Instructions, source code, and misc. resources needed for building a Tiny ML-powered artificial nose.
@@ -89,7 +90,6 @@
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [festvox/festival](https://github.com/festvox/festival) - Festival Speech Synthesis System
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [usefulsensors/useful-transformers](https://github.com/usefulsensors/useful-transformers) - Efficient Inference of Transformer models
@@ -133,6 +133,8 @@
 
 ## Go 
 
+- [billgraziano/dpapi](https://github.com/billgraziano/dpapi) - GO Wrapper for Windows DPAPI
+- [grooveid/wincrypto](https://github.com/grooveid/wincrypto) - Go bindings for Windows crypto APIs
 - [manterfield/go-mapreader](https://github.com/manterfield/go-mapreader) - mapreader is a tiny Golang library for accessing arbitrary keys from maps - especially useful when dealing with semi-unknown JSON payloads
 - [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go
 - [GopherML/bag](https://github.com/GopherML/bag) - Bag of words as code
@@ -530,7 +532,7 @@
 - [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) - 361000 becomes "6 minutes, 1 second"
 - [alexsyo/react-circular-slider-bar](https://github.com/alexsyo/react-circular-slider-bar) - Circular slider component for React
 - [HashemKhalifa/webpack-react-boilerplate](https://github.com/HashemKhalifa/webpack-react-boilerplate) - Minimal React 16 and Webpack 4 boilerplate with babel 7, using the new webpack-dev-server, react-hot-loader, CSS-Modules
-- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [danvk/dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag
