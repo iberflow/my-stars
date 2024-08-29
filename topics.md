@@ -32,6 +32,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -418,6 +419,15 @@
 
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 
+## chatbot 
+
+- [cckalen/intellichunk](https://github.com/cckalen/intellichunk) - Go Based Lightweight RAG / LLM Tool with CLI + API
+- [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
+- [casibase/casibase](https://github.com/casibase/casibase) - Spising: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Gr
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [pszemraj/ai-msgbot](https://github.com/pszemraj/ai-msgbot) - Training & Implementation of chatbots leveraging GPT-like architecture with the aitextgen package to enable dynamic conversations.
+
 ## chatgpt 
 
 - [lenML/tokenizers](https://github.com/lenML/tokenizers) - a lightweight no-dependency fork from transformers.js (only tokenizers)
@@ -579,7 +589,7 @@
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
 
 ## database 
@@ -593,7 +603,7 @@
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [Meteor-Community-Packages/meteor-collection2](https://github.com/Meteor-Community-Packages/meteor-collection2) - A Meteor package that extends Mongo.Collection to provide support for specifying a schema and then validating against that schema when inserting and updating.
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
@@ -642,7 +652,7 @@
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible) - Ansible inside Docker containers: Alpine, Ubuntu, Rocky & Debian with Ansible 2.16, 2.15, 2.14, 2.13, 2.12, 2.11, 2.10 and 2.9 + Mitogen
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## docker 
 
@@ -669,7 +679,7 @@
 - [richarvey/nginx-php-fpm](https://github.com/richarvey/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
 - [blacktop/docker-elasticsearch-alpine](https://github.com/blacktop/docker-elasticsearch-alpine) - Alpine Linux based Elasticsearch Docker Image
 - [bkuhl/fpm-nginx](https://github.com/bkuhl/fpm-nginx) - A single container with fpm & nginx with Laravel dependencies
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## documentation 
 
@@ -1395,7 +1405,7 @@
 - [solidnerd/terraform-k8s-hcloud](https://github.com/solidnerd/terraform-k8s-hcloud) - A simple project to spin your k8s cluster with terraform, kubeadm on hcloud
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## language 
 
@@ -1460,7 +1470,7 @@
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [pwittchen/spotify-cli-linux](https://github.com/pwittchen/spotify-cli-linux) - 🎶 A command line interface to Spotify on Linux
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [screetsec/Dracnmap](https://github.com/screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and dif
 
@@ -1535,7 +1545,7 @@
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 
 ## macos 
@@ -1603,7 +1613,7 @@
 ## mongodb 
 
 - [ansible-collections/community.mongodb](https://github.com/ansible-collections/community.mongodb) - MongoDB Ansible Collection
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [Meteor-Community-Packages/meteor-collection2](https://github.com/Meteor-Community-Packages/meteor-collection2) - A Meteor package that extends Mongo.Collection to provide support for specifying a schema and then validating against that schema when inserting and updating.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -1614,7 +1624,7 @@
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## music 
 
@@ -1626,7 +1636,7 @@
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [go-xorm/xorm](https://github.com/go-xorm/xorm) - Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
 
 ## natural-language-processing 
@@ -2130,7 +2140,7 @@
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [go-xorm/xorm](https://github.com/go-xorm/xorm) - Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## privacy 
 
@@ -2200,7 +2210,7 @@
 - [Pi-EEG/EEGwithRaspberryPI](https://github.com/Pi-EEG/EEGwithRaspberryPI) - Open-Source board for converting RaspberryPI to Brain-computer interface
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## react 
 
