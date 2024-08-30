@@ -1833,7 +1833,7 @@
 - [latent-variable/Real_time_fallacy_detection](https://github.com/latent-variable/Real_time_fallacy_detection) - Real-time Fallacy Detection using OpenAI whisper and ChatGPT/LLaMA/Mistral
 - [mind-ar/goEagi](https://github.com/mind-ar/goEagi) - 
 - [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) - 
-- [replicate/go](https://github.com/replicate/go) - Repository for go shared libraries (for now)
+- [replicate/go](https://github.com/replicate/go) - Repository for go shared libraries (for now).
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [go-skynet/go-llama.cpp](https://github.com/go-skynet/go-llama.cpp) - LLama.cpp golang bindings
 - [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented embedding tuning for BERT, CLIP, etc.
