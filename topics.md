@@ -832,6 +832,7 @@
 
 ## go 
 
+- [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
 - [mercari/grpc-federation](https://github.com/mercari/grpc-federation) - gRPC Federation generates a gRPC server by writing a custom option in Protocol Buffers
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 - [billgraziano/dpapi](https://github.com/billgraziano/dpapi) - GO Wrapper for Windows DPAPI
@@ -967,6 +968,7 @@
 
 ## golang 
 
+- [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
 - [mercari/grpc-federation](https://github.com/mercari/grpc-federation) - gRPC Federation generates a gRPC server by writing a custom option in Protocol Buffers
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 - [billgraziano/dpapi](https://github.com/billgraziano/dpapi) - GO Wrapper for Windows DPAPI
