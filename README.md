@@ -782,6 +782,7 @@
 
 ## Python 
 
+- [javirandor/anthropic-tokenizer](https://github.com/javirandor/anthropic-tokenizer) - Approximation of the Claude 3 tokenizer by inspecting generation stream
 - [abgulati/hf-waitress](https://github.com/abgulati/hf-waitress) - Serving LLMs in the HF-Transformers format via a PyFlask API
 - [kijai/ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) - ComfyUI nodes for LivePortrait
 - [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
