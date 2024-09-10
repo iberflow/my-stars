@@ -1388,7 +1388,7 @@
 - [hubvue/json2type](https://github.com/hubvue/json2type) - convert JSON of a specific format to a type structure(support Typescript type and Go type)
 - [liip/sheriff](https://github.com/liip/sheriff) - Conditional marshalling for Go
 - [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go
-- [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data
+- [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package for querying over JSON, YAML, XML, and CSV data.
 - [traefik/paerser](https://github.com/traefik/paerser) - Loads configuration from many sources
 
 ## kotlin 
