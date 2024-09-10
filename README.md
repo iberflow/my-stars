@@ -361,7 +361,7 @@
 - [liip/sheriff](https://github.com/liip/sheriff) - Conditional marshalling for Go
 - [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 - [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go
-- [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data
+- [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package for querying over JSON, YAML, XML, and CSV data.
 - [tmdvs/Go-Emoji-Utils](https://github.com/tmdvs/Go-Emoji-Utils) - A collection of useful functions for working with emoji. Look up the definition of an emoji, or search for all emojis in a string.
 - [unidoc/unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
