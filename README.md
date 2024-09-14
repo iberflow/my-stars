@@ -215,7 +215,7 @@
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained authorization for customer applications
 - [zwgblue/yaml-encoder](https://github.com/zwgblue/yaml-encoder) - A yaml encoder which implements yaml.Marshaler with comments
-- [inngest/inngestgo](https://github.com/inngest/inngestgo) - Golang SDK for Inngest
+- [inngest/inngestgo](https://github.com/inngest/inngestgo) - Durable execution in Go with the Golang Inngest SDK.  Write durable functions in your existing app.
 - [enrichman/polygo](https://github.com/enrichman/polygo) - 
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
