@@ -820,6 +820,7 @@
 
 ## github 
 
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS + GitHub actions 📽️
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - Terminal User Interface for Github
@@ -2490,6 +2491,7 @@
 
 ## terminal 
 
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS + GitHub actions 📽️
 - [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - Terminal User Interface for Github
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
