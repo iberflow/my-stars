@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [bluekeyes/go-gitdiff](https://github.com/bluekeyes/go-gitdiff) - Go library for parsing and applying patches created by Git
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [samber/slog-formatter](https://github.com/samber/slog-formatter) - 🚨 slog: Attribute formatting
 - [parquet-go/parquet-go](https://github.com/parquet-go/parquet-go) - High-performance Go package to read and write Parquet files
@@ -159,7 +160,7 @@
 - [sugarme/tokenizer](https://github.com/sugarme/tokenizer) - NLP tokenizers written in Go language
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [mutablelogic/go-whisper](https://github.com/mutablelogic/go-whisper) - Speech-to-Text in golang
 - [gomutex/godocx](https://github.com/gomutex/godocx) - Go library for reading and writing Microsoft Docx
@@ -215,7 +216,7 @@
 - [mattn/goveralls](https://github.com/mattn/goveralls) - 
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained authorization for customer applications
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [zwgblue/yaml-encoder](https://github.com/zwgblue/yaml-encoder) - A yaml encoder which implements yaml.Marshaler with comments
 - [inngest/inngestgo](https://github.com/inngest/inngestgo) - Durable execution in Go with the Golang Inngest SDK.  Write durable functions in your existing app.
 - [enrichman/polygo](https://github.com/enrichman/polygo) - 
