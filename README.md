@@ -86,6 +86,7 @@
 
 ## C++ 
 
+- [mykk/cpp17_monadic_operations](https://github.com/mykk/cpp17_monadic_operations) - 
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [festvox/festival](https://github.com/festvox/festival) - Festival Speech Synthesis System
