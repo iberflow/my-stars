@@ -494,6 +494,7 @@
 
 ## JavaScript 
 
+- [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
@@ -786,7 +787,7 @@
 - [kijai/ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) - ComfyUI nodes for LivePortrait
 - [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [nihole/md2docx](https://github.com/nihole/md2docx) - Markdown to Word docx file conversion
-- [MiniAiLive/FaceLivenessDetection-Windows-SDK](https://github.com/MiniAiLive/FaceLivenessDetection-Windows-SDK) - iBeta (Level 2) Certified, Single-Image Based Face Liveness Detection (Face Anti Spoofing) Server SDK
+- [MiniAiLive/FaceLivenessDetection-Windows](https://github.com/MiniAiLive/FaceLivenessDetection-Windows) - iBeta (Level 2) Certified, Single-Image Based Face Liveness Detection (Face Anti Spoofing) Server SDK
 - [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) - University Domains and Names Data List & API
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [pieeg-club/EEGwithRaspberryPI](https://github.com/pieeg-club/EEGwithRaspberryPI) - Not supported. Measure 8 EEG channels with Shield PiEEG and RaspberryPi in C library
