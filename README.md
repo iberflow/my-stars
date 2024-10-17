@@ -62,7 +62,6 @@
 ## C 
 
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [onomondo/onomondo-uicc](https://github.com/onomondo/onomondo-uicc) - Onomondo UICC - a software implementation of SIM/UICC/USIM functionalities
 - [kartben/artificial-nose](https://github.com/kartben/artificial-nose) - Instructions, source code, and misc. resources needed for building a Tiny ML-powered artificial nose.
 - [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
@@ -85,6 +84,7 @@
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [festvox/festival](https://github.com/festvox/festival) - Festival Speech Synthesis System
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [usefulsensors/useful-transformers](https://github.com/usefulsensors/useful-transformers) - Efficient Inference of Transformer models
@@ -128,6 +128,8 @@
 
 ## Go 
 
+- [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [bluekeyes/go-gitdiff](https://github.com/bluekeyes/go-gitdiff) - Go library for parsing and applying patches created by Git
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -148,7 +150,7 @@
 - [nordcloud/gon](https://github.com/nordcloud/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [rapidloop/ragdemo](https://github.com/rapidloop/ragdemo) - Example of a Retrieval-Augmented Generation with Postgres, pgvector, ollama, Llama3 and Go.
 - [cckalen/intellichunk](https://github.com/cckalen/intellichunk) - Go Based Lightweight RAG / LLM Tool with CLI + API
-- [helixml/helix](https://github.com/helixml/helix) - Multi-node production AI stack. Run the best of open source AI easily on your own servers. Create your own AI by fine-tuning open source models. Integrate LLMs with APIs. Run gptscript securely on the
+- [helixml/helix](https://github.com/helixml/helix) - Multi-node production AI stack. Run the best of open source AI easily on your own servers. Easily add knowledge from documents and scrape websites. Create your own AI by fine-tuning open source models
 - [mus-format/mus-go](https://github.com/mus-format/mus-go) - A set of serialization primitives for Golang
 - [sugarme/gotch](https://github.com/sugarme/gotch) - Go binding for Pytorch C++ API (libtorch)
 - [sugarme/transformer](https://github.com/sugarme/transformer) - NLP transformers written in Go
