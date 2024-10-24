@@ -128,6 +128,7 @@
 
 ## Go 
 
+- [negrel/secrecy](https://github.com/negrel/secrecy) - 🤫 A simple secret-keeping library for Go.
 - [ItalyPaleAle/traefik-forward-auth](https://github.com/ItalyPaleAle/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 - [MarceloPetrucio/go-scalar-api-reference](https://github.com/MarceloPetrucio/go-scalar-api-reference) - The Golang lib for Scalar - Beautiful API references from OpenAPI/Swagger files ✨
 - [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
@@ -796,7 +797,7 @@
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [pieeg-club/EEGwithRaspberryPI](https://github.com/pieeg-club/EEGwithRaspberryPI) - Not supported. Measure 8 EEG channels with Shield PiEEG and RaspberryPi in C library
 - [pratyushasharma/laser](https://github.com/pratyushasharma/laser) - The Truth Is In There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth web research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth local and web research on any given topic
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [donaldafeith/Pytorch_Merge](https://github.com/donaldafeith/Pytorch_Merge) - Merge LLM that are split in to parts
