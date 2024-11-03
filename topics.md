@@ -855,6 +855,7 @@
 
 ## go 
 
+- [negrel/assert](https://github.com/negrel/assert) - 0️⃣ Zero cost debug assertions for Go.
 - [mattevans/dinero](https://github.com/mattevans/dinero) - 📈 💰 A golang interface for the Open Exchange Rates API
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [negrel/secrecy](https://github.com/negrel/secrecy) - 🤫 A simple secret-keeping library for Go.
@@ -996,6 +997,7 @@
 
 ## golang 
 
+- [negrel/assert](https://github.com/negrel/assert) - 0️⃣ Zero cost debug assertions for Go.
 - [mattevans/dinero](https://github.com/mattevans/dinero) - 📈 💰 A golang interface for the Open Exchange Rates API
 - [hsnice16/email-verifier](https://github.com/hsnice16/email-verifier) - Enter an email and verify if it's a valid email or not, written in Go language. Also, exposes the core service to verify an email as a package.
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
