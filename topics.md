@@ -335,6 +335,7 @@
 
 ## automation 
 
+- [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [parcelvoy/platform](https://github.com/parcelvoy/platform) - Parcelvoy: Open source multi-channel marketing automation platform. Send data-driven emails, sms, push notifications and more!
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -855,6 +856,7 @@
 
 ## go 
 
+- [armsnyder/typescript-ast-go](https://github.com/armsnyder/typescript-ast-go) - Library for parsing TypeScript source code into an abstract syntax tree (AST)
 - [negrel/assert](https://github.com/negrel/assert) - 0️⃣ Zero cost debug assertions for Go.
 - [mattevans/dinero](https://github.com/mattevans/dinero) - 📈 💰 A golang interface for the Open Exchange Rates API
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -923,7 +925,6 @@
 - [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - Terminal User Interface for Github
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate) - Enable your Go applications to self update
-- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -996,6 +997,7 @@
 
 ## golang 
 
+- [armsnyder/typescript-ast-go](https://github.com/armsnyder/typescript-ast-go) - Library for parsing TypeScript source code into an abstract syntax tree (AST)
 - [negrel/assert](https://github.com/negrel/assert) - 0️⃣ Zero cost debug assertions for Go.
 - [mattevans/dinero](https://github.com/mattevans/dinero) - 📈 💰 A golang interface for the Open Exchange Rates API
 - [hsnice16/email-verifier](https://github.com/hsnice16/email-verifier) - Enter an email and verify if it's a valid email or not, written in Go language. Also, exposes the core service to verify an email as a package.
@@ -1350,6 +1352,7 @@
 
 ## javascript 
 
+- [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [nyariv/SandboxJS](https://github.com/nyariv/SandboxJS) - Safe eval runtime
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
@@ -1751,6 +1754,7 @@
 
 ## node 
 
+- [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [progpjs/progpjs](https://github.com/progpjs/progpjs) - A fast V8 wrapper for Go language
@@ -1941,6 +1945,7 @@
 - [kinde-oss/kinde-php-sdk](https://github.com/kinde-oss/kinde-php-sdk) - Kinde PHP SDK
 - [mesosphere/traefik-forward-auth](https://github.com/mesosphere/traefik-forward-auth) - 
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter) - Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - additional functionality via binary patching
@@ -2586,6 +2591,7 @@
 
 ## typescript 
 
+- [armsnyder/typescript-ast-go](https://github.com/armsnyder/typescript-ast-go) - Library for parsing TypeScript source code into an abstract syntax tree (AST)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [devbookhq/splitter](https://github.com/devbookhq/splitter) - React component for building split views like in VS Code
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
