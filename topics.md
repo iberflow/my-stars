@@ -2151,7 +2151,6 @@
 
 ## p2p 
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [cenkalti/rain](https://github.com/cenkalti/rain) - 🌧 BitTorrent client and library in Go
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
