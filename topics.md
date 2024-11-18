@@ -1908,7 +1908,7 @@
 - [favadi/protoc-go-inject-tag](https://github.com/favadi/protoc-go-inject-tag) - Inject custom tags to protobuf golang struct
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [eliben/code-for-blog](https://github.com/eliben/code-for-blog) - Code samples from my blog
-- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [AthenZ/athenz](https://github.com/AthenZ/athenz) - Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures. Athenz supports provisioning and configuration (centralized authoriz
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [williammoran/triggeredloghandler](https://github.com/williammoran/triggeredloghandler) - A log handler for Go that only sends messages when triggered by sufficient severity.
