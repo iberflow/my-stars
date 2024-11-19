@@ -127,6 +127,8 @@
 
 ## Go 
 
+- [tommie/v8go](https://github.com/tommie/v8go) - Execute JavaScript from Go (a fork of rogchap.com/v8go)
+- [stroiman/go-dom](https://github.com/stroiman/go-dom) - DOM implementation for Go (not usable work in progress, but contributors are welcome)
 - [the-go-tool/websearch](https://github.com/the-go-tool/websearch) - 🌍 It is Simple & Flexible Web Search Library for DuckDuckGo, Qwant, Google, Yandex, Bing and a lot of more search providers
 - [armsnyder/typescript-ast-go](https://github.com/armsnyder/typescript-ast-go) - Library for parsing TypeScript source code into an abstract syntax tree (AST)
 - [negrel/assert](https://github.com/negrel/assert) - 0️⃣ Zero cost debug assertions for Go.
@@ -349,7 +351,7 @@
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
 - [jmccann/drone-terraform](https://github.com/jmccann/drone-terraform) - Drone plugin for triggering Terraform deployments
 - [go101/golds](https://github.com/go101/golds) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
-- [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [go-openapi/spec3](https://github.com/go-openapi/spec3) - 
 - [go-git/go-billy](https://github.com/go-git/go-billy) - The missing interface filesystem abstraction for Go
 - [mvrilo/go-redoc](https://github.com/mvrilo/go-redoc) - go-redoc is an embedded OpenAPI/Swagger documentation ui for Go using ReDoc
