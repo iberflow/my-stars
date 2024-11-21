@@ -1120,7 +1120,7 @@
 - [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
 - [go101/golds](https://github.com/go101/golds) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
-- [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [mvrilo/go-redoc](https://github.com/mvrilo/go-redoc) - go-redoc is an embedded OpenAPI/Swagger documentation ui for Go using ReDoc
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
@@ -1352,7 +1352,7 @@
 ## java 
 
 - [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java
-- [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is an open source time-series database for fast ingest and SQL queries
 - [eclipse/upm](https://github.com/eclipse/upm) - UPM is a high level repository that provides software drivers for a wide variety of commonly used sensors and actuators. These software drivers interact with the underlying hardware platform through c
@@ -1858,6 +1858,8 @@
 
 ## others 
 
+- [tommie/v8go](https://github.com/tommie/v8go) - Execute JavaScript from Go (a fork of rogchap.com/v8go)
+- [stroiman/go-dom](https://github.com/stroiman/go-dom) - DOM implementation for Go (not usable work in progress, but contributors are welcome)
 - [ItalyPaleAle/traefik-forward-auth](https://github.com/ItalyPaleAle/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 - [MarceloPetrucio/go-scalar-api-reference](https://github.com/MarceloPetrucio/go-scalar-api-reference) - The Golang lib for Scalar - Beautiful API references from OpenAPI/Swagger files ✨
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
@@ -1915,7 +1917,7 @@
 - [jannden/golang-examples](https://github.com/jannden/golang-examples) - 
 - [cloudflare/ahocorasick](https://github.com/cloudflare/ahocorasick) - A Golang implementation of the Aho-Corasick string matching algorithm
 - [jruizaranguren/best-of-digital-identity](https://github.com/jruizaranguren/best-of-digital-identity) - A ranked list of awesome Digital Identity open source projects
-- [homebrewltd/awesome-local-ai](https://github.com/homebrewltd/awesome-local-ai) - An awesome repository of local AI tools
+- [janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
 - [ckstevenson/ansible-role-headscale](https://github.com/ckstevenson/ansible-role-headscale) - An Ansible role for installing and configuring headsclae
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [casdoor/traefik-casdoor-auth](https://github.com/casdoor/traefik-casdoor-auth) - Traefik ForwardAuth middleware powered by Casdoor: https://doc.traefik.io/traefik/middlewares/http/forwardauth
