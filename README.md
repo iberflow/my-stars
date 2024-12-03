@@ -501,7 +501,7 @@
 - [AthenZ/athenz](https://github.com/AthenZ/athenz) - Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures. Athenz supports provisioning and configuration (centralized authoriz
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [dlidstrom/NeuralNetworkInAllLangs](https://github.com/dlidstrom/NeuralNetworkInAllLangs) - Vanilla neural network implemented in all major languages
-- [JanssenProject/jans](https://github.com/JanssenProject/jans) - An open source enterprise digital identity platform for CIAM or workforce... Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cl
+- [JanssenProject/jans](https://github.com/JanssenProject/jans) - An enterprise identity and access management platform-- Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cloud. #OAuth #OpenID #
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
