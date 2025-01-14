@@ -1861,6 +1861,7 @@
 
 ## others 
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [abemedia/go-sparkle](https://github.com/abemedia/go-sparkle) - Go bindings for Sparkle
 - [tommie/v8go](https://github.com/tommie/v8go) - Execute JavaScript from Go (a fork of rogchap.com/v8go)
 - [stroiman/go-dom](https://github.com/stroiman/go-dom) - DOM implementation for Go (not usable work in progress, but contributors are welcome)
