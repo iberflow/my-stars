@@ -47,6 +47,7 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [YAML](#yaml)
+- [Zig](#zig)
 
 ## ActionScript 
 
@@ -1037,6 +1038,10 @@
 ## YAML 
 
 - [RealOrangeOne/infrastructure](https://github.com/RealOrangeOne/infrastructure) - Servers, containers and stuff
+
+## Zig 
+
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 
 ## License
