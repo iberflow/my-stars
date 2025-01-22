@@ -60,6 +60,7 @@
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [deployment](#deployment)
+- [design](#design)
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
@@ -159,6 +160,7 @@
 - [pwa](#pwa)
 - [python](#python)
 - [pytorch](#pytorch)
+- [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
@@ -169,6 +171,7 @@
 - [robotics](#robotics)
 - [ruby](#ruby)
 - [rust](#rust)
+- [sass](#sass)
 - [scikit-learn](#scikit-learn)
 - [security](#security)
 - [security-tools](#security-tools)
@@ -665,6 +668,10 @@
 
 - [pszemraj/ai-msgbot](https://github.com/pszemraj/ai-msgbot) - Training & Implementation of chatbots leveraging GPT-like architecture with the aitextgen package to enable dynamic conversations.
 
+## design 
+
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+
 ## devops 
 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -683,6 +690,8 @@
 
 ## docker 
 
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - An open source issue management & help desk solution. A zendesk & jira alternative
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
@@ -865,6 +874,7 @@
 
 - [eliben/go-sentencepiece](https://github.com/eliben/go-sentencepiece) - Go implementation of the SentencePiece tokenizer
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
+- [stroiman/go-dom](https://github.com/stroiman/go-dom) - Headless browser for Go for TDD workflows
 - [the-go-tool/websearch](https://github.com/the-go-tool/websearch) - 🌍 It is Simple & Flexible Web Search Library for DuckDuckGo, Qwant, Google, Yandex, Bing and a lot of more search providers
 - [armsnyder/typescript-ast-go](https://github.com/armsnyder/typescript-ast-go) - Library for parsing TypeScript source code into an abstract syntax tree (AST)
 - [negrel/assert](https://github.com/negrel/assert) - 0️⃣ Zero cost debug assertions for Go.
@@ -1009,6 +1019,7 @@
 
 - [eliben/go-sentencepiece](https://github.com/eliben/go-sentencepiece) - Go implementation of the SentencePiece tokenizer
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
+- [stroiman/go-dom](https://github.com/stroiman/go-dom) - Headless browser for Go for TDD workflows
 - [the-go-tool/websearch](https://github.com/the-go-tool/websearch) - 🌍 It is Simple & Flexible Web Search Library for DuckDuckGo, Qwant, Google, Yandex, Bing and a lot of more search providers
 - [armsnyder/typescript-ast-go](https://github.com/armsnyder/typescript-ast-go) - Library for parsing TypeScript source code into an abstract syntax tree (AST)
 - [negrel/assert](https://github.com/negrel/assert) - 0️⃣ Zero cost debug assertions for Go.
@@ -1203,6 +1214,7 @@
 
 ## hacktoberfest 
 
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
@@ -1361,6 +1373,8 @@
 
 ## javascript 
 
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - An open source issue management & help desk solution. A zendesk & jira alternative
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [nyariv/SandboxJS](https://github.com/nyariv/SandboxJS) - Safe eval runtime
@@ -1740,6 +1754,7 @@
 
 ## nextjs 
 
+- [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - An open source issue management & help desk solution. A zendesk & jira alternative
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
@@ -1776,6 +1791,7 @@
 
 ## nodejs 
 
+- [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - An open source issue management & help desk solution. A zendesk & jira alternative
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
@@ -1862,10 +1878,10 @@
 
 ## others 
 
+- [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [abemedia/go-sparkle](https://github.com/abemedia/go-sparkle) - Go bindings for Sparkle
 - [tommie/v8go](https://github.com/tommie/v8go) - Execute JavaScript from Go (a fork of rogchap.com/v8go)
-- [stroiman/go-dom](https://github.com/stroiman/go-dom) - DOM implementation for Go (not usable work in progress, but contributors are welcome)
 - [ItalyPaleAle/traefik-forward-auth](https://github.com/ItalyPaleAle/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 - [MarceloPetrucio/go-scalar-api-reference](https://github.com/MarceloPetrucio/go-scalar-api-reference) - The Golang lib for Scalar - Beautiful API references from OpenAPI/Swagger files ✨
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
@@ -2319,6 +2335,10 @@
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 
+## rails 
+
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+
 ## raspberry-pi 
 
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -2329,6 +2349,7 @@
 
 ## react 
 
+- [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - An open source issue management & help desk solution. A zendesk & jira alternative
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 - [devbookhq/splitter](https://github.com/devbookhq/splitter) - React component for building split views like in VS Code
@@ -2413,6 +2434,7 @@
 
 ## ruby 
 
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 
@@ -2430,6 +2452,10 @@
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+
+## sass 
+
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 ## scikit-learn 
 
@@ -2475,6 +2501,7 @@
 
 ## self-hosted 
 
+- [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - An open source issue management & help desk solution. A zendesk & jira alternative
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
 - [helixml/helix](https://github.com/helixml/helix) - 🧬 Helix is a private GenAI stack for building AI applications with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -2616,6 +2643,7 @@
 
 ## testing 
 
+- [stroiman/go-dom](https://github.com/stroiman/go-dom) - Headless browser for Go for TDD workflows
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -2696,6 +2724,7 @@
 
 ## vuejs 
 
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [silencesys/silentbox](https://github.com/silencesys/silentbox) - A lightbox inspired Vue.js component.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
