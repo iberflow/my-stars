@@ -867,7 +867,7 @@
 - [samshadwell/TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [TomAnthony/itermocil](https://github.com/TomAnthony/itermocil) - Create pre-defined window/pane layouts and run commands in iTerm
-- [pwittchen/spotify-cli-linux](https://github.com/pwittchen/spotify-cli-linux) - 🎶 A command line interface to Spotify on Linux
+- [pwittchen/spotify-cli-linux](https://github.com/pwittchen/spotify-cli-linux) - A command line interface to Spotify on Linux
 - [worldveil/dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [PhABC/antiScamBot_slack](https://github.com/PhABC/antiScamBot_slack) - Will monitor slack channels to reduce scam potentials and increase user security
