@@ -119,7 +119,7 @@
 
 - [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) - 
 - [odarriba/docker-timemachine](https://github.com/odarriba/docker-timemachine) - A docker container that compiles the lastest Netatalk to run a Time Machine server.
-- [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible) - Ansible inside Docker containers: Alpine, Ubuntu, Rocky & Debian with Ansible 2.16, 2.15, 2.14, 2.13, 2.12, 2.11, 2.10 and 2.9 + Mitogen
+- [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible) - Ansible inside Docker containers: Alpine, Ubuntu, Rocky & Debian with Ansible 2.18, 2.17, 2.16, 2.15, 2.14, 2.13 + Mitogen
 - [aaaguirrep/offensive-docker](https://github.com/aaaguirrep/offensive-docker) - Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.
 - [bkuhl/fpm-nginx](https://github.com/bkuhl/fpm-nginx) - A single container with fpm & nginx with Laravel dependencies
 
@@ -822,6 +822,7 @@
 
 ## Python 
 
+- [plexe-ai/smolmodels](https://github.com/plexe-ai/smolmodels) - ✨ build specialised ml models from natural language
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [javirandor/anthropic-tokenizer](https://github.com/javirandor/anthropic-tokenizer) - Approximation of the Claude 3 tokenizer by inspecting generation stream
 - [abgulati/hf-waitress](https://github.com/abgulati/hf-waitress) - Serving LLMs in the HF-Transformers format via a PyFlask API
