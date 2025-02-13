@@ -719,7 +719,6 @@
 - [jruizaranguren/best-of-digital-identity](https://github.com/jruizaranguren/best-of-digital-identity) - A ranked list of awesome Digital Identity open source projects
 - [janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
 - [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm's meta configuration files 🫥
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [fregante/ghatemplates](https://github.com/fregante/ghatemplates) - GitHub Actions workflow templates for `$ ghat`
 - [harismuneer/Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) - 🤖 Top-rated tools to scrape all major public sections from Facebook, Instagram, and Twitter (X) including posts (likes/comments), photos/videos, contact information, followers, following and much more
@@ -918,6 +917,7 @@
 ## Shell 
 
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm's meta configuration files 🫥
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [dyne/file-extension-list](https://github.com/dyne/file-extension-list) - Organised collection of common file extensions
