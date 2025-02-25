@@ -382,12 +382,14 @@
 
 ## aws 
 
+- [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 
 ## azure 
 
+- [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 
 ## babel 
@@ -889,6 +891,7 @@
 
 ## go 
 
+- [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [eliben/go-sentencepiece](https://github.com/eliben/go-sentencepiece) - Go implementation of the SentencePiece tokenizer
@@ -1036,6 +1039,7 @@
 
 ## golang 
 
+- [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [jeromer/mumbojumbo](https://github.com/jeromer/mumbojumbo) - Obfuscates golang strings
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [eliben/go-sentencepiece](https://github.com/eliben/go-sentencepiece) - Go implementation of the SentencePiece tokenizer
@@ -1516,11 +1520,11 @@
 - [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) - Natural language detection library for Go
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 
 ## laravel 
 
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [bolechen/nova-activitylog](https://github.com/bolechen/nova-activitylog) - A tool to activity logger to monitor the users of your Laravel Nova.
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) - LaravelS is an out-of-the-box adapter between Laravel/Lumen and Swoole.
@@ -1615,7 +1619,7 @@
 ## localization 
 
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 10 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). 
 
 ## login 
@@ -1727,6 +1731,7 @@
 
 ## mongodb 
 
+- [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [ansible-collections/community.mongodb](https://github.com/ansible-collections/community.mongodb) - MongoDB Ansible Collection
 - [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
@@ -1747,6 +1752,8 @@
 
 ## mysql 
 
+- [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
+- [shieldproject/shield](https://github.com/shieldproject/shield) - A standalone system that can perform backup and restore functions for a wide variety of pluggable data systems
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
@@ -2287,6 +2294,7 @@
 
 ## postgresql 
 
+- [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
 - [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
