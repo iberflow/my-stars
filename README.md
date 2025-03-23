@@ -840,6 +840,7 @@
 
 ## Python 
 
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [plexe-ai/smolmodels](https://github.com/plexe-ai/smolmodels) - ✨ build ml models in natural language and minimal code
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [javirandor/anthropic-tokenizer](https://github.com/javirandor/anthropic-tokenizer) - Approximation of the Claude 3 tokenizer by inspecting generation stream
