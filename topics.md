@@ -1243,6 +1243,7 @@
 
 ## google 
 
+- [google/licenseclassifier](https://github.com/google/licenseclassifier) - A License Classifier
 - [the-go-tool/websearch](https://github.com/the-go-tool/websearch) - 🌍 It is Simple & Flexible Web Search Library for DuckDuckGo, Qwant, Google, Yandex, Bing and a lot of more search providers
 
 ## graphql 
@@ -1949,6 +1950,7 @@
 
 ## others 
 
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [miners-online/logto-account-manager](https://github.com/miners-online/logto-account-manager) - A Shadcn/UI and Next JS "My Account" dashboard built for use with the Logto Authentication Platform.
 - [dusted-go/logging](https://github.com/dusted-go/logging) - Logging integrations for Go's log/slog package.
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
