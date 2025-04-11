@@ -133,6 +133,8 @@
 
 ## Go 
 
+- [google/licenseclassifier](https://github.com/google/licenseclassifier) - A License Classifier
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [alipourhabibi/Hades](https://github.com/alipourhabibi/Hades) - Open source Buf compatible schema registry.
 - [dusted-go/logging](https://github.com/dusted-go/logging) - Logging integrations for Go's log/slog package.
 - [jfarleyx/chrome-native-messaging-golang](https://github.com/jfarleyx/chrome-native-messaging-golang) - Chrome extension sample that uses persistent connection (connectNative()) to a native messaging host written in Go.
