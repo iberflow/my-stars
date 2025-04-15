@@ -133,6 +133,7 @@
 
 ## Go 
 
+- [orsinium-labs/regexer](https://github.com/orsinium-labs/regexer) - Go package with more powerful, flexible, and safe API for regular expressions based on lazy iterators
 - [google/licenseclassifier](https://github.com/google/licenseclassifier) - A License Classifier
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [alipourhabibi/Hades](https://github.com/alipourhabibi/Hades) - Open source Buf compatible schema registry.
