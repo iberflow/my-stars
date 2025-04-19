@@ -133,6 +133,7 @@
 
 ## Go 
 
+- [tdewolff/parse](https://github.com/tdewolff/parse) - Go parsers for web formats
 - [hedhyw/rex](https://github.com/hedhyw/rex) - Flexible regular expressions constructor for Golang.
 - [orsinium-labs/regexer](https://github.com/orsinium-labs/regexer) - Go package with more powerful, flexible, and safe API for regular expressions based on lazy iterators
 - [google/licenseclassifier](https://github.com/google/licenseclassifier) - A License Classifier
@@ -847,6 +848,7 @@
 
 ## Python 
 
+- [TheFirewall-code/TheFirewall-Secrets-SCA](https://github.com/TheFirewall-code/TheFirewall-Secrets-SCA) - 
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - ✨ build ml models in natural language and minimal code
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
@@ -922,7 +924,7 @@
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
