@@ -829,7 +829,7 @@
 - [nikicat/web-malware-collection](https://github.com/nikicat/web-malware-collection) - Clone of svn repository of http://insecurety.net/projects/web-malware/ project
 - [zpanel/zpanelx](https://github.com/zpanel/zpanelx) - ZPanel is a web hosting control panel written in PHP for Windows and *NIX host OS's.
 - [tedious/JShrink](https://github.com/tedious/JShrink) - Javascript Minifier built in PHP
-- [brcontainer/html2canvas-php-proxy](https://github.com/brcontainer/html2canvas-php-proxy) - PHP Proxy html2canvas
+- [inphinit/inphinit-php-proxy](https://github.com/inphinit/inphinit-php-proxy) - PHP Proxy html2canvas
 - [magsol/Twitterbot](https://github.com/magsol/Twitterbot) - Semi-intelligent Twitter bot
 - [vimishor/CStrike-Regnick](https://github.com/vimishor/CStrike-Regnick) - [UNMAINTAINED] Simple nickname reservation system for Counter-Strike servers running AmxModX.
 - [eyecatchup/php-yt_downloader](https://github.com/eyecatchup/php-yt_downloader) - PHP Class to download videos from YouTube.
