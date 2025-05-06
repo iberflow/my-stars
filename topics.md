@@ -203,6 +203,7 @@
 - [text-to-speech](#text-to-speech)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui-design](#ui-design)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -263,6 +264,7 @@
 
 ## analytics 
 
+- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - the open-source and cookieless alternative to Google Analytics that is 10x more intuitive.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
 - [montanaflynn/stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
@@ -462,7 +464,7 @@
 - [cckalen/intellichunk](https://github.com/cckalen/intellichunk) - Go Based Lightweight RAG / LLM Tool with CLI + API
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-- [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and Manus-like agent management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama
+- [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [pszemraj/ai-msgbot](https://github.com/pszemraj/ai-msgbot) - Training & Implementation of chatbots leveraging GPT-like architecture with the aitextgen package to enable dynamic conversations.
@@ -476,7 +478,7 @@
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [pkoukk/tiktoken-go](https://github.com/pkoukk/tiktoken-go) - go version of tiktoken
-- [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and Manus-like agent management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama
+- [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
@@ -711,6 +713,7 @@
 
 ## django 
 
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 
 ## docker 
@@ -1272,6 +1275,7 @@
 
 ## hacktoberfest 
 
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1425,6 +1429,7 @@
 
 ## java 
 
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
@@ -1562,6 +1567,7 @@
 
 ## laravel 
 
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [bolechen/nova-activitylog](https://github.com/bolechen/nova-activitylog) - A tool to activity logger to monitor the users of your Laravel Nova.
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
@@ -1569,7 +1575,7 @@
 - [php-enqueue/laravel-queue](https://github.com/php-enqueue/laravel-queue) - Laravel Enqueue message queue extension. Supports AMQP, Amazon SQS, Kafka, Google PubSub, Redis, STOMP, Gearman, Beanstalk and others
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [monospice/laravel-redis-sentinel-drivers](https://github.com/monospice/laravel-redis-sentinel-drivers) - Redis Sentinel integration for Laravel and Lumen.
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane's capabilities
 - [jsphpl/laravan](https://github.com/jsphpl/laravan) - Ansible Playbooks for Laravel - machine provisioning and app deployment
 - [avto-dev/roadrunner-laravel](https://github.com/avto-dev/roadrunner-laravel) - [ABANDONED] Moved to https://github.com/spiral/roadrunner-laravel
 - [bkuhl/fpm-nginx](https://github.com/bkuhl/fpm-nginx) - A single container with fpm & nginx with Laravel dependencies
@@ -1651,7 +1657,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
-- [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and Manus-like agent management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama
+- [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [the-crypt-keeper/can-ai-code](https://github.com/the-crypt-keeper/can-ai-code) - Self-evaluating interview for AI coders
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
@@ -1943,7 +1949,7 @@
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [pkoukk/tiktoken-go](https://github.com/pkoukk/tiktoken-go) - go version of tiktoken
-- [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and Manus-like agent management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama
+- [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -2314,6 +2320,7 @@
 
 ## php 
 
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [nmeri17/suphle](https://github.com/nmeri17/suphle) - Opinionated PHP framework for building performant, extensible, and testable web applications
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [spatie/package-skeleton-php](https://github.com/spatie/package-skeleton-php) - A skeleton repository for Spatie's PHP Packages
@@ -2322,6 +2329,7 @@
 - [php-enqueue/laravel-queue](https://github.com/php-enqueue/laravel-queue) - Laravel Enqueue message queue extension. Supports AMQP, Amazon SQS, Kafka, Google PubSub, Redis, STOMP, Gearman, Beanstalk and others
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [monospice/laravel-redis-sentinel-drivers](https://github.com/monospice/laravel-redis-sentinel-drivers) - Redis Sentinel integration for Laravel and Lumen.
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane's capabilities
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [richarvey/nginx-php-fpm](https://github.com/richarvey/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
 - [digitaldonkey/ecverify](https://github.com/digitaldonkey/ecverify) - PHP based Ethereum web3 personal recover
@@ -2348,7 +2356,7 @@
 - [funivan/PhpTokenizer](https://github.com/funivan/PhpTokenizer) - Wrapper around token_get_all. Easy way to extract and modify yout code
 - [laralib/l5scaffold](https://github.com/laralib/l5scaffold) - Scaffold generator for Laravel 5.x
 - [kristijanhusak/laravel-form-builder](https://github.com/kristijanhusak/laravel-form-builder) - Laravel Form builder for version 5+!
-- [brcontainer/html2canvas-php-proxy](https://github.com/brcontainer/html2canvas-php-proxy) - PHP Proxy html2canvas
+- [inphinit/inphinit-php-proxy](https://github.com/inphinit/inphinit-php-proxy) - PHP Proxy html2canvas
 
 ## pixel-art 
 
@@ -2401,6 +2409,7 @@
 
 ## python 
 
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
@@ -2577,6 +2586,7 @@
 
 ## security 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [jeromer/mumbojumbo](https://github.com/jeromer/mumbojumbo) - Obfuscates golang strings
 - [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock) - A Go library for the Linux Landlock sandboxing feature
 - [nyariv/SandboxJS](https://github.com/nyariv/SandboxJS) - Safe eval runtime
@@ -2714,6 +2724,7 @@
 
 ## symfony 
 
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
 
 ## tailwindcss 
@@ -2833,7 +2844,13 @@
 
 ## ubuntu 
 
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible) - Ansible inside Docker containers: Alpine, Ubuntu, Rocky & Debian with Ansible 2.18, 2.17, 2.16, 2.15, 2.14, 2.13 + Mitogen
+
+## ui-design 
+
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 
 ## vpn 
 
@@ -2903,6 +2920,7 @@
 
 ## windows 
 
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [billgraziano/dpapi](https://github.com/billgraziano/dpapi) - GO Wrapper for Windows DPAPI
 - [grooveid/wincrypto](https://github.com/grooveid/wincrypto) - Go bindings for Windows crypto APIs
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
