@@ -989,7 +989,7 @@
 
 ## TypeScript 
 
-- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - the open-source and cookieless alternative to Google Analytics that is 10x more intuitive.
+- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [lifeparticle/SelectStar](https://github.com/lifeparticle/SelectStar) - ⭐️ Compare GitHub Repositories Based on the Number of Stars and Other Relevant Parameters
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines
 - [miners-online/logto-account-manager](https://github.com/miners-online/logto-account-manager) - A Shadcn/UI and Next JS "My Account" dashboard built for use with the Logto Authentication Platform.
