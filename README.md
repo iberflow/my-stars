@@ -133,6 +133,7 @@
 
 ## Go 
 
+- [qhenkart/anthropic-tokenizer-go](https://github.com/qhenkart/anthropic-tokenizer-go) - Determine the cost of your queries in Golang
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [openai/openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
 - [tdewolff/parse](https://github.com/tdewolff/parse) - Go parsers for web formats
