@@ -133,6 +133,7 @@
 
 ## Go 
 
+- [daulet/tokenizers](https://github.com/daulet/tokenizers) - Go bindings for HuggingFace Tokenizer
 - [qhenkart/anthropic-tokenizer-go](https://github.com/qhenkart/anthropic-tokenizer-go) - Determine the cost of your queries in Golang
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [openai/openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
@@ -924,6 +925,7 @@
 
 ## Rust 
 
+- [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [helsing-ai/buffrs](https://github.com/helsing-ai/buffrs) - Modern protobuf package management
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
