@@ -116,7 +116,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.
 
 ## Dockerfile 
@@ -612,7 +612,7 @@
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
 - [jm-david/emoji-mart-vue](https://github.com/jm-david/emoji-mart-vue) - One component to pick them all 👊🏼
 - [fireyy/vue-emoji-mart](https://github.com/fireyy/vue-emoji-mart) - Deprecated. Try emoji-mart-vue: https://github.com/jm-david/emoji-mart-vue instead.
-- [iotaledger/legacy-wallet-use-trinity-wallet-instead](https://github.com/iotaledger/legacy-wallet-use-trinity-wallet-instead) - IOTA Wallet
+- [iotaledger-archive/legacy-wallet-use-trinity-wallet-instead](https://github.com/iotaledger-archive/legacy-wallet-use-trinity-wallet-instead) - IOTA Wallet
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
 - [hackergrrl/electron-speech](https://github.com/hackergrrl/electron-speech) - :microphone: Easy speech recognition in Node!
 - [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
