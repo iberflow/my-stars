@@ -548,6 +548,7 @@
 
 ## JavaScript 
 
+- [socioboard/Socioboard-5.0](https://github.com/socioboard/Socioboard-5.0) - Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.
 - [collidingScopes/shape-creator-tutorial](https://github.com/collidingScopes/shape-creator-tutorial) - 
 - [globalizejs/globalize](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
 - [JonathanChavezTamales/llm-leaderboard](https://github.com/JonathanChavezTamales/llm-leaderboard) - A comprehensive set of LLM benchmark scores and provider prices.
@@ -1098,6 +1099,7 @@
 
 ## Vue 
 
+- [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [markrassamni/inline-boolean](https://github.com/markrassamni/inline-boolean) - Adds the ability to edit a boolean field directly from the index or detail page of a resource.
