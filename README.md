@@ -820,7 +820,7 @@
 - [thephpleague/glide](https://github.com/thephpleague/glide) - Wonderfully easy on-demand image manipulation library with an HTTP based API.
 - [iberflow/console](https://github.com/iberflow/console) - A number of PHP CLI based classes and helpers
 - [elcodi/elcodi](https://github.com/elcodi/elcodi) - [EOL] E-commerce components for Symfony
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 - [azuyalabs/yasumi](https://github.com/azuyalabs/yasumi) - The easy PHP Library for calculating holidays
 - [thedevdojo/voyager](https://github.com/thedevdojo/voyager) - Voyager - The Missing Laravel Admin
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
@@ -866,6 +866,7 @@
 
 ## Python 
 
+- [luminainterface/luminainterface](https://github.com/luminainterface/luminainterface) - At its core, Lumina is a neural network interfacing tool that connects human consciousness with AI systems. Its true intention goes beyond metaphysical frameworks to establish direct communication pat
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [TheFirewall-code/TheFirewall-Secrets-SCA](https://github.com/TheFirewall-code/TheFirewall-Secrets-SCA) - 
@@ -1051,7 +1052,7 @@
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
-- [getsentry/spotlight](https://github.com/getsentry/spotlight) - Your Universal Debug Toolbar
+- [getsentry/spotlight](https://github.com/getsentry/spotlight) - Debuggability Elevated
 - [miku-gg/miku](https://github.com/miku-gg/miku) - mikugg is a Frontend for "Generative Visual Novels"
 - [vbackend/visual-backend](https://github.com/vbackend/visual-backend) - Source code for Visual Backend desktop app, implemented using Electron & React
 - [IntrinsicLabsAI/gbnfgen](https://github.com/IntrinsicLabsAI/gbnfgen) - TypeScript generator for llama.cpp Grammar directly from TypeScript interfaces
