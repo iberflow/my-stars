@@ -133,6 +133,7 @@
 
 ## Go 
 
+- [edit4i/gh-bpe-openai-go](https://github.com/edit4i/gh-bpe-openai-go) - Go bindings for Github's bpe-openai tokenizer implementation.
 - [orb-community/orb](https://github.com/orb-community/orb) - Orb is a dynamic network observability platform with agent fleet orchestration and data pipelines with OpenTelemetry
 - [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps.
 - [lyeslabs/mcpgen](https://github.com/lyeslabs/mcpgen) - Generate Go MCP server boilerplate from OpenAPI 3 specifications
@@ -988,6 +989,7 @@
 
 ## Svelte 
 
+- [edit4i/editor](https://github.com/edit4i/editor) - An open-source alternative to Cursor, Windsurf (Local RAG, Bring your own LLM, Agents). Written in golang
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [vnphanquang/svelte-put](https://github.com/vnphanquang/svelte-put) - Useful svelte stuff to put in your projects
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
