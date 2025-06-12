@@ -260,6 +260,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## algorithm 
 
@@ -401,6 +402,7 @@
 
 ## aws 
 
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
@@ -408,6 +410,7 @@
 
 ## azure 
 
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 
@@ -523,6 +526,7 @@
 
 ## cli 
 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI.
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -652,7 +656,7 @@
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
 
 ## database 
@@ -668,7 +672,7 @@
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [Meteor-Community-Packages/meteor-collection2](https://github.com/Meteor-Community-Packages/meteor-collection2) - A Meteor package that extends Mongo.Collection to provide support for specifying a schema and then validating against that schema when inserting and updating.
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
@@ -715,6 +719,7 @@
 
 ## devops 
 
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps.
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -725,7 +730,7 @@
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible) - Ansible inside Docker containers: Alpine, Ubuntu, Rocky & Debian with Ansible 2.18, 2.17, 2.16, 2.15, 2.14, 2.13 + Mitogen
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## django 
 
@@ -763,7 +768,7 @@
 - [richarvey/nginx-php-fpm](https://github.com/richarvey/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
 - [blacktop/docker-elasticsearch-alpine](https://github.com/blacktop/docker-elasticsearch-alpine) - Alpine Linux based Elasticsearch Docker Image
 - [bkuhl/fpm-nginx](https://github.com/bkuhl/fpm-nginx) - A single container with fpm & nginx with Laravel dependencies
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## documentation 
 
@@ -902,6 +907,7 @@
 
 ## git 
 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [bluekeyes/go-gitdiff](https://github.com/bluekeyes/go-gitdiff) - Go library for parsing and applying patches created by Git
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -929,6 +935,7 @@
 
 ## go 
 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps.
 - [lyeslabs/mcpgen](https://github.com/lyeslabs/mcpgen) - Generate Go MCP server boilerplate from OpenAPI 3 specifications
 - [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust + Go — Call Rust code from Go using FFI
@@ -1033,7 +1040,7 @@
 - [gogrlx/grlx](https://github.com/gogrlx/grlx) - Effective Fleet Configuration Management
 - [wellle/rmq](https://github.com/wellle/rmq) - Message queue system written in Go and backed by Redis
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [hubvue/json2type](https://github.com/hubvue/json2type) - convert JSON of a specific format to a type structure(support Typescript type and Go type)
 - [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 - [go101/golds](https://github.com/go101/golds) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
@@ -1087,6 +1094,7 @@
 
 ## golang 
 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [edit4i/editor](https://github.com/edit4i/editor) - An open-source alternative to Cursor, Windsurf (Local RAG, Bring your own LLM, Agents). Written in golang
 - [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps.
 - [lyeslabs/mcpgen](https://github.com/lyeslabs/mcpgen) - Generate Go MCP server boilerplate from OpenAPI 3 specifications
@@ -1303,6 +1311,8 @@
 
 ## hacktoberfest 
 
+- [logchimp/logchimp](https://github.com/logchimp/logchimp) - Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [safedep/vet](https://github.com/safedep/vet) - Next Generation Software Composition Analysis (SCA) with Malicious Package Detection, Code Context & Policy as Code
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
@@ -1585,7 +1595,7 @@
 - [solidnerd/terraform-k8s-hcloud](https://github.com/solidnerd/terraform-k8s-hcloud) - A simple project to spin your k8s cluster with terraform, kubeadm on hcloud
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## language 
 
@@ -1658,12 +1668,13 @@
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [pwittchen/spotify-cli-linux](https://github.com/pwittchen/spotify-cli-linux) - A command line interface to Spotify on Linux
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [screetsec/Dracnmap](https://github.com/screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and dif
 
 ## llm 
 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [edit4i/gh-bpe-openai-go](https://github.com/edit4i/gh-bpe-openai-go) - Go bindings for Github's bpe-openai tokenizer implementation.
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
@@ -1745,7 +1756,7 @@
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 
 ## macos 
@@ -1814,7 +1825,7 @@
 
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [ansible-collections/community.mongodb](https://github.com/ansible-collections/community.mongodb) - MongoDB Ansible Collection
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [Meteor-Community-Packages/meteor-collection2](https://github.com/Meteor-Community-Packages/meteor-collection2) - A Meteor package that extends Mongo.Collection to provide support for specifying a schema and then validating against that schema when inserting and updating.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -1828,7 +1839,7 @@
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## music 
 
@@ -1842,7 +1853,7 @@
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [go-xorm/xorm](https://github.com/go-xorm/xorm) - Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
 
 ## natural-language-processing 
@@ -1965,6 +1976,7 @@
 
 ## open-source 
 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [vigiloauth/vigilo](https://github.com/vigiloauth/vigilo) - OAuth 2.0 & OIDC Auth Server and Identity Provider
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
@@ -2013,6 +2025,7 @@
 
 ## others 
 
+- [clearflask/clearflask](https://github.com/clearflask/clearflask) - Listen to your users during product development with ClearFlask
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [AliRizaAynaci/gorl](https://github.com/AliRizaAynaci/gorl) - A high-performance, modular rate limiting library for Go. Supports in-memory and Redis backends. Includes Fixed Window, Sliding Window, Token Bucket, and Leaky Bucket algorithms. Flexible keying (IP, 
 - [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
@@ -2373,7 +2386,7 @@
 - [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [nmeri17/suphle](https://github.com/nmeri17/suphle) - Opinionated PHP framework for building performant, extensible, and testable web applications
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [spatie/package-skeleton-php](https://github.com/spatie/package-skeleton-php) - A skeleton repository for Spatie's PHP Packages
 - [z7zmey/php-parser](https://github.com/z7zmey/php-parser) - PHP parser written in Go
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
@@ -2427,7 +2440,7 @@
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [go-xorm/xorm](https://github.com/go-xorm/xorm) - Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## privacy 
 
@@ -2514,7 +2527,6 @@
 - [pieeg-club/EEGwithRaspberryPI](https://github.com/pieeg-club/EEGwithRaspberryPI) - Not supported. Measure 8 EEG channels with Shield PiEEG and RaspberryPi in C library
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 
 ## react 
 
@@ -2561,7 +2573,7 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [tommoor/emojione-picker](https://github.com/tommoor/emojione-picker) - A react emoji picker for use with emojione
@@ -2640,6 +2652,8 @@
 
 ## security 
 
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [vigiloauth/vigilo](https://github.com/vigiloauth/vigilo) - OAuth 2.0 & OIDC Auth Server and Identity Provider
 - [safedep/vet](https://github.com/safedep/vet) - Next Generation Software Composition Analysis (SCA) with Malicious Package Detection, Code Context & Policy as Code
 - [ANDRVV/gapcast](https://github.com/ANDRVV/gapcast) - 📡 802.11 broadcast analyzer & injector
@@ -2675,6 +2689,7 @@
 
 ## security-tools 
 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [ANDRVV/gapcast](https://github.com/ANDRVV/gapcast) - 📡 802.11 broadcast analyzer & injector
 - [openshieldai/openshield](https://github.com/openshieldai/openshield) - OpenShield is a new generation security layer for AI models
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
@@ -2910,7 +2925,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [davidnguyen11/web-extension-boilerplate](https://github.com/davidnguyen11/web-extension-boilerplate) - The web extension boilerplate help to set up project quickly using typescript, jest, webpack, githook, prettier and github actions
 - [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
