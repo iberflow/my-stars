@@ -222,6 +222,7 @@
 
 ## 3d 
 
+- [collidingScopes/shape-creator-tutorial](https://github.com/collidingScopes/shape-creator-tutorial) - Create and control 3D shapes using hand gestures in real-time. Built with mediapipe computer vision and threejs
 - [aws-samples/amazon-sumerian-hosts](https://github.com/aws-samples/amazon-sumerian-hosts) - Amazon Sumerian Hosts (Hosts) is an experimental open source project that aims to make it easy to create interactive animated 3D characters for Babylon.js, three.js, and other web 3D frameworks. It le
 
 ## ai 
@@ -562,6 +563,7 @@
 
 ## computer-vision 
 
+- [collidingScopes/shape-creator-tutorial](https://github.com/collidingScopes/shape-creator-tutorial) - Create and control 3D shapes using hand gestures in real-time. Built with mediapipe computer vision and threejs
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
 - [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
@@ -684,6 +686,7 @@
 - [sugarme/gotch](https://github.com/sugarme/gotch) - Go binding for Pytorch C++ API (libtorch)
 - [sugarme/transformer](https://github.com/sugarme/transformer) - NLP transformers written in Go
 - [sugarme/tokenizer](https://github.com/sugarme/tokenizer) - NLP tokenizers written in Go language
+- [andrewginns/CoreMLPlayer](https://github.com/andrewginns/CoreMLPlayer) - Try CoreML models on multiple images and videos easily and quickly
 - [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
@@ -1774,6 +1777,7 @@
 
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
+- [andrewginns/CoreMLPlayer](https://github.com/andrewginns/CoreMLPlayer) - Try CoreML models on multiple images and videos easily and quickly
 - [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid) - Custom GPG pinentry program for macOS that allows using Touch ID for fetching the password from the macOS keychain.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [keybase/go-keychain](https://github.com/keybase/go-keychain) - Golang keychain package for iOS and macOS
@@ -1989,6 +1993,7 @@
 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [vigiloauth/vigilo](https://github.com/vigiloauth/vigilo) - OAuth 2.0 & OIDC Auth Server and Identity Provider
+- [collidingScopes/shape-creator-tutorial](https://github.com/collidingScopes/shape-creator-tutorial) - Create and control 3D shapes using hand gestures in real-time. Built with mediapipe computer vision and threejs
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
@@ -2043,7 +2048,6 @@
 - [AliRizaAynaci/gorl](https://github.com/AliRizaAynaci/gorl) - A high-performance, modular rate limiting library for Go. Supports in-memory and Redis backends. Includes Fixed Window, Sliding Window, Token Bucket, and Leaky Bucket algorithms. Flexible keying (IP, 
 - [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
 - [myleshyson/lsprotocol-go](https://github.com/myleshyson/lsprotocol-go) - A lsprotocol generator for golang
-- [collidingScopes/shape-creator-tutorial](https://github.com/collidingScopes/shape-creator-tutorial) - 
 - [daulet/tokenizers](https://github.com/daulet/tokenizers) - Go bindings for HuggingFace Tokenizer
 - [qhenkart/anthropic-tokenizer-go](https://github.com/qhenkart/anthropic-tokenizer-go) - Determine the cost of your queries in Golang
 - [globalizejs/globalize](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
@@ -2088,7 +2092,6 @@
 - [kijai/ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) - ComfyUI nodes for LivePortrait
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [pkoukk/tiktoken-go-loader](https://github.com/pkoukk/tiktoken-go-loader) - Alterive bpe loader for tiktoken-go
-- [andrewginns/CoreMLPlayer](https://github.com/andrewginns/CoreMLPlayer) - Try CoreML models on multiple images and videos easily and quickly
 - [festvox/festival](https://github.com/festvox/festival) - Festival Speech Synthesis System
 - [nidorx/go-bench-viewer](https://github.com/nidorx/go-bench-viewer) - Easy and intuitive Go Benchmark Results Viewer.
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
