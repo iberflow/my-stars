@@ -133,6 +133,7 @@
 
 ## Go 
 
+- [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [siderolabs/omni](https://github.com/siderolabs/omni) - SaaS-simple deployment of Kubernetes - on your own hardware.
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
@@ -756,7 +757,7 @@
 
 ## Others 
 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 - [sanjay10985/animated-react-collection](https://github.com/sanjay10985/animated-react-collection) - 
 - [Azure/trusted-signing-action](https://github.com/Azure/trusted-signing-action) - 
 - [hhajime/Wavebar](https://github.com/hhajime/Wavebar) - Audio Visualizer for Mac Users
