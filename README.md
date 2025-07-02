@@ -907,7 +907,7 @@
 - [latent-variable/Real_time_fallacy_detection](https://github.com/latent-variable/Real_time_fallacy_detection) - Real-time Fallacy Detection using OpenAI whisper and ChatGPT/LLaMA/Mistral
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) - 
-- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented embedding tuning for BERT, CLIP, etc.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
