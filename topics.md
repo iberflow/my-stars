@@ -193,6 +193,7 @@
 - [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [storybook](#storybook)
+- [support](#support)
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
@@ -233,7 +234,7 @@
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 - [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - ✨ Build a machine learning model from a prompt
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [RayFernando1337/LLM-Calc](https://github.com/RayFernando1337/LLM-Calc) - Instantly calculate the maximum size of quantized language models that can fit in your available RAM, helping you optimize your models for inference.
 - [kelindar/search](https://github.com/kelindar/search) - Go library for embedded vector search and semantic embeddings using llama.cpp
@@ -349,7 +350,6 @@
 
 ## archlinux 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 
 ## arduino 
@@ -715,7 +715,6 @@
 ## deno 
 
 - [progpjs/progpjs](https://github.com/progpjs/progpjs) - A fast V8 wrapper for Go language
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [kabirbaidhya/keycode-js](https://github.com/kabirbaidhya/keycode-js) - A javascript package with key code constants.
 
 ## deployment 
@@ -764,7 +763,6 @@
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
@@ -787,6 +785,7 @@
 
 ## documentation 
 
+- [remorses/fumabase](https://github.com/remorses/fumabase) - The open source Mintlify. Built on top of Fumadocs
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -1031,7 +1030,6 @@
 - [pkoukk/tiktoken-go](https://github.com/pkoukk/tiktoken-go) - go version of tiktoken
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
@@ -1211,7 +1209,6 @@
 - [zalando/go-keyring](https://github.com/zalando/go-keyring) - Cross-platform keyring interface for Go
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [Cian911/switchboard](https://github.com/Cian911/switchboard) - Automated file organisation and routing for all your machines. :open_file_folder:
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
@@ -1423,7 +1420,6 @@
 
 ## homebrew 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 
 ## html 
@@ -1487,6 +1483,7 @@
 
 ## iot 
 
+- [onomondo/onomondo-uicc](https://github.com/onomondo/onomondo-uicc) - Onomondo UICC - a software implementation of SIM/UICC/USIM functionalities
 - [kartben/artificial-nose](https://github.com/kartben/artificial-nose) - Instructions, source code, and misc. resources needed for building a Tiny ML-powered artificial nose.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
@@ -1504,6 +1501,7 @@
 
 ## javascript 
 
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [tdewolff/parse](https://github.com/tdewolff/parse) - Go parsers for web formats
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -1595,7 +1593,7 @@
 - [tdewolff/parse](https://github.com/tdewolff/parse) - Go parsers for web formats
 - [the-go-tool/websearch](https://github.com/the-go-tool/websearch) - 🌍 It is Simple & Flexible Web Search Library for DuckDuckGo, Qwant, Google, Yandex, Bing and a lot of more search providers
 - [manterfield/go-mapreader](https://github.com/manterfield/go-mapreader) - mapreader is a tiny Golang library for accessing arbitrary keys from maps - especially useful when dealing with semi-unknown JSON payloads
-- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [dyne/file-extension-list](https://github.com/dyne/file-extension-list) - Organised collection of common file extensions
 - [hubvue/json2type](https://github.com/hubvue/json2type) - convert JSON of a specific format to a type structure(support Typescript type and Go type)
 - [liip/sheriff](https://github.com/liip/sheriff) - Conditional marshalling for Go
@@ -2134,7 +2132,6 @@
 - [nidorx/go-bench-viewer](https://github.com/nidorx/go-bench-viewer) - Easy and intuitive Go Benchmark Results Viewer.
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
 - [google/codesearch](https://github.com/google/codesearch) - Fast, indexed regexp search over large file trees
-- [onomondo/onomondo-uicc](https://github.com/onomondo/onomondo-uicc) - Onomondo UICC - a software implementation of SIM/UICC/USIM functionalities
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [chrusty/protoc-gen-jsonschema](https://github.com/chrusty/protoc-gen-jsonschema) - Protobuf to JSON-Schema compiler
 - [farouqzaib/mettis](https://github.com/farouqzaib/mettis) - Vector Database implemented in Golang with support for full-text and vector search as well as fault tolerance via Raft.
@@ -2580,6 +2577,7 @@
 
 ## rails 
 
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 ## raspberry-pi 
@@ -2593,7 +2591,7 @@
 
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. 40+ Framework Agnostic Headless Components
+- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build high-quality, accessible design systems design system. Works in React, Svelte, Vue, and Solid
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Web extension template to build Chrome and Firefox extensions quickly. Setup with React 19, Typescript and TailwindCSS
@@ -2686,6 +2684,7 @@
 
 ## ruby 
 
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
@@ -2700,7 +2699,6 @@
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -2846,9 +2844,13 @@
 
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
 
+## support 
+
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
+
 ## svelte 
 
-- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. 40+ Framework Agnostic Headless Components
+- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build high-quality, accessible design systems design system. Works in React, Svelte, Vue, and Solid
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
@@ -3013,7 +3015,7 @@
 
 ## ui 
 
-- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. 40+ Framework Agnostic Headless Components
+- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build high-quality, accessible design systems design system. Works in React, Svelte, Vue, and Solid
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -3040,7 +3042,7 @@
 
 ## vue 
 
-- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. 40+ Framework Agnostic Headless Components
+- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build high-quality, accessible design systems design system. Works in React, Svelte, Vue, and Solid
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -3132,7 +3134,6 @@
 ## zig 
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 
 ## License
