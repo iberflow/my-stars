@@ -134,6 +134,9 @@
 
 ## Go 
 
+- [eduardolat/openroutergo](https://github.com/eduardolat/openroutergo) - Easy to use OpenRouter Golang SDK
+- [photostructure/go-claude-costs](https://github.com/photostructure/go-claude-costs) - Analyze Claude Code usage costs and token statistics from local metadata files
+- [hupe1980/go-tiktoken](https://github.com/hupe1980/go-tiktoken) - ✂️  OpenAI's tiktoken tokenizer written in Go
 - [potproject/claude-sdk-go](https://github.com/potproject/claude-sdk-go) - Unofficial Go SDK for the Anthropic Claude API.
 - [liushuangls/go-anthropic](https://github.com/liushuangls/go-anthropic) - Anthropic Claude API wrapper for Go
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
@@ -343,7 +346,7 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [Cian911/switchboard](https://github.com/Cian911/switchboard) - Automated file organisation and routing for all your machines. :open_file_folder:
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
-- [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
+- [awnumar/memguard](https://github.com/awnumar/memguard) - Software sandbox for storage of sensitive information in memory.
 - [Dentrax/obscure-go](https://github.com/Dentrax/obscure-go) - In-memory security with secure data types
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [mdreizin/chrome-bookmarks-alfred-workflow](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium/Microsoft Edge bookmarks search workflow for Alfred
