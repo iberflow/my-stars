@@ -134,6 +134,8 @@
 
 ## Go 
 
+- [withastro/compiler](https://github.com/withastro/compiler) - The Astro compiler. Written in Go. Distributed as WASM.
+- [ridgelines/go-parser](https://github.com/ridgelines/go-parser) - A small wrapper around the parser and ast packages
 - [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync) - 🛡️ Synchronize AdGuard Home config to replicas
 - [eduardolat/openroutergo](https://github.com/eduardolat/openroutergo) - Easy to use OpenRouter Golang SDK
 - [photostructure/go-claude-costs](https://github.com/photostructure/go-claude-costs) - Analyze Claude Code usage costs and token statistics from local metadata files
@@ -432,7 +434,7 @@
 - [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) - Golang commandline wrapper for wkhtmltopdf
 - [signintech/gopdf](https://github.com/signintech/gopdf) - A simple library for generating PDF written in Go lang
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Authentication and User Management system with flexible APIs and UI web components. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Authentication and User Management system. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [supertokens/supertokens-golang](https://github.com/supertokens/supertokens-golang) - GoLang SDK for SuperTokens
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go.
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go
@@ -727,6 +729,7 @@
 
 ## Kotlin 
 
+- [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
 - [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 
 ## MDX 
