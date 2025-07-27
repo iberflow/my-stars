@@ -1135,7 +1135,7 @@
 - [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps.
 - [lyeslabs/mcpgen](https://github.com/lyeslabs/mcpgen) - Generate Go MCP server boilerplate from OpenAPI 3 specifications
 - [vigiloauth/vigilo](https://github.com/vigiloauth/vigilo) - OAuth 2.0 & OIDC Auth Server and Identity Provider
-- [safedep/vet](https://github.com/safedep/vet) - Next Generation Software Composition Analysis (SCA) with Malicious Package Detection, Code Context & Policy as Code
+- [safedep/vet](https://github.com/safedep/vet) - Protect against malicious open source packages 🤖
 - [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust + Go — Call Rust code from Go using FFI
 - [hedhyw/rex](https://github.com/hedhyw/rex) - Flexible regular expressions constructor for Golang.
 - [orsinium-labs/regexer](https://github.com/orsinium-labs/regexer) - Go package with more powerful, flexible, and safe API for regular expressions based on lazy iterators
@@ -1263,7 +1263,6 @@
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
 - [gogrlx/grlx](https://github.com/gogrlx/grlx) - Effective Fleet Configuration Management
 - [wellle/rmq](https://github.com/wellle/rmq) - Message queue system written in Go and backed by Redis
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [vishen/go-chromecast](https://github.com/vishen/go-chromecast) - cli for Google Chromecast, Home devices and Cast Groups
 - [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
@@ -1354,7 +1353,7 @@
 - [logchimp/logchimp](https://github.com/logchimp/logchimp) - Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [safedep/vet](https://github.com/safedep/vet) - Next Generation Software Composition Analysis (SCA) with Malicious Package Detection, Code Context & Policy as Code
+- [safedep/vet](https://github.com/safedep/vet) - Protect against malicious open source packages 🤖
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
@@ -2031,7 +2030,7 @@
 
 ## npm 
 
-- [safedep/vet](https://github.com/safedep/vet) - Next Generation Software Composition Analysis (SCA) with Malicious Package Detection, Code Context & Policy as Code
+- [safedep/vet](https://github.com/safedep/vet) - Protect against malicious open source packages 🤖
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core) - Flagpack contains 250+ flag icons to easily use within your code project.
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
@@ -2755,7 +2754,7 @@
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [vigiloauth/vigilo](https://github.com/vigiloauth/vigilo) - OAuth 2.0 & OIDC Auth Server and Identity Provider
-- [safedep/vet](https://github.com/safedep/vet) - Next Generation Software Composition Analysis (SCA) with Malicious Package Detection, Code Context & Policy as Code
+- [safedep/vet](https://github.com/safedep/vet) - Protect against malicious open source packages 🤖
 - [ANDRVV/gapcast](https://github.com/ANDRVV/gapcast) - 📡 802.11 broadcast analyzer & injector
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [jeromer/mumbojumbo](https://github.com/jeromer/mumbojumbo) - Obfuscates golang strings
