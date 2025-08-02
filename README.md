@@ -41,6 +41,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Smarty](#smarty)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -1018,6 +1019,10 @@
 - [mh-cbon/go-github-release](https://github.com/mh-cbon/go-github-release) - Guide to release automation
 - [karalabe/xgo](https://github.com/karalabe/xgo) - Go CGO cross compiler
 - [screetsec/Dracnmap](https://github.com/screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and dif
+
+## Smarty 
+
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 
 ## Svelte 
 
