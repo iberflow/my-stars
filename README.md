@@ -135,6 +135,7 @@
 
 ## Go 
 
+- [tiborvass/go-jsx](https://github.com/tiborvass/go-jsx) - React JSX transpiler without Node.js (using Go)
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [withastro/compiler](https://github.com/withastro/compiler) - The Astro compiler. Written in Go. Distributed as WASM.
 - [ridgelines/go-parser](https://github.com/ridgelines/go-parser) - A small wrapper around the parser and ast packages
