@@ -135,6 +135,9 @@
 
 ## Go 
 
+- [flanglet/kanzi-go](https://github.com/flanglet/kanzi-go) - Fast lossless data compression in Go
+- [casibase/pdf](https://github.com/casibase/pdf) - PDF parser for Golang
+- [localit-io/tiktoken-go](https://github.com/localit-io/tiktoken-go) - go version of tiktoken
 - [tiborvass/go-jsx](https://github.com/tiborvass/go-jsx) - React JSX transpiler without Node.js (using Go)
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [withastro/compiler](https://github.com/withastro/compiler) - The Astro compiler. Written in Go. Distributed as WASM.
