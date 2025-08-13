@@ -162,6 +162,7 @@
 - [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
+- [physics](#physics)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
@@ -239,7 +240,7 @@
 - [eduardolat/openroutergo](https://github.com/eduardolat/openroutergo) - Easy to use OpenRouter Golang SDK
 - [liushuangls/go-anthropic](https://github.com/liushuangls/go-anthropic) - Anthropic Claude API wrapper for Go
 - [edit4i/gh-bpe-openai-go](https://github.com/edit4i/gh-bpe-openai-go) - Go bindings for Github's bpe-openai tokenizer implementation.
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI.
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a database built from scratch to be the backend for any AI application.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
 - [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - ✨ Build a machine learning model from a prompt
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -507,6 +508,7 @@
 
 ## chatgpt 
 
+- [localit-io/tiktoken-go](https://github.com/localit-io/tiktoken-go) - go version of tiktoken
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [lenML/tokenizers](https://github.com/lenML/tokenizers) - a lightweight no-dependency fork from transformers.js (only tokenizers)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -518,13 +520,13 @@
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
 
 ## chatgpt-api 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 
 ## chrome 
 
@@ -549,8 +551,9 @@
 
 ## cli 
 
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI.
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a database built from scratch to be the backend for any AI application.
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [neurosnap/sentences](https://github.com/neurosnap/sentences) - A multilingual command line sentence tokenizer in Golang
@@ -699,7 +702,7 @@
 ## database 
 
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI.
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a database built from scratch to be the backend for any AI application.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
 - [alash3al/vecdb](https://github.com/alash3al/vecdb) - a vector embedding database with multiple storage engines and AI embedding integrations
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
@@ -991,6 +994,10 @@
 
 ## go 
 
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
+- [flanglet/kanzi-go](https://github.com/flanglet/kanzi-go) - Fast lossless data compression in Go
+- [casibase/pdf](https://github.com/casibase/pdf) - PDF parser for Golang
+- [localit-io/tiktoken-go](https://github.com/localit-io/tiktoken-go) - go version of tiktoken
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [liushuangls/go-anthropic](https://github.com/liushuangls/go-anthropic) - Anthropic Claude API wrapper for Go
@@ -1095,7 +1102,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [go-gl/glfw](https://github.com/go-gl/glfw) - Go bindings for GLFW 3
 - [energye/energy](https://github.com/energye/energy) - Energy is a framework developed by Go language based on CEF (Chromium Embedded Framework) for developing cross-platform desktop applications for Windows, Mac OS X, and Linux
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [golang/oauth2](https://github.com/golang/oauth2) - Go OAuth2
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
 - [gogrlx/grlx](https://github.com/gogrlx/grlx) - Effective Fleet Configuration Management
@@ -1155,6 +1162,10 @@
 
 ## golang 
 
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
+- [flanglet/kanzi-go](https://github.com/flanglet/kanzi-go) - Fast lossless data compression in Go
+- [casibase/pdf](https://github.com/casibase/pdf) - PDF parser for Golang
+- [localit-io/tiktoken-go](https://github.com/localit-io/tiktoken-go) - go version of tiktoken
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [hupe1980/go-tiktoken](https://github.com/hupe1980/go-tiktoken) - ✂️  OpenAI's tiktoken tokenizer written in Go
 - [potproject/claude-sdk-go](https://github.com/potproject/claude-sdk-go) - Unofficial Go SDK for the Anthropic Claude API.
@@ -1288,7 +1299,7 @@
 - [richardwilkes/unison](https://github.com/richardwilkes/unison) - A unified graphical user experience toolkit for Go desktop applications
 - [go-gl/glfw](https://github.com/go-gl/glfw) - Go bindings for GLFW 3
 - [energye/energy](https://github.com/energye/energy) - Energy is a framework developed by Go language based on CEF (Chromium Embedded Framework) for developing cross-platform desktop applications for Windows, Mac OS X, and Linux
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 - [golang/oauth2](https://github.com/golang/oauth2) - Go OAuth2
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -1481,6 +1492,7 @@
 
 ## html 
 
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [tdewolff/parse](https://github.com/tdewolff/parse) - Go parsers for web formats
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [cruip/cruip-tutorials](https://github.com/cruip/cruip-tutorials) - A repository of Cruip's guides & tutorials in HTML made with HTML, Tailwind CSS and Alpine.js
@@ -1886,6 +1898,7 @@
 
 ## markdown 
 
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [sibiraj-s/marked-react](https://github.com/sibiraj-s/marked-react) - ⚛️ Render Markdown as React components
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
@@ -2108,6 +2121,7 @@
 
 ## openai 
 
+- [localit-io/tiktoken-go](https://github.com/localit-io/tiktoken-go) - go version of tiktoken
 - [hupe1980/go-tiktoken](https://github.com/hupe1980/go-tiktoken) - ✂️  OpenAI's tiktoken tokenizer written in Go
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
@@ -2126,7 +2140,7 @@
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 ## opencv 
@@ -2550,6 +2564,10 @@
 - [kristijanhusak/laravel-form-builder](https://github.com/kristijanhusak/laravel-form-builder) - Laravel Form builder for version 5+!
 - [inphinit/inphinit-php-proxy](https://github.com/inphinit/inphinit-php-proxy) - PHP Proxy html2canvas
 
+## physics 
+
+- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
+
 ## pixel-art 
 
 - [Erfaniaa/text-to-commit-history](https://github.com/Erfaniaa/text-to-commit-history) - Write a large text on your GitHub profile, with your commits history (contribution graph).
@@ -2775,7 +2793,7 @@
 
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust + Go — Call Rust code from Go using FFI
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI.
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a database built from scratch to be the backend for any AI application.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
