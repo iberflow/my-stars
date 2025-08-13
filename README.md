@@ -135,6 +135,7 @@
 
 ## Go 
 
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [flanglet/kanzi-go](https://github.com/flanglet/kanzi-go) - Fast lossless data compression in Go
 - [casibase/pdf](https://github.com/casibase/pdf) - PDF parser for Golang
 - [localit-io/tiktoken-go](https://github.com/localit-io/tiktoken-go) - go version of tiktoken
@@ -976,7 +977,7 @@
 ## Rust 
 
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI.
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a database built from scratch to be the backend for any AI application.
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [helsing-ai/buffrs](https://github.com/helsing-ai/buffrs) - Modern protobuf package management
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
