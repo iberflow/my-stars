@@ -779,7 +779,7 @@
 
 - [teodorgross/awesome-ai](https://github.com/teodorgross/awesome-ai) - The world's first automated AI tool discovery platform using the revolutionary .awesome-ai.md standard. Real-time GitHub scanning, automated curation, and live leaderboards for AI tools.
 - [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) - Practical resources to get your first 10/100/1000 users
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
 - [sanjay10985/animated-react-collection](https://github.com/sanjay10985/animated-react-collection) - 
 - [Azure/trusted-signing-action](https://github.com/Azure/trusted-signing-action) - 
 - [hhajime/Wavebar](https://github.com/hhajime/Wavebar) - Audio Visualizer for Mac Users
