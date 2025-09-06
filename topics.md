@@ -342,6 +342,7 @@
 
 ## api 
 
+- [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 - [teodorgross/awesome-ai](https://github.com/teodorgross/awesome-ai) - The first automated AI tool discovery platform using the revolutionary .awesome-ai.md standard. Real-time GitHub scanning, automated curation, and live leaderboards for AI tools.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [helixml/helix](https://github.com/helixml/helix) - ♾️ Helix is a private GenAI stack for building AI agents with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
@@ -831,7 +832,7 @@
 
 ## documentation 
 
-- [remorses/fumabase](https://github.com/remorses/fumabase) - Docs websites for the agents era. Publish docs websites without maintaining any code. Built on top of Fumadocs
+- [remorses/holocron](https://github.com/remorses/holocron) - Lovable for docs websites
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -1002,6 +1003,8 @@
 
 ## go 
 
+- [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
+- [Atheer-Ganayem/SnapWS](https://github.com/Atheer-Ganayem/SnapWS) - Minimal WebSocket library for Go.
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [flanglet/kanzi-go](https://github.com/flanglet/kanzi-go) - Fast lossless data compression in Go
@@ -1171,6 +1174,8 @@
 
 ## golang 
 
+- [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
+- [Atheer-Ganayem/SnapWS](https://github.com/Atheer-Ganayem/SnapWS) - Minimal WebSocket library for Go.
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [flanglet/kanzi-go](https://github.com/flanglet/kanzi-go) - Fast lossless data compression in Go
@@ -1384,6 +1389,7 @@
 
 ## graphql 
 
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
@@ -1401,6 +1407,7 @@
 
 ## hacktoberfest 
 
+- [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 - [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -1518,6 +1525,7 @@
 
 ## http 
 
+- [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
 - [paologaleotti/blaze](https://github.com/paologaleotti/blaze) - Simple and minimal Go template for building fast and mantainable HTTP services
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 - [HouzuoGuo/laitos](https://github.com/HouzuoGuo/laitos) - Top geek's chindogu - personal assistant over satellite/telephone/SMS/chatbot, plus web infrastructure servers (web & mail, ad-free DNS, TCP-over-DNS, web proxy, etc)
@@ -1582,7 +1590,7 @@
 ## javascript 
 
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [tdewolff/parse](https://github.com/tdewolff/parse) - Go parsers for web formats
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -1755,6 +1763,7 @@
 
 ## library 
 
+- [Atheer-Ganayem/SnapWS](https://github.com/Atheer-Ganayem/SnapWS) - Minimal WebSocket library for Go.
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto) - A high performance memory-bound Go cache
@@ -2017,6 +2026,7 @@
 
 ## nextjs 
 
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [sersavan/shadcn-multi-select-component](https://github.com/sersavan/shadcn-multi-select-component) - A multi-select component designed with shadcn/ui
 - [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) - New design 🎉 Nextjs + Shadcn + TypeScript + Tailwind. Landing page template ease-to-use
@@ -2169,6 +2179,10 @@
 
 ## others 
 
+- [kaptinlin/jsonschema](https://github.com/kaptinlin/jsonschema) - A powerful Go JSON Schema validator library aligned with the JSON Schema Draft 2020-12. It features enhanced validation outputs and supports internationalization, making it perfect for developers requ
+- [enetx/surf](https://github.com/enetx/surf) - SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.
+- [mutecomm/go-sqlcipher](https://github.com/mutecomm/go-sqlcipher) - Self-contained Go sqlite3 driver with an AES-256 encrypted sqlite3 database
+- [jackfr0st13/gorm-sqlite-cipher](https://github.com/jackfr0st13/gorm-sqlite-cipher) - SQLite driver for GORM supporting encryption
 - [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go
 - [tiborvass/go-jsx](https://github.com/tiborvass/go-jsx) - React JSX transpiler without Node.js (using Go)
 - [withastro/compiler](https://github.com/withastro/compiler) - The Astro compiler. Written in Go. Distributed as WASM.
@@ -2295,7 +2309,7 @@
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
 - [dAppServer/wails-build-action](https://github.com/dAppServer/wails-build-action) - GitHub action to build Wails.io
 - [mitchellh/panicwrap](https://github.com/mitchellh/panicwrap) - panicwrap is a Go library for catching and handling panics in Go applications.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
 - [thinkdata-works/gopipeline](https://github.com/thinkdata-works/gopipeline) - Scalable concurrent go pipeline for running multi-step async processes
 - [inconshreveable/go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs
 - [kinde-oss/kinde-php-sdk](https://github.com/kinde-oss/kinde-php-sdk) - Kinde PHP SDK
@@ -2331,7 +2345,7 @@
 - [icyphox/legit](https://github.com/icyphox/legit) - web frontend for git
 - [sosedoff/gitkit](https://github.com/sosedoff/gitkit) - Git toolkit for Go: Smart HTTP server, SSH server, hook receiver
 - [signintech/gopdf](https://github.com/signintech/gopdf) - A simple library for generating PDF written in Go lang
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern Authentication—On Your Terms. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first authentication and user management for B2C and B2B. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [supertokens/supertokens-golang](https://github.com/supertokens/supertokens-golang) - GoLang SDK for SuperTokens
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go.
 - [tylabs/pdfexaminer](https://github.com/tylabs/pdfexaminer) - PDFExaminer Tool - Analyse PDF Malware
@@ -2684,7 +2698,7 @@
 
 ## rails 
 
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 ## raspberry-pi 
@@ -2696,12 +2710,13 @@
 
 ## react 
 
+- [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [nick-keller/react-datasheet-grid](https://github.com/nick-keller/react-datasheet-grid) - An Airtable-like / Excel-like component to create beautiful spreadsheets.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
-- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build high-quality, accessible design systems. Works in React, Svelte, Vue, and Solid
+- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build scalable design systems with React, Vue, Solid, and Svelte.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Web extension template to build Chrome and Firefox extensions quickly. Setup with React 19, Typescript and TailwindCSS
@@ -2795,7 +2810,7 @@
 ## ruby 
 
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
@@ -2899,6 +2914,7 @@
 
 ## server 
 
+- [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) - LaravelS is an out-of-the-box adapter between Laravel/Lumen and Swoole.
@@ -2962,11 +2978,11 @@
 
 ## support 
 
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 
 ## svelte 
 
-- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build high-quality, accessible design systems. Works in React, Svelte, Vue, and Solid
+- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build scalable design systems with React, Vue, Solid, and Svelte.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
@@ -3002,6 +3018,7 @@
 
 ## tailwindcss 
 
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Web extension template to build Chrome and Firefox extensions quickly. Setup with React 19, Typescript and TailwindCSS
 - [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) - New design 🎉 Nextjs + Shadcn + TypeScript + Tailwind. Landing page template ease-to-use
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
@@ -3079,6 +3096,8 @@
 
 ## typescript 
 
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
@@ -3131,7 +3150,7 @@
 
 ## ui 
 
-- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build high-quality, accessible design systems. Works in React, Svelte, Vue, and Solid
+- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build scalable design systems with React, Vue, Solid, and Svelte.
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -3159,7 +3178,7 @@
 ## vue 
 
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
-- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build high-quality, accessible design systems. Works in React, Svelte, Vue, and Solid
+- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build scalable design systems with React, Vue, Solid, and Svelte.
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -3189,6 +3208,7 @@
 ## vuejs 
 
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [silencesys/silentbox](https://github.com/silencesys/silentbox) - A lightbox inspired Vue.js component.
