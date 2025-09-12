@@ -534,7 +534,7 @@
 - [librespot-org/librespot-golang](https://github.com/librespot-org/librespot-golang) - Go port of librespot, the Open Source Spotify client library
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [google/gxui](https://github.com/google/gxui) - An experimental Go cross platform UI library.
-- [tmthrgd/go-hex](https://github.com/tmthrgd/go-hex) - An efficient assembly hexadecimal implementation for Golang.
+- [tmthrgd/go-hex](https://github.com/tmthrgd/go-hex) - An efficient assembly hexadecimal implementation for Golang. [Abandoned].
 - [sogko/slumber](https://github.com/sogko/slumber) - A complete REST API server written in golang / go
 - [wantedly/apig](https://github.com/wantedly/apig) - [MOVED TO NEW REPO] Golang RESTful API Server Generator
 - [goadesign/goa](https://github.com/goadesign/goa) - Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.
