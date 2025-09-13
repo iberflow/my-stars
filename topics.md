@@ -2416,7 +2416,7 @@
 - [kitech/php-go](https://github.com/kitech/php-go) - Write PHP extension using go/golang. Zend API wrapper for go/golang.
 - [codingforinterviews/practice-problems](https://github.com/codingforinterviews/practice-problems) - Prepare for programming interviews with pretty practice problems.
 - [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
-- [tmthrgd/go-hex](https://github.com/tmthrgd/go-hex) - An efficient assembly hexadecimal implementation for Golang.
+- [tmthrgd/go-hex](https://github.com/tmthrgd/go-hex) - An efficient assembly hexadecimal implementation for Golang. [Abandoned].
 - [karalabe/xgo](https://github.com/karalabe/xgo) - Go CGO cross compiler
 - [worldveil/dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python
 - [danvk/dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag
