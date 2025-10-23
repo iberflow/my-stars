@@ -701,7 +701,7 @@
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [bradstewart/electron-boilerplate-vue](https://github.com/bradstewart/electron-boilerplate-vue) - Boilerplate application for Electron runtime
 - [keithclark/fuse-devtools](https://github.com/keithclark/fuse-devtools) - A boilerplate for creating a devtools extension for multiple browsers from a single code base.
-- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 10 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). 
+- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 12 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). 
 - [jonstuebe/product-scraper](https://github.com/jonstuebe/product-scraper) - Node.js based scraper for ecommerce sites
 - [octalmage/active-window](https://github.com/octalmage/active-window) - Get active window title in Node.js.
 - [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
