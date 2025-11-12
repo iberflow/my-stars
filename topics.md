@@ -547,6 +547,7 @@
 
 ## chrome 
 
+- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [jfarleyx/chrome-native-messaging-golang](https://github.com/jfarleyx/chrome-native-messaging-golang) - Chrome extension sample that uses persistent connection (connectNative()) to a native messaging host written in Go.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -1038,6 +1039,7 @@
 
 ## go 
 
+- [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) - :wink: :cyclone: :strawberry: TextRank implementation in Golang with extendable features (summarization, phrase extraction) and multithreading (goroutine).
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
 - [Atheer-Ganayem/SnapWS](https://github.com/Atheer-Ganayem/SnapWS) - Minimal WebSocket library for Go.
@@ -1210,6 +1212,9 @@
 
 ## golang 
 
+- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+- [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) - :wink: :cyclone: :strawberry: TextRank implementation in Golang with extendable features (summarization, phrase extraction) and multithreading (goroutine).
+- [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
 - [Atheer-Ganayem/SnapWS](https://github.com/Atheer-Ganayem/SnapWS) - Minimal WebSocket library for Go.
@@ -2239,6 +2244,7 @@
 
 ## others 
 
+- [zzzgydi/webscraper](https://github.com/zzzgydi/webscraper) - Scrape the webpage convert it into Markdown, and enhance AI search applications.
 - [logto-io/experience-samples](https://github.com/logto-io/experience-samples) - Logto sign-in experience sample codes
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
@@ -2351,7 +2357,7 @@
 - [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
 - [mattn/goveralls](https://github.com/mattn/goveralls) - 
 - [enrichman/polygo](https://github.com/enrichman/polygo) - 
-- [getsentry/spotlight](https://github.com/getsentry/spotlight) - Debuggability Elevated
+- [getsentry/spotlight](https://github.com/getsentry/spotlight) - Sentry for Development
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
 - [vbackend/visual-backend](https://github.com/vbackend/visual-backend) - Source code for Visual Backend desktop app, implemented using Electron & React
 - [IntrinsicLabsAI/gbnfgen](https://github.com/IntrinsicLabsAI/gbnfgen) - TypeScript generator for llama.cpp Grammar directly from TypeScript interfaces
@@ -2371,7 +2377,7 @@
 - [in-toto/attestation](https://github.com/in-toto/attestation) - in-toto Attestation Framework
 - [Dentrax/obscure-go](https://github.com/Dentrax/obscure-go) - In-memory security with secure data types
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
-- [dAppServer/wails-build-action](https://github.com/dAppServer/wails-build-action) - GitHub action to build Wails.io
+- [Snider/build](https://github.com/Snider/build) - GitHub action to build things (including Wails.io)
 - [mitchellh/panicwrap](https://github.com/mitchellh/panicwrap) - panicwrap is a Go library for catching and handling panics in Go applications.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
 - [thinkdata-works/gopipeline](https://github.com/thinkdata-works/gopipeline) - Scalable concurrent go pipeline for running multi-step async processes
@@ -3126,6 +3132,7 @@
 
 ## terminal 
 
+- [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS + GitHub actions 📽️
 - [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - Terminal User Interface for Github
@@ -3147,6 +3154,7 @@
 
 ## testing 
 
+- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
 - [gost-dom/browser](https://github.com/gost-dom/browser) - Headless browser for Go for TDD workflows
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
