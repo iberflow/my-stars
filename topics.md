@@ -1855,7 +1855,7 @@
 - [teodorgross/awesome-ai](https://github.com/teodorgross/awesome-ai) - The first automated AI tool discovery platform using the revolutionary .awesome-ai.md standard. Real-time GitHub scanning, automated curation, and live leaderboards for AI tools.
 - [eduardolat/openroutergo](https://github.com/eduardolat/openroutergo) - Easy to use OpenRouter Golang SDK
 - [liushuangls/go-anthropic](https://github.com/liushuangls/go-anthropic) - Anthropic Claude API wrapper for Go
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [edit4i/gh-bpe-openai-go](https://github.com/edit4i/gh-bpe-openai-go) - Go bindings for Github's bpe-openai tokenizer implementation.
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
@@ -2207,7 +2207,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [localit-io/tiktoken-go](https://github.com/localit-io/tiktoken-go) - go version of tiktoken
 - [hupe1980/go-tiktoken](https://github.com/hupe1980/go-tiktoken) - ✂️  OpenAI's tiktoken tokenizer written in Go
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 - [helixml/helix](https://github.com/helixml/helix) - ♾️ Helix is a private GenAI stack for building AI agents with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
@@ -2244,6 +2244,8 @@
 
 ## others 
 
+- [markusmobius/go-trafilatura](https://github.com/markusmobius/go-trafilatura) - go-trafilatura is a Go port of the trafilatura Python library.
+- [mackee/go-readability](https://github.com/mackee/go-readability) - Extract readable content from web pages - Mozilla’s and Mizchi Readability ported to Go
 - [zzzgydi/webscraper](https://github.com/zzzgydi/webscraper) - Scrape the webpage convert it into Markdown, and enhance AI search applications.
 - [logto-io/experience-samples](https://github.com/logto-io/experience-samples) - Logto sign-in experience sample codes
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
