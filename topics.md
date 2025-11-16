@@ -241,6 +241,7 @@
 
 ## ai 
 
+- [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [teodorgross/awesome-ai](https://github.com/teodorgross/awesome-ai) - The first automated AI tool discovery platform using the revolutionary .awesome-ai.md standard. Real-time GitHub scanning, automated curation, and live leaderboards for AI tools.
 - [eduardolat/openroutergo](https://github.com/eduardolat/openroutergo) - Easy to use OpenRouter Golang SDK
@@ -287,6 +288,7 @@
 
 ## ai-agents 
 
+- [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [MeetKai/functionary](https://github.com/MeetKai/functionary) - Chat language model that can use tools and interpret the results
@@ -401,6 +403,7 @@
 
 ## automation 
 
+- [rebrowser/rebrowser-patches](https://github.com/rebrowser/rebrowser-patches) - Collection of patches for puppeteer and playwright to avoid automation detection and leaks. Helps to avoid Cloudflare and DataDome CAPTCHA pages. Easy to patch/unpatch, can be enabled/disabled on dema
 - [lifeparticle/SelectStar](https://github.com/lifeparticle/SelectStar) - ⭐️ Compare GitHub Repositories Based on the Number of Stars and Other Relevant Parameters
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [parcelvoy/platform](https://github.com/parcelvoy/platform) - Parcelvoy: Open source multi-channel marketing automation platform. Send data-driven emails, sms, push notifications and more!
@@ -483,11 +486,12 @@
 
 ## bootstrap 
 
-- [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+- [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - MOVED to https://github.com/bootstrap-vue-next/bootstrap-vue-next
 - [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 
 ## bot 
 
+- [rebrowser/rebrowser-patches](https://github.com/rebrowser/rebrowser-patches) - Collection of patches for puppeteer and playwright to avoid automation detection and leaks. Helps to avoid Cloudflare and DataDome CAPTCHA pages. Easy to patch/unpatch, can be enabled/disabled on dema
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 ## bugbounty 
@@ -547,6 +551,7 @@
 
 ## chrome 
 
+- [rebrowser/rebrowser-patches](https://github.com/rebrowser/rebrowser-patches) - Collection of patches for puppeteer and playwright to avoid automation detection and leaks. Helps to avoid Cloudflare and DataDome CAPTCHA pages. Easy to patch/unpatch, can be enabled/disabled on dema
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [jfarleyx/chrome-native-messaging-golang](https://github.com/jfarleyx/chrome-native-messaging-golang) - Chrome extension sample that uses persistent connection (connectNative()) to a native messaging host written in Go.
@@ -569,6 +574,7 @@
 
 ## cli 
 
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
@@ -650,6 +656,8 @@
 
 ## crawler 
 
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
+- [rebrowser/rebrowser-patches](https://github.com/rebrowser/rebrowser-patches) - Collection of patches for puppeteer and playwright to avoid automation detection and leaks. Helps to avoid Cloudflare and DataDome CAPTCHA pages. Easy to patch/unpatch, can be enabled/disabled on dema
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 
 ## cryptocurrency 
@@ -1039,6 +1047,7 @@
 
 ## go 
 
+- [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability.
 - [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) - :wink: :cyclone: :strawberry: TextRank implementation in Golang with extendable features (summarization, phrase extraction) and multithreading (goroutine).
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
@@ -1212,6 +1221,7 @@
 
 ## golang 
 
+- [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability.
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) - :wink: :cyclone: :strawberry: TextRank implementation in Golang with extendable features (summarization, phrase extraction) and multithreading (goroutine).
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
@@ -1450,6 +1460,7 @@
 
 ## hacktoberfest 
 
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
@@ -1850,12 +1861,13 @@
 
 ## llm 
 
+- [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 - [mamei16/LLM_Web_search](https://github.com/mamei16/LLM_Web_search) - An extension for  oobabooga/text-generation-webui that enables the LLM to search the web
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
 - [teodorgross/awesome-ai](https://github.com/teodorgross/awesome-ai) - The first automated AI tool discovery platform using the revolutionary .awesome-ai.md standard. Real-time GitHub scanning, automated curation, and live leaderboards for AI tools.
 - [eduardolat/openroutergo](https://github.com/eduardolat/openroutergo) - Easy to use OpenRouter Golang SDK
 - [liushuangls/go-anthropic](https://github.com/liushuangls/go-anthropic) - Anthropic Claude API wrapper for Go
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [edit4i/gh-bpe-openai-go](https://github.com/edit4i/gh-bpe-openai-go) - Go bindings for Github's bpe-openai tokenizer implementation.
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
@@ -2207,7 +2219,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [localit-io/tiktoken-go](https://github.com/localit-io/tiktoken-go) - go version of tiktoken
 - [hupe1980/go-tiktoken](https://github.com/hupe1980/go-tiktoken) - ✂️  OpenAI's tiktoken tokenizer written in Go
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 - [helixml/helix](https://github.com/helixml/helix) - ♾️ Helix is a private GenAI stack for building AI agents with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
@@ -2244,6 +2256,7 @@
 
 ## others 
 
+- [cixtor/readability](https://github.com/cixtor/readability) - Readability is a library written in Go (golang) to parse, analyze and convert HTML pages into readable content. Originally an Arc90 Experiment, it is now incorporated into Safari’s Reader View.
 - [markusmobius/go-trafilatura](https://github.com/markusmobius/go-trafilatura) - go-trafilatura is a Go port of the trafilatura Python library.
 - [mackee/go-readability](https://github.com/mackee/go-readability) - Extract readable content from web pages - Mozilla’s and Mizchi Readability ported to Go
 - [zzzgydi/webscraper](https://github.com/zzzgydi/webscraper) - Scrape the webpage convert it into Markdown, and enhance AI search applications.
@@ -2835,7 +2848,7 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [tommoor/emojione-picker](https://github.com/tommoor/emojione-picker) - A react emoji picker for use with emojione
@@ -3293,7 +3306,7 @@
 - [fireyy/vue-emoji-mart](https://github.com/fireyy/vue-emoji-mart) - Deprecated. Try emoji-mart-vue: https://github.com/jm-david/emoji-mart-vue instead.
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
-- [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+- [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - MOVED to https://github.com/bootstrap-vue-next/bootstrap-vue-next
 - [meteor-vue/vue-meteor](https://github.com/meteor-vue/vue-meteor) - 🌠 Vue first-class integration in Meteor
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
