@@ -538,7 +538,7 @@
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [badfortrains/spotcontrol](https://github.com/badfortrains/spotcontrol) - open spotify connect controller
 - [librespot-org/librespot-golang](https://github.com/librespot-org/librespot-golang) - Go port of librespot, the Open Source Spotify client library
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [google/gxui](https://github.com/google/gxui) - An experimental Go cross platform UI library.
 - [tmthrgd/go-hex](https://github.com/tmthrgd/go-hex) - An efficient assembly hexadecimal implementation for Golang. [Abandoned].
 - [sogko/slumber](https://github.com/sogko/slumber) - A complete REST API server written in golang / go
