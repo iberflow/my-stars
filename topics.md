@@ -96,6 +96,7 @@
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -844,7 +845,7 @@
 ## devops 
 
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - Fast and flexible scripting for Go developers and DevOps.
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
@@ -868,7 +869,7 @@
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1047,6 +1048,14 @@
 - [go-gl/glfw](https://github.com/go-gl/glfw) - Go bindings for GLFW 3
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
 
+## generative-ai 
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- [neurocult/agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
+- [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+
 ## git 
 
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -1095,10 +1104,11 @@
 - [liushuangls/go-anthropic](https://github.com/liushuangls/go-anthropic) - Anthropic Claude API wrapper for Go
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - Fast and flexible scripting for Go developers and DevOps.
 - [lyeslabs/mcpgen](https://github.com/lyeslabs/mcpgen) - Generate Go MCP server boilerplate from OpenAPI 3 specifications
+- [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
 - [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust + Go — Call Rust code from Go using FFI
 - [tdewolff/parse](https://github.com/tdewolff/parse) - Go parsers for web formats
 - [hedhyw/rex](https://github.com/hedhyw/rex) - Flexible regular expressions constructor for Golang.
@@ -1272,11 +1282,12 @@
 - [liushuangls/go-anthropic](https://github.com/liushuangls/go-anthropic) - Anthropic Claude API wrapper for Go
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [edit4i/editor](https://github.com/edit4i/editor) - An open-source alternative to Cursor, Windsurf (Local RAG, Bring your own LLM, Agents). Written in golang
 - [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - Fast and flexible scripting for Go developers and DevOps.
 - [lyeslabs/mcpgen](https://github.com/lyeslabs/mcpgen) - Generate Go MCP server boilerplate from OpenAPI 3 specifications
+- [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
 - [vigiloauth/vigilo](https://github.com/vigiloauth/vigilo) - OAuth 2.0 & OIDC Auth Server and Identity Provider
 - [safedep/vet](https://github.com/safedep/vet) - Protect against malicious open source packages 🤖
 - [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust + Go — Call Rust code from Go using FFI
@@ -1837,6 +1848,7 @@
 ## laravel 
 
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
 - [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
@@ -2080,7 +2092,7 @@
 ## monitoring 
 
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [orb-community/orb](https://github.com/orb-community/orb) - Orb is a dynamic network observability platform with agent fleet orchestration and data pipelines with OpenTelemetry
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -2333,7 +2345,6 @@
 - [siderolabs/omni](https://github.com/siderolabs/omni) - SaaS-simple deployment of Kubernetes - on your own hardware.
 - [clearflask/clearflask](https://github.com/clearflask/clearflask) - Listen to your users during product development with ClearFlask
 - [AliRizaAynaci/gorl](https://github.com/AliRizaAynaci/gorl) - A high-performance, modular rate limiting library for Go. Supports in-memory and Redis backends. Includes Fixed Window, Sliding Window, Token Bucket, and Leaky Bucket algorithms. Flexible keying (IP, 
-- [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
 - [myleshyson/lsprotocol-go](https://github.com/myleshyson/lsprotocol-go) - A lsprotocol generator for golang
 - [daulet/tokenizers](https://github.com/daulet/tokenizers) - Go bindings for Tiktoken & HuggingFace Tokenizer
 - [qhenkart/anthropic-tokenizer-go](https://github.com/qhenkart/anthropic-tokenizer-go) - Determine the cost of your queries in Golang
@@ -3053,7 +3064,7 @@
 - [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [edit4i/editor](https://github.com/edit4i/editor) - An open-source alternative to Cursor, Windsurf (Local RAG, Bring your own LLM, Agents). Written in golang
 - [orb-community/orb](https://github.com/orb-community/orb) - Orb is a dynamic network observability platform with agent fleet orchestration and data pipelines with OpenTelemetry
