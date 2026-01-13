@@ -232,6 +232,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [ui-design](#ui-design)
+- [video](#video)
 - [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
@@ -2966,7 +2967,7 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, sell or collaborate. Privately.
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Learn and keep track of any topic
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [tommoor/emojione-picker](https://github.com/tommoor/emojione-picker) - A react emoji picker for use with emojione
@@ -3395,6 +3396,12 @@
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
+
+## video 
+
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [silencesys/silentbox](https://github.com/silencesys/silentbox) - A lightbox inspired Vue.js component.
+- [inlife/nexrender](https://github.com/inlife/nexrender) - 📹  Data-driven render automation for After Effects
 
 ## visualization 
 
