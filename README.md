@@ -356,7 +356,7 @@
 - [mind-ar/goEagi](https://github.com/mind-ar/goEagi) - 
 - [replicate/go](https://github.com/replicate/go) - Repository for go shared libraries (for now).
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [HouzuoGuo/laitos](https://github.com/HouzuoGuo/laitos) - Top geek's chindogu - personal assistant over satellite/telephone/SMS/chatbot, plus web infrastructure servers (web & mail, ad-free DNS, TCP-over-DNS, web proxy, etc)
 - [pkoukk/tiktoken-go](https://github.com/pkoukk/tiktoken-go) - go version of tiktoken
 - [jina-ai/client-go](https://github.com/jina-ai/client-go) - Golang Client for Jina (https://github.com/jina-ai/jina)
@@ -1002,7 +1002,7 @@
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
-- [daulet/tokenizers](https://github.com/daulet/tokenizers) - Go bindings for Tiktoken & HuggingFace Tokenizer
+- [daulet/tokenizers](https://github.com/daulet/tokenizers) - Go, Wasm bindings for HF Tokenizers and Tiktoken
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [helsing-ai/buffrs](https://github.com/helsing-ai/buffrs) - Modern protobuf package management
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
