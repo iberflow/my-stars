@@ -781,7 +781,7 @@
 
 ## NSIS 
 
-- [host-uk/build](https://github.com/host-uk/build) - GitHub action to build things (including Wails.io)
+- [host-uk/build](https://github.com/host-uk/build) - type:infra lang:go,nsis,html,css,js | GitHub Action for building Wails.io apps, multi-platform releases
 
 ## Nunjucks 
 
@@ -1157,7 +1157,7 @@
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [kabirbaidhya/keycode-js](https://github.com/kabirbaidhya/keycode-js) - A javascript package with key code constants.
 - [codeaye/auxilium](https://github.com/codeaye/auxilium) - Spotlight! but for Developers.
 - [MaksZhukov/strapi-plugin-generate-data](https://github.com/MaksZhukov/strapi-plugin-generate-data) - This plugin is for generating data for your content-types for strapi
