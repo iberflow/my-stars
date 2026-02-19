@@ -135,6 +135,7 @@
 
 ## Go 
 
+- [256dpi/lungo](https://github.com/256dpi/lungo) - A MongoDB compatible embeddable database and toolkit for Go.
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [sajari/docconv](https://github.com/sajari/docconv) - Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
@@ -253,7 +254,7 @@
 - [nordcloud/gon](https://github.com/nordcloud/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [rapidloop/ragdemo](https://github.com/rapidloop/ragdemo) - Example of a Retrieval-Augmented Generation with Postgres, pgvector, ollama, Llama3 and Go.
 - [cckalen/intellichunk](https://github.com/cckalen/intellichunk) - Go Based Lightweight RAG / LLM Tool with CLI + API
-- [helixml/helix](https://github.com/helixml/helix) - ♾️ Helix is a private GenAI stack for building AI agents with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
+- [helixml/helix](https://github.com/helixml/helix) - ♾️ Private Agent Swarm with Spec Coding. Each agent gets their own desktop. Run Claude, Codex, Gemini and open models on a full private GenAI Stack ♾️
 - [mus-format/mus-go](https://github.com/mus-format/mus-go) - MUS format serializer for Go
 - [sugarme/gotch](https://github.com/sugarme/gotch) - Go binding for Pytorch C++ API (libtorch)
 - [sugarme/transformer](https://github.com/sugarme/transformer) - NLP transformers written in Go
