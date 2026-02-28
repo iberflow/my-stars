@@ -2488,6 +2488,7 @@
 - [in-toto/attestation](https://github.com/in-toto/attestation) - in-toto Attestation Framework
 - [Dentrax/obscure-go](https://github.com/Dentrax/obscure-go) - In-memory security with secure data types
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Goog
+- [host-uk/build](https://github.com/host-uk/build) - type:infra lang:go,nsis,html,css,js | GitHub Action for building Wails.io apps, multi-platform releases
 - [mitchellh/panicwrap](https://github.com/mitchellh/panicwrap) - panicwrap is a Go library for catching and handling panics in Go applications.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
 - [thinkdata-works/gopipeline](https://github.com/thinkdata-works/gopipeline) - Scalable concurrent go pipeline for running multi-step async processes
