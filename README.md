@@ -29,6 +29,7 @@
 - [Markdown](#markdown)
 - [Meson](#meson)
 - [Mustache](#mustache)
+- [NSIS](#nsis)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -778,6 +779,10 @@
 ## Mustache 
 
 - [mostafa/go-api-client](https://github.com/mostafa/go-api-client) - Logto Management API Client for Go
+
+## NSIS 
+
+- [host-uk/build](https://github.com/host-uk/build) - type:infra lang:go,nsis,html,css,js | GitHub Action for building Wails.io apps, multi-platform releases
 
 ## Nunjucks 
 
