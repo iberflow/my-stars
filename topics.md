@@ -393,7 +393,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [helixml/helix](https://github.com/helixml/helix) - ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own desktop. Run Claude, Codex, Gemini and open models on a full private GenAI Stack ♾️
 - [paologaleotti/blaze](https://github.com/paologaleotti/blaze) - Simple and minimal Go template for building fast and mantainable HTTP services
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [Kardbord/hfapigo](https://github.com/Kardbord/hfapigo) - Unofficial (Golang) Go bindings for the Hugging Face Inference API
 - [cowdude/flapi](https://github.com/cowdude/flapi) - FLAPI is an offline, containerized speech recognition websocket API
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
@@ -3012,7 +3012,7 @@
 ## rest-api 
 
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -3447,7 +3447,7 @@
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
 - [silencesys/silentbox](https://github.com/silencesys/silentbox) - A lightbox inspired Vue.js component.
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
