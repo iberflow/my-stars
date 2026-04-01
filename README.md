@@ -136,6 +136,7 @@
 
 ## Go 
 
+- [speakeasy-api/openapi](https://github.com/speakeasy-api/openapi) - A set of packages and tools for working with OpenAPI, Swagger, Arazzo and Overlay Specification documents.
 - [256dpi/lungo](https://github.com/256dpi/lungo) - A MongoDB compatible embeddable database and toolkit for Go.
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [sajari/docconv](https://github.com/sajari/docconv) - Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text
