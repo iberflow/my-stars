@@ -136,6 +136,8 @@
 
 ## Go 
 
+- [pb33f/libopenapi](https://github.com/pb33f/libopenapi) - libopenapi is a fully featured, high performance OpenAPI 3.2, 3.1, 3.0, Overlays and Arazzo parser, library, validator and toolkit for go applications.
+- [qri-io/jsonschema](https://github.com/qri-io/jsonschema) - golang implementation of  https://json-schema.org drafts 7 & 2019-09
 - [speakeasy-api/openapi](https://github.com/speakeasy-api/openapi) - A set of packages and tools for working with OpenAPI, Swagger, Arazzo and Overlay Specification documents.
 - [256dpi/lungo](https://github.com/256dpi/lungo) - A MongoDB compatible embeddable database and toolkit for Go.
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
@@ -921,6 +923,7 @@
 
 ## Python 
 
+- [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 - [mamei16/LLM_Web_search](https://github.com/mamei16/LLM_Web_search) - An extension for  oobabooga/text-generation-webui that enables the LLM to search the web
 - [codelion/adaptive-classifier](https://github.com/codelion/adaptive-classifier) - A flexible, adaptive classification system for dynamic text classification
 - [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various
