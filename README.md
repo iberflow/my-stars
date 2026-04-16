@@ -952,7 +952,7 @@
 - [MeetKai/functionary](https://github.com/MeetKai/functionary) - Chat language model that can use tools and interpret the results
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer. This repo is not the Qodo free tier! Try the free version on our website.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  | This repo is not the Qodo free tier! Try Qodo free tier, click the link
 - [latent-variable/Real_time_fallacy_detection](https://github.com/latent-variable/Real_time_fallacy_detection) - Real-time Fallacy Detection using OpenAI whisper and ChatGPT/LLaMA/Mistral
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) - 
@@ -1082,6 +1082,7 @@
 
 ## TypeScript 
 
+- [logto-io/js](https://github.com/logto-io/js) - 🤓 Logto Node.js, browser, and edge computing SDKs.
 - [fczbkk/css-selector-generator](https://github.com/fczbkk/css-selector-generator) - JavaScript object that creates unique CSS selector for given element.
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
