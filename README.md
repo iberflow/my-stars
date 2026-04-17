@@ -162,7 +162,7 @@
 - [casibase/pdf](https://github.com/casibase/pdf) - PDF parser for Golang
 - [localit-io/tiktoken-go](https://github.com/localit-io/tiktoken-go) - go version of tiktoken
 - [tiborvass/go-jsx](https://github.com/tiborvass/go-jsx) - React JSX transpiler without Node.js (using Go)
-- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Cozystack: Free Cloud Platform based on Kubernetes
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [withastro/compiler](https://github.com/withastro/compiler) - The Astro compiler. Written in Go. Distributed as WASM.
 - [ridgelines/go-parser](https://github.com/ridgelines/go-parser) - A small wrapper around the parser and ast packages
