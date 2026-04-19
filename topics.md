@@ -1173,7 +1173,6 @@
 - [grooveid/wincrypto](https://github.com/grooveid/wincrypto) - Go bindings for Windows crypto APIs
 - [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
-- [mus-format/mus-go](https://github.com/mus-format/mus-go) - MUS format serializer for Go
 - [sugarme/gotch](https://github.com/sugarme/gotch) - Go binding for Pytorch C++ API (libtorch)
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -2395,7 +2394,7 @@
 - [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various
 - [madtyping/keyboard-localizations](https://github.com/madtyping/keyboard-localizations) - 
 - [dank/rlapi](https://github.com/dank/rlapi) - Reverse engineered Rocket League internal HTTP & WebSocket API
-- [kaptinlin/jsonschema](https://github.com/kaptinlin/jsonschema) - A powerful Go JSON Schema validator library aligned with the JSON Schema Draft 2020-12. It features enhanced validation outputs and supports internationalization, making it perfect for developers requ
+- [kaptinlin/jsonschema](https://github.com/kaptinlin/jsonschema) - Go library for JSON Schema Draft 2020-12 validation with enhanced outputs and multilingual error messages
 - [enetx/surf](https://github.com/enetx/surf) - SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.
 - [mutecomm/go-sqlcipher](https://github.com/mutecomm/go-sqlcipher) - Self-contained Go sqlite3 driver with an AES-256 encrypted sqlite3 database
 - [jackfr0st13/gorm-sqlite-cipher](https://github.com/jackfr0st13/gorm-sqlite-cipher) - SQLite driver for GORM supporting encryption
