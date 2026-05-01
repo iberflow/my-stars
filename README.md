@@ -135,6 +135,7 @@
 
 ## Go 
 
+- [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [sahilm/fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
 - [pb33f/libopenapi](https://github.com/pb33f/libopenapi) - libopenapi is a fully featured, high performance OpenAPI 3.2, 3.1, 3.0, Overlays and Arazzo parser, library, validator and toolkit for go applications.
 - [qri-io/jsonschema](https://github.com/qri-io/jsonschema) - golang implementation of  https://json-schema.org drafts 7 & 2019-09
@@ -382,7 +383,7 @@
 - [Dentrax/obscure-go](https://github.com/Dentrax/obscure-go) - In-memory security with secure data types
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [mdreizin/chrome-bookmarks-alfred-workflow](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium/Microsoft Edge bookmarks search workflow for Alfred
-- [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
+- [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
 - [ory/keto](https://github.com/ory/keto) - The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, clo
@@ -1084,6 +1085,7 @@
 
 ## TypeScript 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [logto-io/js](https://github.com/logto-io/js) - 🤓 Logto Node.js, browser, and edge computing SDKs.
 - [fczbkk/css-selector-generator](https://github.com/fczbkk/css-selector-generator) - JavaScript object that creates unique CSS selector for given element.
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
