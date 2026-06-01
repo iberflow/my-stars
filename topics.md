@@ -915,6 +915,7 @@
 
 ## docker 
 
+- [criyle/go-judge](https://github.com/criyle/go-judge) - Sandbox service built on Linux container technologies with simple REST and gRPC API
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
@@ -1152,6 +1153,7 @@
 
 ## go 
 
+- [criyle/go-judge](https://github.com/criyle/go-judge) - Sandbox service built on Linux container technologies with simple REST and gRPC API
 - [sahilm/fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
 - [pb33f/libopenapi](https://github.com/pb33f/libopenapi) - libopenapi is a fully featured, high performance OpenAPI 3.2, 3.1, 3.0, Overlays and Arazzo parser, library, validator and toolkit for go applications.
 - [256dpi/lungo](https://github.com/256dpi/lungo) - A MongoDB compatible embeddable database and toolkit for Go.
@@ -1331,6 +1333,8 @@
 
 ## golang 
 
+- [criyle/go-sandbox](https://github.com/criyle/go-sandbox) - Sandbox implemented in GO including containers (namespace, cgroup), ptrace, seccomp
+- [criyle/go-judge](https://github.com/criyle/go-judge) - Sandbox service built on Linux container technologies with simple REST and gRPC API
 - [Protocol-Lattice/learning-go](https://github.com/Protocol-Lattice/learning-go) - 
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [sahilm/fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
@@ -1979,6 +1983,7 @@
 
 ## linux 
 
+- [criyle/go-sandbox](https://github.com/criyle/go-sandbox) - Sandbox implemented in GO including containers (namespace, cgroup), ptrace, seccomp
 - [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora, openSUSE Leap and some Redhat ES variants.
 - [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock) - A Go library for the Linux Landlock sandboxing feature
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
