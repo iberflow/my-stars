@@ -80,7 +80,6 @@
 - [gen2brain/malgo](https://github.com/gen2brain/malgo) - Mini audio library
 - [kitech/php-go](https://github.com/kitech/php-go) - Write PHP extension using go/golang. Zend API wrapper for go/golang.
 - [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 
 ## C++ 
@@ -480,7 +479,6 @@
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
 - [samitpal/simple-sso](https://github.com/samitpal/simple-sso) - Single sign on service with authorization capabilities written in Go (aka golang).
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) - Authenticator via oauth2, direct, email and telegram
 - [MINERVA-MD/go-markdown-it](https://github.com/MINERVA-MD/go-markdown-it) - ⚙️ A CommonMark compliant Markdown parser based on Markdown-it, written in Go and compiled to WebAssembly.
@@ -566,6 +564,7 @@
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [ButterCMS/buttercms-go](https://github.com/ButterCMS/buttercms-go) - ButterCMS Go API Wrapper
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 
@@ -820,6 +819,7 @@
 - [janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
 - [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
+- [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
 - [fregante/ghatemplates](https://github.com/fregante/ghatemplates) - GitHub Actions workflow templates for `$ ghat`
 - [harismuneer/Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) - 🤖 Top-rated tools to scrape all major public sections from Facebook, Instagram, and Twitter (X) including posts (likes/comments), photos/videos, contact information, followers, following and much more
 - [hunterdyar/RocketLeagueStrategy](https://github.com/hunterdyar/RocketLeagueStrategy) - Website collecting Rocket League Strategy, Terms, and Concepts
