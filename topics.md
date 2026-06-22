@@ -2523,7 +2523,7 @@
 - [flynn/noise](https://github.com/flynn/noise) - Go implementation of the Noise Protocol Framework
 - [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy!
 - [boxesandglue/boxesandglue](https://github.com/boxesandglue/boxesandglue) - PDF rendering library for Go using TeX algorithms.
-- [MiniAiLive/FaceLivenessDetection-SDK-Windows](https://github.com/MiniAiLive/FaceLivenessDetection-SDK-Windows) - iBeta (Level 2) Certified, Single-Image Based Face Liveness Detection (Face Anti Spoofing) Server SDK
+- [MiniAiLive/FaceLivenessDetection-Windows](https://github.com/MiniAiLive/FaceLivenessDetection-Windows) - iBeta (Level 2) Certified, Single-Image Based Face Liveness Detection (Face Anti Spoofing) Server SDK
 - [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) - University Domains and Names Data List & API
 - [favadi/protoc-go-inject-tag](https://github.com/favadi/protoc-go-inject-tag) - Inject custom tags to protobuf golang struct
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
@@ -2682,7 +2682,7 @@
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [hackergrrl/electron-speech](https://github.com/hackergrrl/electron-speech) - :microphone: Easy speech recognition in Node!
 - [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
+- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 - [PhABC/antiScamBot_slack](https://github.com/PhABC/antiScamBot_slack) - Will monitor slack channels to reduce scam potentials and increase user security
 - [DanMcInerney/LANs.py](https://github.com/DanMcInerney/LANs.py) - Inject code and spy on wifi users
 - [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) - Creative Tim Paper Dashboard made for Vue
