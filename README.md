@@ -134,6 +134,7 @@
 
 ## Go 
 
+- [kenn-io/roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 - [criyle/go-sandbox](https://github.com/criyle/go-sandbox) - Sandbox implemented in GO including containers (namespace, cgroup), ptrace, seccomp
 - [criyle/go-judge](https://github.com/criyle/go-judge) - Sandbox service built on Linux container technologies with simple REST and gRPC API
 - [Protocol-Lattice/learning-go](https://github.com/Protocol-Lattice/learning-go) - 
@@ -928,6 +929,7 @@
 
 ## Python 
 
+- [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Your second brain, starting today. CLI + MCP server that helps you build, maintain, and search a knowledge vault that gets better every day. Works with any AI provider. Local-first, zero-prereq instal
 - [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 - [mamei16/LLM_Web_search](https://github.com/mamei16/LLM_Web_search) - An extension for  oobabooga/text-generation-webui that enables the LLM to search the web
 - [codelion/adaptive-classifier](https://github.com/codelion/adaptive-classifier) - A flexible, adaptive classification system for dynamic text classification
