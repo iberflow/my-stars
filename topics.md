@@ -361,7 +361,7 @@
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [montanaflynn/stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
@@ -830,7 +830,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph-vector database built in Rust on Object Storage.
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [alash3al/vecdb](https://github.com/alash3al/vecdb) - a vector embedding database with multiple storage engines and AI embedding integrations
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
@@ -2449,6 +2449,7 @@
 - [kenn-io/roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 - [antonmedv/finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
 - [Monibrand/google-html-parser](https://github.com/Monibrand/google-html-parser) - Parse search engine HTML to retrieve ads and other stuff, support Google and Bing
+- [cixtor/readability](https://github.com/cixtor/readability) - Readability is a library written in Go (golang) to parse, analyze and convert HTML pages into readable content. Originally an Arc90 Experiment, it is now incorporated into Safari’s Reader View.
 - [markusmobius/go-trafilatura](https://github.com/markusmobius/go-trafilatura) - go-trafilatura is a Go port of the trafilatura Python library.
 - [mackee/go-readability](https://github.com/mackee/go-readability) - Extract readable content from web pages - Mozilla’s and Mizchi Readability ported to Go
 - [zzzgydi/webscraper](https://github.com/zzzgydi/webscraper) - Scrape the webpage convert it into Markdown, and enhance AI search applications.
@@ -2877,7 +2878,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [rapidloop/ragdemo](https://github.com/rapidloop/ragdemo) - Example of a Retrieval-Augmented Generation with Postgres, pgvector, ollama, Llama3 and Go.
@@ -3128,6 +3129,7 @@
 
 ## rust 
 
+- [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [second-state/echokit_box](https://github.com/second-state/echokit_box) - ESP32 firmware for the EchoKit voice device
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
@@ -3268,7 +3270,7 @@
 - [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
