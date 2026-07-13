@@ -1929,6 +1929,7 @@
 - [mysticaltech/terraform-hcloud-kube-hetzner](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!
 - [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud.
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
+- [alipourhabibi/Hades](https://github.com/alipourhabibi/Hades) - Open source Buf compatible schema registry.
 - [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
