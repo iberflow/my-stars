@@ -139,6 +139,12 @@
 
 ## Go 
 
+- [toaweme/cli](https://github.com/toaweme/cli) - Build powerful Golang CLI apps with zero effort
+- [toaweme/http](https://github.com/toaweme/http) - Golang HTTP client and (chi) server
+- [toaweme/structs](https://github.com/toaweme/structs) - Golang structs with auto-fill magic
+- [toaweme/sintax](https://github.com/toaweme/sintax) - Golang templating engine
+- [toaweme/care](https://github.com/toaweme/care) - Simplify code and repo health
+- [toaweme/blink](https://github.com/toaweme/blink) - Boot your dev stack
 - [kenn-io/roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 - [criyle/go-sandbox](https://github.com/criyle/go-sandbox) - Sandbox implemented in GO including containers (namespace, cgroup), ptrace, seccomp
 - [criyle/go-judge](https://github.com/criyle/go-judge) - Sandbox service built on Linux container technologies with simple REST and gRPC API
@@ -1035,7 +1041,7 @@
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [in-toto/attestation](https://github.com/in-toto/attestation) - in-toto Attestation Framework
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
