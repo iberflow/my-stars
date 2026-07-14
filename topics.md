@@ -46,6 +46,7 @@
 - [clojure](#clojure)
 - [cloud](#cloud)
 - [cms](#cms)
+- [code-quality](#code-quality)
 - [code-review](#code-review)
 - [command-line](#command-line)
 - [compiler](#compiler)
@@ -646,6 +647,9 @@
 
 ## cli 
 
+- [toaweme/cli](https://github.com/toaweme/cli) - Build powerful Golang CLI apps with zero effort
+- [toaweme/care](https://github.com/toaweme/care) - Simplify code and repo health
+- [toaweme/blink](https://github.com/toaweme/blink) - Boot your dev stack
 - [speakeasy-api/openapi](https://github.com/speakeasy-api/openapi) - A set of packages and tools for working with OpenAPI, Swagger, Arazzo and Overlay Specification documents.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
@@ -694,12 +698,17 @@
 - [pyrocms/pyrocms](https://github.com/pyrocms/pyrocms) - Pyro is an experienced and powerful Laravel PHP CMS.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 
+## code-quality 
+
+- [toaweme/care](https://github.com/toaweme/care) - Simplify code and repo health
+
 ## code-review 
 
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
 
 ## command-line 
 
+- [toaweme/cli](https://github.com/toaweme/cli) - Build powerful Golang CLI apps with zero effort
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -903,6 +912,7 @@
 
 ## developer-tools 
 
+- [toaweme/care](https://github.com/toaweme/care) - Simplify code and repo health
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -1178,6 +1188,12 @@
 
 ## go 
 
+- [toaweme/cli](https://github.com/toaweme/cli) - Build powerful Golang CLI apps with zero effort
+- [toaweme/http](https://github.com/toaweme/http) - Golang HTTP client and (chi) server
+- [toaweme/structs](https://github.com/toaweme/structs) - Golang structs with auto-fill magic
+- [toaweme/sintax](https://github.com/toaweme/sintax) - Golang templating engine
+- [toaweme/care](https://github.com/toaweme/care) - Simplify code and repo health
+- [toaweme/blink](https://github.com/toaweme/blink) - Boot your dev stack
 - [criyle/go-judge](https://github.com/criyle/go-judge) - Sandbox service built on Linux container technologies with simple REST and gRPC API
 - [sahilm/fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
 - [pb33f/libopenapi](https://github.com/pb33f/libopenapi) - libopenapi is a fully featured, high performance OpenAPI 3.2, 3.1, 3.0, Overlays and Arazzo parser, library, validator and toolkit for go applications.
@@ -1358,6 +1374,12 @@
 
 ## golang 
 
+- [toaweme/cli](https://github.com/toaweme/cli) - Build powerful Golang CLI apps with zero effort
+- [toaweme/http](https://github.com/toaweme/http) - Golang HTTP client and (chi) server
+- [toaweme/structs](https://github.com/toaweme/structs) - Golang structs with auto-fill magic
+- [toaweme/sintax](https://github.com/toaweme/sintax) - Golang templating engine
+- [toaweme/care](https://github.com/toaweme/care) - Simplify code and repo health
+- [toaweme/blink](https://github.com/toaweme/blink) - Boot your dev stack
 - [criyle/go-sandbox](https://github.com/criyle/go-sandbox) - Sandbox implemented in GO including containers (namespace, cgroup), ptrace, seccomp
 - [criyle/go-judge](https://github.com/criyle/go-judge) - Sandbox service built on Linux container technologies with simple REST and gRPC API
 - [Protocol-Lattice/learning-go](https://github.com/Protocol-Lattice/learning-go) - 
@@ -3122,6 +3144,7 @@
 
 ## rest-api 
 
+- [toaweme/http](https://github.com/toaweme/http) - Golang HTTP client and (chi) server
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -3162,7 +3185,7 @@
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -3445,8 +3468,9 @@
 
 ## tui 
 
+- [toaweme/blink](https://github.com/toaweme/blink) - Boot your dev stack
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [luisedmc/ghcmd](https://github.com/luisedmc/ghcmd) - Terminal User Interface for Github
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
