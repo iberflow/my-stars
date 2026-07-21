@@ -139,6 +139,7 @@
 
 ## Go 
 
+- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 - [toaweme/cli](https://github.com/toaweme/cli) - Build powerful Golang CLI apps with zero effort
 - [toaweme/http](https://github.com/toaweme/http) - Golang HTTP client and (chi) server
 - [toaweme/structs](https://github.com/toaweme/structs) - Golang structs with auto-fill magic
