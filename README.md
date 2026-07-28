@@ -216,6 +216,7 @@
 - [orsinium-labs/regexer](https://github.com/orsinium-labs/regexer) - Go package with more powerful, flexible, and safe API for regular expressions based on lazy iterators
 - [google/licenseclassifier](https://github.com/google/licenseclassifier) - A License Classifier
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
+- [alipourhabibi/Hades](https://github.com/alipourhabibi/Hades) - Open source Buf compatible schema registry.
 - [mappu/miqt](https://github.com/mappu/miqt) - MIT-licensed Qt bindings for Go
 - [dusted-go/logging](https://github.com/dusted-go/logging) - Logging integrations for Go's log/slog package.
 - [jfarleyx/chrome-native-messaging-golang](https://github.com/jfarleyx/chrome-native-messaging-golang) - Chrome extension sample that uses persistent connection (connectNative()) to a native messaging host written in Go.
@@ -299,7 +300,6 @@
 - [connectrpc/vanguard-go](https://github.com/connectrpc/vanguard-go) - Support REST, gRPC, gRPC-Web, and Connect clients with one server.
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
-- [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
 - [philippgille/chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [opencontrol/doc-template](https://github.com/opencontrol/doc-template) - Simple Google Go (golang) library for replace text in microsoft word (.docx) file
@@ -962,6 +962,7 @@
 - [abgulati/hf-waitress](https://github.com/abgulati/hf-waitress) - Serving LLMs in the HF-Transformers format via a PyFlask API
 - [kijai/ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) - ComfyUI nodes for LivePortrait
 - [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
+- [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
 - [nihole/md2docx](https://github.com/nihole/md2docx) - Markdown to Word docx file conversion
 - [MiniAiLive/FaceLivenessDetection-Windows](https://github.com/MiniAiLive/FaceLivenessDetection-Windows) - iBeta (Level 2) Certified, Single-Image Based Face Liveness Detection (Face Anti Spoofing) Server SDK
 - [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) - University Domains and Names Data List & API
@@ -1026,11 +1027,12 @@
 
 ## Rust 
 
+- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [marcelroed/gigatoken](https://github.com/marcelroed/gigatoken) - Language model tokenization at GB/s
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [second-state/echokit_box](https://github.com/second-state/echokit_box) - ESP32 firmware for the EchoKit voice device
 - [second-state/echokit_server](https://github.com/second-state/echokit_server) - Open Source Voice Agent Platform
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 98+ formats. Available for Rust, Python
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph-vector database built in Rust on Object Storage.
@@ -1139,7 +1141,6 @@
 - [sersavan/shadcn-multi-select-component](https://github.com/sersavan/shadcn-multi-select-component) - A multi-select component designed with shadcn/ui
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
-- [alipourhabibi/Hades](https://github.com/alipourhabibi/Hades) - Open source Buf compatible schema registry.
 - [lifeparticle/SelectStar](https://github.com/lifeparticle/SelectStar) - ⭐️ Compare GitHub Repositories Based on the Number of Stars and Other Relevant Parameters
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Unstyled, accessible UI components for your design System. Works in React, Vue, Solid, and Svelte.
 - [miners-online/logto-account-manager](https://github.com/miners-online/logto-account-manager) - A Shadcn/UI and Next JS "My Account" dashboard built for use with the Logto Authentication Platform.
