@@ -805,7 +805,7 @@
 
 ## NSIS 
 
-- [dAppCore/build](https://github.com/dAppCore/build) - type:infra lang:go,nsis,html,css,js | GitHub Action for building Wails.io apps, multi-platform releases
+- [dAppCore/build](https://github.com/dAppCore/build) - GitHub Action for building projects
 
 ## Nunjucks 
 
