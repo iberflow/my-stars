@@ -1096,6 +1096,7 @@
 
 ## Swift 
 
+- [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [andrewginns/CoreMLPlayer](https://github.com/andrewginns/CoreMLPlayer) - Try CoreML models on multiple images and videos easily and quickly
 - [exyte/Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics Swift library with SVG support
 - [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
