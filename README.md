@@ -230,7 +230,7 @@
 - [charles-d-burton/fileconversion](https://github.com/charles-d-burton/fileconversion) - A Go library to convert various file formats to plaintext and provide related functions
 - [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock) - A Go library for the Linux Landlock sandboxing feature
 - [ryanolee/go-pot](https://github.com/ryanolee/go-pot) - A service for giving away secrets to bots ...Probably slightly too many!
-- [entrepeneur4lyf/go-repomap](https://github.com/entrepeneur4lyf/go-repomap) - Go package to produce a repomap based on tree-sitter
+- [eas4ai/go-repomap](https://github.com/eas4ai/go-repomap) - Go package to produce a repomap based on tree-sitter
 - [vedhavyas/zwfp](https://github.com/vedhavyas/zwfp) - Zero-Width fingerprinting
 - [ariga/atlas](https://github.com/ariga/atlas) - Declarative schema migrations with schema-as-code workflows
 - [drone/go-license](https://github.com/drone/go-license) - Package license provides software license management utilities
@@ -819,7 +819,6 @@
 
 ## Others 
 
-- [teodorgross/awesome-ai](https://github.com/teodorgross/awesome-ai) - The first automated AI tool discovery platform using the revolutionary .awesome-ai.md standard. Real-time GitHub scanning, automated curation, and live leaderboards for AI tools.
 - [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) - Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [sanjay10985/animated-react-collection](https://github.com/sanjay10985/animated-react-collection) - 
