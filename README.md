@@ -139,6 +139,7 @@
 
 ## Go 
 
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 - [toaweme/cli](https://github.com/toaweme/cli) - Build powerful Golang CLI apps with zero effort
 - [toaweme/http](https://github.com/toaweme/http) - Golang HTTP client and (chi) server
@@ -797,7 +798,7 @@
 
 ## Meson 
 
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+- [frida/frida](https://github.com/frida/frida) - Main repo for hosting release binaries
 
 ## Mustache 
 
