@@ -630,7 +630,6 @@
 ## JavaScript 
 
 - [mordiaky/cws-gate](https://github.com/mordiaky/cws-gate) - Free, dependency-free CLI + GitHub Action that scans a local unpacked Chrome extension for Manifest V3 / Web Store pre-submission issues. Zero network access, zero runtime dependencies. Independent ch
-- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [rebrowser/rebrowser-patches](https://github.com/rebrowser/rebrowser-patches) - Collection of patches for puppeteer and playwright to avoid automation detection and leaks. Helps to avoid Cloudflare and DataDome CAPTCHA pages. Easy to patch/unpatch, can be enabled/disabled on dema
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
@@ -1114,6 +1113,7 @@
 ## TypeScript 
 
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [logto-io/js](https://github.com/logto-io/js) - 🤓 Logto Node.js, browser, and edge computing SDKs.
