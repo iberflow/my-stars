@@ -944,7 +944,7 @@
 
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [the-open-agent/oss-skills](https://github.com/the-open-agent/oss-skills) - Skills to make a 10,000 stars GitHub open-source project
-- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That  Learns
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 - [smittix/intercept](https://github.com/smittix/intercept) - iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface.
 - [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Your second brain, starting today. CLI + MCP server that helps you build, maintain, and search a knowledge vault that gets better every day. Works with any AI provider. Local-first, zero-prereq instal
 - [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
