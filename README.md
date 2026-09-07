@@ -539,7 +539,7 @@
 - [rgzr/sshtun](https://github.com/rgzr/sshtun) - Go package to create SSH tunnels
 - [hashicorp/go-sockaddr](https://github.com/hashicorp/go-sockaddr) - IP Address/UNIX Socket convenience functions for Go
 - [mitchellh/cli](https://github.com/mitchellh/cli) - A Go library for implementing command-line interfaces.
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [schollz/peerdiscovery](https://github.com/schollz/peerdiscovery) - Pure-Go library for cross-platform local peer discovery using UDP multicast :woman: :repeat: :woman:
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -943,6 +943,7 @@
 
 ## Python 
 
+- [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [the-open-agent/oss-skills](https://github.com/the-open-agent/oss-skills) - Skills to make a 10,000 stars GitHub open-source project
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
@@ -1050,7 +1051,7 @@
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [in-toto/attestation](https://github.com/in-toto/attestation) - in-toto Attestation Framework
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
