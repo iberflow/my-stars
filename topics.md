@@ -2215,7 +2215,7 @@
 
 ## markdown 
 
-- [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Your second brain, starting today. CLI + MCP server that helps you build, maintain, and search a knowledge vault that gets better every day. Works with any AI provider. Local-first, zero-prereq instal
+- [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Local RAG layer and optimizer for your Markdown knowledge base. CLI + MCP server: grounded answers for any AI client, stale-note detection, session harvesting into memories. Local-first.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
@@ -2249,7 +2249,7 @@
 
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-- [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Your second brain, starting today. CLI + MCP server that helps you build, maintain, and search a knowledge vault that gets better every day. Works with any AI provider. Local-first, zero-prereq instal
+- [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Local RAG layer and optimizer for your Markdown knowledge base. CLI + MCP server: grounded answers for any AI client, stale-note detection, session harvesting into memories. Local-first.
 - [second-state/echokit_server](https://github.com/second-state/echokit_server) - Open Source Voice Agent Platform
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2455,13 +2455,13 @@
 
 ## obsidian 
 
-- [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Your second brain, starting today. CLI + MCP server that helps you build, maintain, and search a knowledge vault that gets better every day. Works with any AI provider. Local-first, zero-prereq instal
+- [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Local RAG layer and optimizer for your Markdown knowledge base. CLI + MCP server: grounded answers for any AI client, stale-note detection, session harvesting into memories. Local-first.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 
 ## open-source 
 
 - [the-open-agent/oss-skills](https://github.com/the-open-agent/oss-skills) - Skills to make a 10,000 stars GitHub open-source project
-- [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Your second brain, starting today. CLI + MCP server that helps you build, maintain, and search a knowledge vault that gets better every day. Works with any AI provider. Local-first, zero-prereq instal
+- [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Local RAG layer and optimizer for your Markdown knowledge base. CLI + MCP server: grounded answers for any AI client, stale-note detection, session harvesting into memories. Local-first.
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -2785,7 +2785,6 @@
 - [iotaledger-archive/legacy-wallet-use-trinity-wallet-instead](https://github.com/iotaledger-archive/legacy-wallet-use-trinity-wallet-instead) - IOTA Wallet
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [hackergrrl/electron-speech](https://github.com/hackergrrl/electron-speech) - :microphone: Easy speech recognition in Node!
 - [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
 - [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [PhABC/antiScamBot_slack](https://github.com/PhABC/antiScamBot_slack) - Will monitor slack channels to reduce scam potentials and increase user security
@@ -3020,7 +3019,7 @@
 ## python 
 
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-- [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Your second brain, starting today. CLI + MCP server that helps you build, maintain, and search a knowledge vault that gets better every day. Works with any AI provider. Local-first, zero-prereq instal
+- [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Local RAG layer and optimizer for your Markdown knowledge base. CLI + MCP server: grounded answers for any AI client, stale-note detection, session harvesting into memories. Local-first.
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
@@ -3073,7 +3072,7 @@
 
 ## rag 
 
-- [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Your second brain, starting today. CLI + MCP server that helps you build, maintain, and search a knowledge vault that gets better every day. Works with any AI provider. Local-first, zero-prereq instal
+- [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Local RAG layer and optimizer for your Markdown knowledge base. CLI + MCP server: grounded answers for any AI client, stale-note detection, session harvesting into memories. Local-first.
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [mamei16/LLM_Web_search](https://github.com/mamei16/LLM_Web_search) - An extension for  oobabooga/text-generation-webui that enables the LLM to search the web
 - [edit4i/editor](https://github.com/edit4i/editor) - An open-source alternative to Cursor, Windsurf (Local RAG, Bring your own LLM, Agents). Written in golang
