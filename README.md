@@ -610,7 +610,6 @@
 - [themsaid/katana](https://github.com/themsaid/katana) - Laravel static site/blog generator with markdown support.
 - [LaravelDaily/laravel-vilnius](https://github.com/LaravelDaily/laravel-vilnius) - Laravel Vilnius Meetup group - slides and links
 - [sunra/php-simple-html-dom-parser](https://github.com/sunra/php-simple-html-dom-parser) - PHP Simple HTML DOM Parser adaptation for Composer and PSR-0
-- [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 
 ## Java 
 
@@ -755,6 +754,7 @@
 - [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 - [Antonio-Laguna/jQuery-ColorPicker](https://github.com/Antonio-Laguna/jQuery-ColorPicker) - This is yet another colorpicker plugin for jQuery since most of them are not on GitHub nor being mantained at the moment.
 - [iberflow/ember-history](https://github.com/iberflow/ember-history) - Undo / Redo for Emberjs
+- [foundation/yeti](https://github.com/foundation/yeti) - A CSS-first, native, zero-build layout and styling framework for web designers.
 
 ## Jinja 
 
