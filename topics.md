@@ -256,6 +256,7 @@
 - [web3](#web3)
 - [webapp](#webapp)
 - [webpack](#webpack)
+- [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
@@ -828,6 +829,7 @@
 - [ines/termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await
 - [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts) - CSS Working Group Editor Drafts
+- [foundation/yeti](https://github.com/foundation/yeti) - A CSS-first, native, zero-build layout and styling framework for web designers.
 
 ## cybersecurity 
 
@@ -1799,6 +1801,7 @@
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
+- [foundation/yeti](https://github.com/foundation/yeti) - A CSS-first, native, zero-build layout and styling framework for web designers.
 
 ## http 
 
@@ -2870,7 +2873,6 @@
 - [Antonio-Laguna/jQuery-ColorPicker](https://github.com/Antonio-Laguna/jQuery-ColorPicker) - This is yet another colorpicker plugin for jQuery since most of them are not on GitHub nor being mantained at the moment.
 - [iberflow/ember-history](https://github.com/iberflow/ember-history) - Undo / Redo for Emberjs
 - [JasonKaz/Bootstrap-Form-Builder](https://github.com/JasonKaz/Bootstrap-Form-Builder) - Allows creation of Twitter Bootstrap forms in PHP
-- [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [zfoley/PhysicsCannonGameSource](https://github.com/zfoley/PhysicsCannonGameSource) - Full game source of Box2D v 2.1a Physics Cannon game
 
 ## p2p 
@@ -3720,6 +3722,10 @@
 
 - [davidnguyen11/web-extension-boilerplate](https://github.com/davidnguyen11/web-extension-boilerplate) - The web extension boilerplate help to set up project quickly using typescript, jest, webpack, githook, prettier and github actions
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+
+## website 
+
+- [foundation/yeti](https://github.com/foundation/yeti) - A CSS-first, native, zero-build layout and styling framework for web designers.
 
 ## windows 
 
