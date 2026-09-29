@@ -440,7 +440,7 @@
 
 ## api 
 
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Connect your agents & product to 1,000 APIs.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [dank/rlapi](https://github.com/dank/rlapi) - Reverse engineered Rocket League internal HTTP & WebSocket API
@@ -2052,7 +2052,7 @@
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 12 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). 
+- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel Auth is a Complete Build of Laravel 13 with Email Registration Verification, Social Authentication, User Roles and Permissions, User Profiles, and Admin restricted user management system. Buil
 - [laralib/l5scaffold](https://github.com/laralib/l5scaffold) - Scaffold generator for Laravel 5.x
 - [kristijanhusak/laravel-form-builder](https://github.com/kristijanhusak/laravel-form-builder) - Laravel Form builder for version 5+!
 
@@ -2147,7 +2147,7 @@
 
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
-- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 12 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). 
+- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel Auth is a Complete Build of Laravel 13 with Email Registration Verification, Social Authentication, User Roles and Permissions, User Profiles, and Admin restricted user management system. Buil
 
 ## login 
 
@@ -2951,7 +2951,7 @@
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 12 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). 
+- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel Auth is a Complete Build of Laravel 13 with Email Registration Verification, Social Authentication, User Roles and Permissions, User Profiles, and Admin restricted user management system. Buil
 - [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
 - [funivan/PhpTokenizer](https://github.com/funivan/PhpTokenizer) - Wrapper around token_get_all. Easy way to extract and modify yout code
 - [laralib/l5scaffold](https://github.com/laralib/l5scaffold) - Scaffold generator for Laravel 5.x
@@ -3545,7 +3545,7 @@
 
 ## twitter 
 
-- [socioboard/Socioboard-5.0](https://github.com/socioboard/Socioboard-5.0) - Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.
+- [Socioboard-developers/Socioboard-5.0](https://github.com/Socioboard-developers/Socioboard-5.0) - Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.
 
 ## typescript 
 
