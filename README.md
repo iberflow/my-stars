@@ -341,7 +341,7 @@
 - [casdoor/traefik-casdoor-auth](https://github.com/casdoor/traefik-casdoor-auth) - Traefik ForwardAuth middleware powered by Casdoor: https://doc.traefik.io/traefik/middlewares/http/forwardauth
 - [mattn/goveralls](https://github.com/mattn/goveralls) - 
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
+- [openfga/openfga](https://github.com/openfga/openfga) - A high-performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [zwgblue/yaml-encoder](https://github.com/zwgblue/yaml-encoder) - A yaml encoder which implements yaml.Marshaler with comments
 - [inngest/inngestgo](https://github.com/inngest/inngestgo) - Durable execution in Go with the Golang Inngest SDK.  Write durable functions in your existing app.
