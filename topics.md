@@ -1204,6 +1204,7 @@
 
 ## git 
 
+- [toaweme/codeview](https://github.com/toaweme/codeview) - Fast, self-hosted, read-only web UI for browsing git repositories. Code, commits, diffs, blame and file search.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [bluekeyes/go-gitdiff](https://github.com/bluekeyes/go-gitdiff) - Go library for parsing and applying patches created by Git
@@ -1420,6 +1421,7 @@
 
 ## golang 
 
+- [toaweme/codeview](https://github.com/toaweme/codeview) - Fast, self-hosted, read-only web UI for browsing git repositories. Code, commits, diffs, blame and file search.
 - [toaweme/cli](https://github.com/toaweme/cli) - Build powerful Golang CLI apps with zero effort
 - [toaweme/http](https://github.com/toaweme/http) - Golang HTTP client and (chi) server
 - [toaweme/structs](https://github.com/toaweme/structs) - Golang structs with auto-fill magic
@@ -3320,6 +3322,7 @@
 
 ## self-hosted 
 
+- [toaweme/codeview](https://github.com/toaweme/codeview) - Fast, self-hosted, read-only web UI for browsing git repositories. Code, commits, diffs, blame and file search.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
