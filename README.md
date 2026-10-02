@@ -1114,6 +1114,7 @@
 
 ## TypeScript 
 
+- [toaweme/codeview](https://github.com/toaweme/codeview) - Fast, self-hosted, read-only web UI for browsing git repositories. Code, commits, diffs, blame and file search.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Connect your agents & product to 1,000 APIs.
