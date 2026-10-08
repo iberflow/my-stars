@@ -376,7 +376,6 @@
 
 ## algorithms 
 
-- [montanaflynn/stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
 ## amphp 
@@ -1328,7 +1327,6 @@
 - [hypebeast/go-osc](https://github.com/hypebeast/go-osc) - Open Sound Control (OSC) library for Golang. Implemented in pure Go.
 - [wamuir/graft](https://github.com/wamuir/graft) - Go language bindings to the TensorFlow C API
 - [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
-- [montanaflynn/stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
@@ -2541,6 +2539,7 @@
 
 ## others 
 
+- [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Email for professionals and teams
 - [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
@@ -2655,7 +2654,7 @@
 - [janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
 - [ckstevenson/ansible-role-headscale](https://github.com/ckstevenson/ansible-role-headscale) - An Ansible role for installing and configuring headsclae
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [casdoor/casdoor-forward-auth](https://github.com/casdoor/casdoor-forward-auth) - Traefik ForwardAuth middleware powered by Casdoor: https://doc.traefik.io/traefik/middlewares/http/forwardauth
+- [casdoor/casdoor-forward-auth](https://github.com/casdoor/casdoor-forward-auth) - Forward auth service for Traefik, Caddy and Nginx, powered by Casdoor
 - [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
 - [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
 - [mattn/goveralls](https://github.com/mattn/goveralls) - 
