@@ -338,7 +338,7 @@
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
-- [casdoor/casdoor-forward-auth](https://github.com/casdoor/casdoor-forward-auth) - Traefik ForwardAuth middleware powered by Casdoor: https://doc.traefik.io/traefik/middlewares/http/forwardauth
+- [casdoor/casdoor-forward-auth](https://github.com/casdoor/casdoor-forward-auth) - Forward auth service for Traefik, Caddy and Nginx, powered by Casdoor
 - [mattn/goveralls](https://github.com/mattn/goveralls) - 
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [openfga/openfga](https://github.com/openfga/openfga) - A high-performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.
