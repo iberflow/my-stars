@@ -738,7 +738,7 @@
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [bradstewart/electron-boilerplate-vue](https://github.com/bradstewart/electron-boilerplate-vue) - Boilerplate application for Electron runtime
 - [keithclark/fuse-devtools](https://github.com/keithclark/fuse-devtools) - A boilerplate for creating a devtools extension for multiple browsers from a single code base.
-- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel Auth is a Complete Build of Laravel 13 with Email Registration Verification, Social Authentication, User Roles and Permissions, User Profiles, and Admin restricted user management system. Buil
+- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - A complete Laravel 13 application foundation: email verification, social sign in, roles and permissions, user profiles, and admin user management.
 - [jonstuebe/product-scraper](https://github.com/jonstuebe/product-scraper) - Node.js based scraper for ecommerce sites
 - [octalmage/active-window](https://github.com/octalmage/active-window) - Get active window title in Node.js.
 - [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
