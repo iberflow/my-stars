@@ -2052,7 +2052,7 @@
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel Auth is a Complete Build of Laravel 13 with Email Registration Verification, Social Authentication, User Roles and Permissions, User Profiles, and Admin restricted user management system. Buil
+- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - A complete Laravel 13 application foundation: email verification, social sign in, roles and permissions, user profiles, and admin user management.
 - [laralib/l5scaffold](https://github.com/laralib/l5scaffold) - Scaffold generator for Laravel 5.x
 - [kristijanhusak/laravel-form-builder](https://github.com/kristijanhusak/laravel-form-builder) - Laravel Form builder for version 5+!
 
@@ -2147,7 +2147,7 @@
 
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
-- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel Auth is a Complete Build of Laravel 13 with Email Registration Verification, Social Authentication, User Roles and Permissions, User Profiles, and Admin restricted user management system. Buil
+- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - A complete Laravel 13 application foundation: email verification, social sign in, roles and permissions, user profiles, and admin user management.
 
 ## login 
 
@@ -2952,7 +2952,7 @@
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel Auth is a Complete Build of Laravel 13 with Email Registration Verification, Social Authentication, User Roles and Permissions, User Profiles, and Admin restricted user management system. Buil
+- [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - A complete Laravel 13 application foundation: email verification, social sign in, roles and permissions, user profiles, and admin user management.
 - [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
 - [funivan/PhpTokenizer](https://github.com/funivan/PhpTokenizer) - Wrapper around token_get_all. Easy way to extract and modify yout code
 - [laralib/l5scaffold](https://github.com/laralib/l5scaffold) - Scaffold generator for Laravel 5.x
