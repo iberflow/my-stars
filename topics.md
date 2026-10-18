@@ -295,6 +295,7 @@
 - [helixml/helix](https://github.com/helixml/helix) - ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini and open models on a full private AI Stack ♾️
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [neurocult/agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)
 - [MeetKai/functionary](https://github.com/MeetKai/functionary) - Chat language model that can use tools and interpret the results
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -303,7 +304,7 @@
 
 ## ai 
 
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [second-state/echokit_box](https://github.com/second-state/echokit_box) - ESP32 firmware for the EchoKit voice device
@@ -368,7 +369,6 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)
 - [MeetKai/functionary](https://github.com/MeetKai/functionary) - Chat language model that can use tools and interpret the results
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 
@@ -492,7 +492,7 @@
 
 ## automation 
 
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
 - [rebrowser/rebrowser-patches](https://github.com/rebrowser/rebrowser-patches) - Collection of patches for puppeteer and playwright to avoid automation detection and leaks. Helps to avoid Cloudflare and DataDome CAPTCHA pages. Easy to patch/unpatch, can be enabled/disabled on dema
 - [lifeparticle/SelectStar](https://github.com/lifeparticle/SelectStar) - ⭐️ Compare GitHub Repositories Based on the Number of Stars and Other Relevant Parameters
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
@@ -794,7 +794,7 @@
 
 ## crawler 
 
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [rebrowser/rebrowser-patches](https://github.com/rebrowser/rebrowser-patches) - Collection of patches for puppeteer and playwright to avoid automation detection and leaks. Helps to avoid Cloudflare and DataDome CAPTCHA pages. Easy to patch/unpatch, can be enabled/disabled on dema
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
@@ -842,7 +842,7 @@
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report - 600+ exploits, 90+ integrations, 10K+ detections.
 
 ## dart 
 
@@ -851,7 +851,7 @@
 
 ## data 
 
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [montanaflynn/stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
 - [dataplane-app/dataplane](https://github.com/dataplane-app/dataplane) - Dataplane is an Airflow inspired unified data platform with additional data mesh and RPA capability to automate, schedule and design data pipelines and workflows. Dataplane is written in Golang with a
@@ -859,7 +859,6 @@
 ## data-analysis 
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)
 - [dataplane-app/dataplane](https://github.com/dataplane-app/dataplane) - Dataplane is an Airflow inspired unified data platform with additional data mesh and RPA capability to automate, schedule and design data pipelines and workflows. Dataplane is written in Golang with a
 
 ## data-engineering 
@@ -871,7 +870,6 @@
 
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)
 - [dataplane-app/dataplane](https://github.com/dataplane-app/dataplane) - Dataplane is an Airflow inspired unified data platform with additional data mesh and RPA capability to automate, schedule and design data pipelines and workflows. Dataplane is written in Golang with a
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 
@@ -1528,7 +1526,6 @@
 - [wamuir/graft](https://github.com/wamuir/graft) - Go language bindings to the TensorFlow C API
 - [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)
 - [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way
@@ -1678,13 +1675,13 @@
 ## hacking 
 
 - [aaaguirrep/offensive-docker](https://github.com/aaaguirrep/offensive-docker) - Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report - 600+ exploits, 90+ integrations, 10K+ detections.
 - [screetsec/Dracnmap](https://github.com/screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and dif
 
 ## hacking-tools 
 
 - [aaaguirrep/offensive-docker](https://github.com/aaaguirrep/offensive-docker) - Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report - 600+ exploits, 90+ integrations, 10K+ detections.
 
 ## hacktoberfest 
 
@@ -1721,7 +1718,6 @@
 - [openfga/openfga](https://github.com/openfga/openfga) - A high-performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.
 - [hashicorp/boundary-ui](https://github.com/hashicorp/boundary-ui) - Monorepo for Boundary UIs and addons.
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [anchore/binny](https://github.com/anchore/binny) - Manage a directory of binaries without a package manager
@@ -2000,7 +1996,6 @@
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)
 - [JanssenProject/jans](https://github.com/JanssenProject/jans) - The Janssen Project is a home for open source IAM components, featuring Auth Server (OAuth/OpenID), Agama low-code identity orchestration, and the Cedarling policy decision point. The "Janssen Server"
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -2123,7 +2118,6 @@
 - [ollama-cloud/get-started](https://github.com/ollama-cloud/get-started) - Ollama Cloud is a Highly Scalable Cloud-native Stack for Ollama
 - [neurocult/agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
 - [pratyushasharma/laser](https://github.com/pratyushasharma/laser) - The Truth Is In There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
@@ -2259,11 +2253,12 @@
 
 ## mcp 
 
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Local RAG layer and optimizer for your Markdown knowledge base. CLI + MCP server: grounded answers for any AI client, stale-note detection, session harvesting into memories. Local-first.
 - [second-state/echokit_server](https://github.com/second-state/echokit_server) - Open Source Voice Agent Platform
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -2904,12 +2899,12 @@
 
 ## penetration-testing 
 
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report - 600+ exploits, 90+ integrations, 10K+ detections.
 
 ## pentesting 
 
 - [aaaguirrep/offensive-docker](https://github.com/aaaguirrep/offensive-docker) - Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report - 600+ exploits, 90+ integrations, 10K+ detections.
 
 ## perl 
 
@@ -3030,7 +3025,7 @@
 
 ## python 
 
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
 - [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Local RAG layer and optimizer for your Markdown knowledge base. CLI + MCP server: grounded answers for any AI client, stale-note detection, session harvesting into memories. Local-first.
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
@@ -3203,6 +3198,7 @@
 
 ## reinforcement-learning 
 
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 
 ## rest-api 
@@ -3304,7 +3300,7 @@
 - [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report - 600+ exploits, 90+ integrations, 10K+ detections.
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 - [sensiolabs/security-checker](https://github.com/sensiolabs/security-checker) - PHP frontend for security.symfony.com
 
@@ -3318,7 +3314,7 @@
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report - 600+ exploits, 90+ integrations, 10K+ detections.
 
 ## self-hosted 
 
