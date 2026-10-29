@@ -845,6 +845,7 @@
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
 - [unicodeveloper/laravel-exam](https://github.com/unicodeveloper/laravel-exam) - :books: :memo: A Laravel exam with questions from beginner to expert curated by @unicodeveloper
+- [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift: a map to Perfect's Swift 6 packages: HTTP server, databases, sessions, sign-in, email, FileMaker and more. PerfectLib is on the legacy branch.
 - [ncsoft/Unreal.js](https://github.com/ncsoft/Unreal.js) - Unreal.js: Javascript runtime built for UnrealEngine
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
 - [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
@@ -1103,7 +1104,6 @@
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [andrewginns/CoreMLPlayer](https://github.com/andrewginns/CoreMLPlayer) - Try CoreML models on multiple images and videos easily and quickly
 - [exyte/Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics Swift library with SVG support
-- [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect) - Legacy Perfect - Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
 
 ## TeX 
 
@@ -1180,7 +1180,7 @@
 - [sibiraj-s/marked-react](https://github.com/sibiraj-s/marked-react) - ⚛️ Render Markdown as React components
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [meta/lexical](https://github.com/meta/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
