@@ -18,6 +18,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [ansible](#ansible)
 - [api](#api)
 - [archlinux](#archlinux)
@@ -292,6 +293,7 @@
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
+- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - ✨ Build a machine learning model from a prompt
@@ -430,6 +432,17 @@
 - [krakenjs/zoid](https://github.com/krakenjs/zoid) - Cross domain components
 - [Strider-CD/strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+
+## animation 
+
+- [sanjay10985/animated-react-collection](https://github.com/sanjay10985/animated-react-collection) - 
+- [aws-samples/amazon-sumerian-hosts](https://github.com/aws-samples/amazon-sumerian-hosts) - Amazon Sumerian Hosts (Hosts) is an experimental open source project that aims to make it easy to create interactive animated 3D characters for Babylon.js, three.js, and other web 3D frameworks. It le
+- [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
+- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
+- [ines/termynal](https://github.com/ines/termynal) - ⬛️ Lightweight and modern terminal animations using async/await
+- [exyte/Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics Swift library with SVG support
 
 ## ansible 
 
@@ -2493,7 +2506,7 @@
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
-- [pieeg-club/EEGwithRaspberryPI](https://github.com/pieeg-club/EEGwithRaspberryPI) - Not supported. Measure 8 EEG channels with Shield PiEEG and RaspberryPi in C library
+- [pieeg-club/EEGwithRaspberryPI](https://github.com/pieeg-club/EEGwithRaspberryPI) - Measure 8 EEG channels with Shield PiEEG-8 and RaspberryPi
 - [Cian911/switchboard](https://github.com/Cian911/switchboard) - Automated file organisation and routing for all your machines. :open_file_folder:
 - [ory/polis](https://github.com/ory/polis) - Streamline your web application's authentication with Polis, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via th
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -2547,7 +2560,6 @@
 - [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Email for professionals and teams
 - [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
-- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 - [smittix/intercept](https://github.com/smittix/intercept) - iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface.
 - [kenn-io/roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 - [antonmedv/finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
@@ -2591,7 +2603,6 @@
 - [invopop/jsonschema](https://github.com/invopop/jsonschema) - Generate JSON Schemas from Go types
 - [yasudacloud/strapi-plugin-sso](https://github.com/yasudacloud/strapi-plugin-sso) - 
 - [DarkInventor/easy-ui](https://github.com/DarkInventor/easy-ui) - 100% FREE Collection of Premium Web Templates and Components -- Open Source 🌟
-- [sanjay10985/animated-react-collection](https://github.com/sanjay10985/animated-react-collection) - 
 - [charles-d-burton/fileconversion](https://github.com/charles-d-burton/fileconversion) - A Go library to convert various file formats to plaintext and provide related functions
 - [ryanolee/go-pot](https://github.com/ryanolee/go-pot) - A service for giving away secrets to bots ...Probably slightly too many!
 - [eas4ai/go-repomap](https://github.com/eas4ai/go-repomap) - Go package to produce a repomap based on tree-sitter
@@ -3121,7 +3132,7 @@
 ## raspberry-pi 
 
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
-- [pieeg-club/EEGwithRaspberryPI](https://github.com/pieeg-club/EEGwithRaspberryPI) - Not supported. Measure 8 EEG channels with Shield PiEEG and RaspberryPi in C library
+- [pieeg-club/EEGwithRaspberryPI](https://github.com/pieeg-club/EEGwithRaspberryPI) - Measure 8 EEG channels with Shield PiEEG-8 and RaspberryPi
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
 
