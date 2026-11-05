@@ -604,6 +604,7 @@
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
 - [cruip/cruip-tutorials](https://github.com/cruip/cruip-tutorials) - A repository of Cruip's guides & tutorials in HTML made with HTML, Tailwind CSS and Alpine.js
 - [nidorx/go-bench-viewer](https://github.com/nidorx/go-bench-viewer) - Easy and intuitive Go Benchmark Results Viewer.
+- [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
 - [maizzle/starter-postmark](https://github.com/maizzle/starter-postmark) - A Maizzle starter based on Postmark's transactional email templates.
 - [taketheumbrella/Aurelija-Gerda](https://github.com/taketheumbrella/Aurelija-Gerda) - 
@@ -976,7 +977,6 @@
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [pieeg-club/EEGwithRaspberryPI](https://github.com/pieeg-club/EEGwithRaspberryPI) - Measure 8 EEG channels with Shield PiEEG-8 and RaspberryPi
 - [pratyushasharma/laser](https://github.com/pratyushasharma/laser) - The Truth Is In There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -1097,6 +1097,7 @@
 ## Svelte 
 
 - [edit4i/editor](https://github.com/edit4i/editor) - An open-source alternative to Cursor, Windsurf (Local RAG, Bring your own LLM, Agents). Written in golang
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [vnphanquang/svelte-put](https://github.com/vnphanquang/svelte-put) - Useful svelte stuff to put in your projects
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
 
@@ -1176,7 +1177,6 @@
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core) - Flagpack contains 250+ flag icons to easily use within your code project.
-- [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [milesj/interweave](https://github.com/milesj/interweave) - 🌀 React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
 - [sibiraj-s/marked-react](https://github.com/sibiraj-s/marked-react) - ⚛️ Render Markdown as React components
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
