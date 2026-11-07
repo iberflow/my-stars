@@ -324,7 +324,7 @@
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [williammoran/triggeredloghandler](https://github.com/williammoran/triggeredloghandler) - A log handler for Go that only sends messages when triggered by sufficient severity.
 - [connectrpc/authn-go](https://github.com/connectrpc/authn-go) - Authentication middleware for Connect.
-- [sudorandom/protoc-gen-connect-openapi](https://github.com/sudorandom/protoc-gen-connect-openapi) - Plugin for generating OpenAPIv3 from protobufs matching the Connect RPC interface
+- [connectrpc/protoc-gen-connect-openapi](https://github.com/connectrpc/protoc-gen-connect-openapi) - Plugin for generating OpenAPIv3 from protobufs matching the Connect RPC interface
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [HomayoonAlimohammadi/mini-grpc-gateway](https://github.com/HomayoonAlimohammadi/mini-grpc-gateway) - Minimal gRPC-REST Gateway implementation. Make sure to checkout the Medium Blog as well.
 - [jannden/golang-examples](https://github.com/jannden/golang-examples) - 
