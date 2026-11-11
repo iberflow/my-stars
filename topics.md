@@ -263,6 +263,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
@@ -2596,7 +2597,7 @@
 - [tiktoken-go/tokenizer](https://github.com/tiktoken-go/tokenizer) - Pure Go implementation of OpenAI's tiktoken tokenizer
 - [x0rz/EQGRP_Lost_in_Translation](https://github.com/x0rz/EQGRP_Lost_in_Translation) - Decrypted content of odd.tar.xz.gpg, swift.tar.xz.gpg and windows.tar.xz.gpg
 - [xaionaro/documentation](https://github.com/xaionaro/documentation) - Any documentation
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [siderolabs/omni](https://github.com/siderolabs/omni) - SaaS-simple deployment of Kubernetes - on your own hardware.
@@ -2871,7 +2872,6 @@
 - [yuri-gushin/Roboo](https://github.com/yuri-gushin/Roboo) - Roboo - HTTP Robot Mitigator
 - [unicodeveloper/laravel-exam](https://github.com/unicodeveloper/laravel-exam) - :books: :memo: A Laravel exam with questions from beginner to expert curated by @unicodeveloper
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
-- [jonstuebe/product-scraper](https://github.com/jonstuebe/product-scraper) - Node.js based scraper for ecommerce sites
 - [Torann/skosh](https://github.com/Torann/skosh) - Skosh is a simple static site generator for PHP using Gulp.
 - [Torann/laravel-currency](https://github.com/Torann/laravel-currency) - This provides Laravel with currency functions such as currency formatting and conversion using up-to-date exchange rates.
 - [Torann/lyften.com](https://github.com/Torann/lyften.com) - Source for Lyften.com using Skosh, the static site generator.
@@ -3782,6 +3782,10 @@
 ## website 
 
 - [foundation/yeti](https://github.com/foundation/yeti) - A CSS-first, native, zero-build layout and styling framework for web designers.
+
+## whatsapp 
+
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 ## windows 
 
