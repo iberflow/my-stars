@@ -85,7 +85,7 @@
 
 ## C++ 
 
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [mykk/cpp17_monadic_operations](https://github.com/mykk/cpp17_monadic_operations) - 
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
@@ -738,7 +738,6 @@
 - [bradstewart/electron-boilerplate-vue](https://github.com/bradstewart/electron-boilerplate-vue) - Boilerplate application for Electron runtime
 - [keithclark/fuse-devtools](https://github.com/keithclark/fuse-devtools) - A boilerplate for creating a devtools extension for multiple browsers from a single code base.
 - [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - A complete Laravel 13 application foundation: email verification, social sign in, roles and permissions, user profiles, and admin user management.
-- [jonstuebe/product-scraper](https://github.com/jonstuebe/product-scraper) - Node.js based scraper for ecommerce sites
 - [octalmage/active-window](https://github.com/octalmage/active-window) - Get active window title in Node.js.
 - [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [willgm/ngSelectable](https://github.com/willgm/ngSelectable) - AngularJS bindings for jQuery UI Selectable
@@ -1156,6 +1155,7 @@
 - [miners-online/logto-account-manager](https://github.com/miners-online/logto-account-manager) - A Shadcn/UI and Next JS "My Account" dashboard built for use with the Logto Authentication Platform.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Web extension template to build Chrome and Firefox extensions quickly. Setup with React 19, Typescript and TailwindCSS
+- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [DarkInventor/easy-ui](https://github.com/DarkInventor/easy-ui) - 100% FREE Collection of Premium Web Templates and Components -- Open Source 🌟
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) - New design 🎉 Nextjs + Shadcn + TypeScript + Tailwind. Landing page template ease-to-use
@@ -1255,7 +1255,6 @@
 ## Vue 
 
 - [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
-- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [markrassamni/inline-boolean](https://github.com/markrassamni/inline-boolean) - Adds the ability to edit a boolean field directly from the index or detail page of a resource.
 - [gbaptista/elastic-calculator](https://github.com/gbaptista/elastic-calculator) - Elasticsearch cluster calculator: How many shards and replicas should I have?
 - [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
