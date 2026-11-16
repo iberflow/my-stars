@@ -170,7 +170,6 @@
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [dank/rlapi](https://github.com/dank/rlapi) - Reverse engineered Rocket League internal HTTP & WebSocket API
 - [kaptinlin/jsonschema](https://github.com/kaptinlin/jsonschema) - Go library for JSON Schema Draft 2020-12 validation with enhanced outputs and multilingual error messages
-- [enetx/surf](https://github.com/enetx/surf) - SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.
 - [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
 - [jackfr0st13/gorm-sqlite-cipher](https://github.com/jackfr0st13/gorm-sqlite-cipher) - SQLite driver for GORM supporting encryption
 - [Atheer-Ganayem/SnapWS](https://github.com/Atheer-Ganayem/SnapWS) - Minimal WebSocket library for Go.
