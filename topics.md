@@ -2586,7 +2586,6 @@
 - [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various
 - [madtyping/keyboard-localizations](https://github.com/madtyping/keyboard-localizations) - 
 - [kaptinlin/jsonschema](https://github.com/kaptinlin/jsonschema) - Go library for JSON Schema Draft 2020-12 validation with enhanced outputs and multilingual error messages
-- [enetx/surf](https://github.com/enetx/surf) - SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.
 - [mutecomm/go-sqlcipher](https://github.com/mutecomm/go-sqlcipher) - Self-contained Go sqlite3 driver with an AES-256 encrypted sqlite3 database
 - [jackfr0st13/gorm-sqlite-cipher](https://github.com/jackfr0st13/gorm-sqlite-cipher) - SQLite driver for GORM supporting encryption
 - [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go
